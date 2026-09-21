@@ -2,7 +2,7 @@
 
 **VIS-RFSU-001 / v1.0 / 2026-09-21**
 
-En första grafisk arbetsversion är framtagen och har en reserverad plats i repositoryt.
+En första grafisk arbetsversion är framtagen och har en reserverad plats i samarbetsytan.
 
 ## Bildens funktion
 
