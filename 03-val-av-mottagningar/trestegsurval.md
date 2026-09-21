@@ -1,49 +1,101 @@
-# Trestegsurval för mottagningar
+# Trestegsurval — praktisk modell
 
-Vi börjar med ett brett arbetsregister. Själva urvalet sker sedan i tre steg.
+Den praktiska urvalsmodellen används efter att ett brett mottagningsregister har etablerats.
 
-## Steg 1 — Gate: passar mottagningen uppdragets studieobjekt?
+## Översikt
 
-Vi prövar fem grundfrågor:
+**Register → Steg 1: Grundkrav → Steg 2: Relevans → Steg 3: Palett → Dialog med RFSU → Tre mottagningar**
 
-| Fråga | Bedömning |
+---
+
+## Steg 1 — Grundkrav
+
+### Fråga
+
+**Ligger mottagningen tillräckligt nära det studieobjekt som RFSU beskriver?**
+
+### Bedömning
+
+| Kriterium | Bedömning |
 |---|---|
-| Finns en tydlig vuxenfunktion efter ungdomsmottagningsåldern? | Ja / Oklart / Nej |
-| Är sexuell hälsa ett kärnuppdrag? | Ja / Oklart / Nej |
-| Arbetar verksamheten holistiskt? | Ja / Oklart / Nej |
-| Arbetar flera professioner tillsammans? | Ja / Oklart / Nej |
-| Finns stöd för ett personcentrerat arbetssätt? | Ja / Oklart / Nej |
+| Vuxenfunktion efter ungdomsmottagningsåldern | Ja / Oklart / Nej |
+| Sexuell hälsa som kärnuppdrag | Ja / Oklart / Nej |
+| Holistiskt arbetssätt | Ja / Oklart / Nej |
+| Multidisciplinärt arbetssätt | Ja / Oklart / Nej |
+| Personcentrerat arbetssätt | Ja / Oklart / Nej |
 
-Om information saknas blir svaret **Oklart**. Vi fyller inte luckor med antaganden.
+### Utfall
 
-Gate är inte ett kvalitetsbetyg. Den avgör bara om mottagningen passar det studieobjekt RFSU beskriver.
+- **Vid tydlig passform:** mottagningen går vidare till relevansbedömning.
+- **Vid oklarhet:** frågan dokumenteras för verifiering.
+- **Vid tydlig bristande passform:** mottagningen ligger kvar i det breda registret men förs normalt inte vidare som huvudkandidat.
 
-## Steg 2 — Relevans: vad kan mottagningen hjälpa oss att förstå?
+---
 
-För mottagningar som passerar Gate, eller är särskilt intressanta som kontrast, beskriver vi bland annat:
+## Steg 2 — Relevans
 
-- organisationsform;
-- styrning och uppdrag;
-- plats i vårdkedjan;
-- bredden i SRHR-arbetet;
-- hur professioner kombineras;
-- vägar in i vården;
-- jämlikhets- och accessperspektiv;
-- hur lätt strukturella villkor går att följa;
-- vad som kan vara överförbart;
-- praktisk genomförbarhet inom tid och budget.
+### Fråga
 
-Vi sätter **ingen totalsumma och gör ingen ranking**.
+**Vad kan just denna mottagning hjälpa uppdraget att förstå?**
 
-## Steg 3 — Palett: ett underlag för dialog med RFSU
+### Relevansprofil
 
-Vi sammanställer ett mindre antal mottagningar som representerar olika relevanta sätt att organisera vuxen SRHR-vård.
+Vi beskriver:
 
-Paletten ska visa:
-- varför mottagningen är intressant;
-- vad vi skulle kunna lära oss av den;
-- vilka begränsningar eller frågor som behöver verifieras.
+| Dimension | Exempel på fråga |
+|---|---|
+| Organisationsform | Region, privat utförare, idéburen eller annan form? |
+| Styrning | Vilket uppdrag, avtal eller styrsystem formar verksamheten? |
+| Vårdposition | Lågtröskel, första kontakt, specialist eller remissfunktion? |
+| SRHR-bredd | Vilka behov och frågor hålls ihop? |
+| Professioner | Vilka kompetenser finns och hur kombineras de? |
+| Access | Hur kommer patienter in? Remiss, egenkontakt, drop-in, digitalt? |
+| Jämlikhet | Finns särskilda lösningar för grupper eller behov som annars riskerar att missas? |
+| Strukturell spårbarhet | Går kopplingen mellan uppdrag, organisering och praktik att undersöka? |
+| Överförbarhet | Vilka arbetssätt eller principer kan vara relevanta för andra? |
+| Genomförbarhet | Är deltagande och datainsamling rimliga inom uppdragets ram? |
 
-Det slutliga valet av tre mottagningar görs tillsammans med RFSU.
+### Utfall
 
-**Alla → Gate → Relevans → Palett → Dialog med RFSU → Tre mottagningar**
+Varje mottagning får en **beskrivande relevansprofil**.
+
+Vi sätter ingen totalsumma och gör ingen ranking.
+
+---
+
+## Steg 3 — Palett
+
+### Fråga
+
+**Vilka verksamheter ger tillsammans ett användbart underlag för RFSU:s slutliga val?**
+
+Vi väljer ut ett mindre antal mottagningar som representerar olika möjliga lärandepositioner.
+
+En palettpost ska därför innehålla:
+
+- **profil**;
+- **varför den är intressant för uppdraget**;
+- **vad vi kan lära oss av den**;
+- **vad som behöver verifieras eller vilka begränsningar som finns**;
+- **källa till den preliminära bedömningen**.
+
+### Utfall
+
+En hanterbar palett — normalt cirka **3–7 verksamheter** — tas vidare till dialog med RFSU.
+
+Paletten är **inte det slutliga urvalet**.
+
+---
+
+## Gemensamt beslut
+
+Efter genomgång av paletten väljs tre mottagningar tillsammans med RFSU.
+
+Beslutet dokumenteras med en kort motivering som visar:
+
+- varför just dessa tre valdes;
+- vilken variation de tillsammans fångar;
+- vilka centrala frågor de gör det möjligt att jämföra;
+- vilka begränsningar urvalet har.
+
+Det ger en tydlig metodkedja från det breda fältet till de tre slutliga fallen.
