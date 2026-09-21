@@ -1,37 +1,36 @@
 # 03 — Val av mottagningar
 
-Vi föreslår inte att tre mottagningar ska vara bestämda redan i anbudet.
+## Varför ett särskilt urvalsförfarande?
 
-I stället erbjuder vi ett transparent urvalstänk som kan kombineras med RFSU:s egen kunskap om fältet.
+Uppdraget omfattar tre mottagningar. Det gör själva urvalet viktigt: tre verksamheter kan aldrig representera hela Sverige, men de kan tillsammans ge **olika och kompletterande perspektiv på hur jämlik SRHR-vård organiseras och genomförs**.
 
-## Urvalsprocess
+Vår utgångspunkt är därför inte att i förväg peka ut "de bästa" mottagningarna. I stället bygger vi ett transparent underlag som RFSU kan använda tillsammans med sin egen kunskap om fältet.
 
-**Alla → Gate → Relevans → Palett → Dialog med RFSU → Tre mottagningar**
+## Urvalslogiken i korthet
 
-### Alla
-Vi börjar med en bred orientering över mottagningar som kan vara relevanta.
+**Brett register → 1. Grundkrav → 2. Relevans → 3. Palett → Gemensam dialog med RFSU → Tre mottagningar**
 
-### Gate
-Därefter prövas om verksamheten över huvud taget motsvarar uppdragets studieobjekt:
-- vuxenfunktion efter ungdomsmottagningsålder;
-- sexuell hälsa som kärnuppdrag;
-- holistiskt arbetssätt;
-- multidisciplinärt arbetssätt;
-- personcentrerat arbetssätt.
+Det innebär:
 
-Om offentlig information inte räcker markeras frågan som **oklar** i stället för att vi antar ett svar.
+1. vi börjar brett och dokumenterar möjliga verksamheter;
+2. vi sorterar bort sådant som tydligt ligger utanför uppdragets studieobjekt;
+3. vi beskriver vad kvarvarande mottagningar kan bidra med till analysen;
+4. vi tar fram en mindre palett av olika typer av relevanta verksamheter;
+5. RFSU och konsulten gör därefter det slutliga urvalet tillsammans.
 
-### Relevans
-För mottagningar som passerar Gate beskriver vi vad just den verksamheten kan bidra med till uppdragets lärande, till exempel:
-- organisationsform;
-- styrning och uppdrag;
-- väg in i vården;
-- professionell sammansättning;
-- jämlikhets- och accessperspektiv;
-- strukturella förutsättningar;
-- möjlig överförbarhet.
+## Vad finns i den här delen?
 
-### Palett
-Resultatet blir en palett av olika relevanta verksamheter, inte en ranking eller topplista.
+- [Urvalspresentation — syfte, principer och tillvägagångssätt](urvalspresentation.md)
+- [Trestegsurval — den praktiska urvalsmodellen](trestegsurval.md)
+- [Mottagningsregister v1.0](mottagningsregister-v1.0.md)
+- [Palett för dialog med RFSU v1.0](palett-for-dialog-v1.0.md)
 
-Den slutliga kombinationen av tre mottagningar tas fram tillsammans med RFSU.
+## Två viktiga principer
+
+### Urvalet är inte en ranking
+
+När en mottagning bedöms som mer eller mindre relevant handlar det om **passform mot just det här uppdraget**, inte om kvaliteten på vården.
+
+### Oklart betyder oklart
+
+Offentlig information räcker inte alltid för att bedöma exempelvis hur personcentrerat eller multidisciplinärt arbetet faktiskt är. Då markerar vi frågan som **oklar** och tar den vidare till dialog eller verifiering. Vi fyller inte informationsluckor med antaganden.
