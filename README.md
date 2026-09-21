@@ -2,9 +2,9 @@
 
 En publik arbets- och kommunikationsyta för uppdraget om goda exempel på jämlik SRHR-vård.
 
-Det här repositoryt är utformat för att göra arbetet **överblickbart, begripligt och följbart** för uppdragsgivare och andra externa läsare.
+Det här samarbetsytan är utformat för att göra arbetet **överblickbart, begripligt och följbart** för uppdragsgivare och andra externa läsare.
 
-Den interna planeringen, arbetsanalysen och fulla projektstyrningen sker i en separat privat Form & Flöde-repository. Material förs inte över automatiskt. Det som är relevant här **väljs ut, kvalitetssäkras och skrivs om till tydlig svenska**.
+Den interna planeringen, arbetsanalysen och fulla projektstyrningen sker i en separat privat Form & Flöde-samarbetsyta. Material förs inte över automatiskt. Det som är relevant här **väljs ut, kvalitetssäkras och skrivs om till tydlig svenska**.
 
 ## Så hänger arbetet ihop
 
@@ -61,7 +61,7 @@ Målet är inte att rangordna mottagningar. Målet är att skapa ett tydligt und
 
 Det här är en **public-by-design-yta**. Endast material som tål extern läsning publiceras här.
 
-Intervjurådata, personuppgifter, konfidentiella dokument, känsliga arbetsanteckningar och intern kommersiell planering hör inte hemma i detta repository.
+Intervjurådata, personuppgifter, konfidentiella dokument, känsliga arbetsanteckningar och intern kommersiell planering hör inte hemma i detta samarbetsyta.
 
 ## Status
 
