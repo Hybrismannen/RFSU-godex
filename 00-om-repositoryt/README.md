@@ -1,8 +1,8 @@
-# Om denna digitala yta
+# Om denna digitala samarbetsyta
 
 RFSU Godex är en publik arbets- och kommunikationsyta för uppdraget.
 
-Den privata Form & Flöde-repositoryn innehåller intern planering, research, arbetsanalys, RAMx-styrning och material som ännu inte är redo för extern läsning.
+Den privata Form & Flöde-samarbetsyta innehåller intern planering, research, arbetsanalys, RAMx-styrning och material som ännu inte är redo för extern läsning.
 
 Det här repositoryt innehåller endast sådant som:
 - är relevant för uppdragsgivaren eller andra externa läsare;
