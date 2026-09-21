@@ -1,4 +1,4 @@
-# Om repositoryt
+# Om denna digitala yta
 
 RFSU Godex är en publik arbets- och kommunikationsyta för uppdraget.
 
