@@ -31,3 +31,9 @@ Vi skiljer hela tiden mellan:
 - det RFSU uttryckligen efterfrågar;
 - vår tolkning av vad uppdraget kräver;
 - våra egna metodförslag.
+
+## Uppdragets DNA
+
+En samlad beskrivning av uppdragets kärna, analyslogik, avgränsningar och kvalitetsprinciper finns här:
+
+[**Läs Uppdragets DNA**](uppdragets-dna.md)
