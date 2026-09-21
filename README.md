@@ -44,6 +44,9 @@ Rapport, presentationer och andra godkända slutprodukter.
 ### 08 — Källor
 Publika källor och referenser som bär upp arbetet.
 
+### 09 — Visuellt material
+Infografik och processbilder som gör uppdrag, urval, analys och resultat snabbare att förstå.
+
 ## Två centrala arbetslogiker
 
 ### Val av mottagningar
@@ -63,5 +66,5 @@ Intervjurådata, personuppgifter, konfidentiella dokument, känsliga arbetsantec
 ## Status
 
 **Fas:** Proposal / förberedelse inför anbud  
-**Arbetsläge:** Struktur och metod utvecklas  
-**Nästa fokus:** Uppdragskrav, mottagningslandskap, urvalslogik och proposal-design
+**Arbetsläge:** Struktur, metod, urval och visuell kommunikation utvecklas  
+**Nästa fokus:** Proposal-design, mottagningslandskap, metodpaket och första klientvänliga visualiseringar
