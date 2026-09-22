@@ -1,8 +1,18 @@
 {
   "dashboard_id": "RFSU-DASH-001",
-  "build_id": "RFSU-DASH-7fbeddf58f08",
+  "dashboard_version": "2.0",
+  "build_id": "RFSU-DASH-b8c443dc316f",
   "phase": "PROPOSAL_PRE_AWARD",
+  "phase_label_sv": "Förberedelse inför anbud",
+  "next_gate": {
+    "id": "SUBMISSION",
+    "label_sv": "Anbudsinlämning",
+    "date": "2026-10-04",
+    "status": "OPEN"
+  },
   "candidate_count": 27,
+  "palette_count": 7,
   "selected_count": 0,
-  "case_target": 3
+  "case_target": 3,
+  "generated_from": "canonical internal project state"
 }
