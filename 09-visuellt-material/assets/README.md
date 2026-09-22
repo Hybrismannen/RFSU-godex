@@ -1,21 +1,27 @@
-# Assets
+# Genererade visuella assets
 
-Den här katalogen innehåller publicerade visuella filer för samarbetsytan.
+Alla kärnvisualer i denna katalog byggs automatiskt från samma projektmodell.
 
-## Genererade projektvisualer
-
-- `projektdashboard.svg` — **kanonisk genererad dashboardvisual**, härledd från samma projektmodell som `05-lagesbild/projektdashboard.md`.
-
-Denna fil ska inte redigeras manuellt. Den byggs av dashboard-pipelinen och speglas från den interna källkontrollerade projektstatusen.
-
-## Övriga visuella assets
-
-- `uppdraget-i-korthet-v1.0.png` — reserverad destination för VIS-RFSU-001 när den passerat publiceringsgrinden.
+- `projektdashboard.svg` — kanonisk publik dashboard
+- `uppdraget-i-korthet.svg` — uppdragets komprimerade helhetsbild
+- `urvalsprocess.svg` — register → grundkrav → relevans → palett → dialog → tre case
+- `analysmodell.svg` — struktur → praktik → mekanism → hinder/möjliggörare → överförbarhet → rekommendation
+- `arbetsprocess.svg` — WP- och leveranslogik
 
 ## Regel
 
-Genererade dashboardfiler följer:
+Dessa filer ska **inte handredigeras**.
 
-**intern projektstatus → validering → derivation → publik whitelist-projektion → extern asset**
+~~~text
+källkontrollerad projektstatus
+        ↓
+automatisk validering
+        ↓
+RFSU-profilerad rendering
+        ↓
+publik whitelist
+        ↓
+SVG-assets
+~~~
 
-Övriga visuella filer publiceras först efter faktakontroll, språkgranskning, tillgänglighetskontroll och relevant publiceringsgrind.
+Varje SVG har titel/beskrivning för tillgänglighet och en textmotsvarighet i samarbetsytan.
