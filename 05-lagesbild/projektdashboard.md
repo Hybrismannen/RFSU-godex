@@ -1,27 +1,36 @@
 # Projektdashboard
 
-**Senast uppdaterad:** 22 september 2026  
+**Automatisk build:** RFSU-DASH-SEED-20260922  
 **Fas:** Förberedelse inför anbud
 
-Det här är den publika lägesbilden av arbetet. Den visar vad som är etablerat, vad som utvecklas och vilka steg som ännu inte har öppnats.
+> Den här sidan är den publika projektionen av samma projektstatus som används internt. Den visar endast uppgifter avsedda för extern läsning.
 
-## Nuvarande läge
+## Projektpuls
 
-| Område | Status | Kort lägesbild |
-|---|---|---|
-| Uppdragsförståelse | Etablerad | uppdragets DNA, ramar och avgränsning finns |
-| Mottagningslandskap | Etablerat / levande | arbetsregister och urvalsmetod finns; slutliga tre är inte valda |
-| Urvalsmodell | Etablerad | Register → Grundkrav → Relevans → Palett → RFSU-dialog |
-| Analysmodell | Etablerad / förfinas | struktur + praktik + mekanism + överförbarhet |
-| Metod och arbetsprocess | Under förfining | översätts till slutlig proposal/anbudsform |
-| Proposal/anbud | Under arbete | aktuell huvudaktivitet |
-| Genomförande i tre case | Ej startat | öppnas först efter eventuellt uppdrag/start |
-| Rapport/resultat | Ej startat | beror på genomförda case |
-| Visuellt material | Under utveckling | process- och dashboardbilder tas fram |
+| Fråga | Lägesbild |
+|---|---|
+| Var är vi? | **Förberedelse inför anbud** |
+| Vad är huvudfokus? | **Slutföra anbuds-/proposalpaketet** |
+| Nästa kontrollpunkt | **Anbudsinlämning — 2026-10-04** |
+| Mottagningar | **27 identifierade i arbetsregistret; 0 / 3 slutligt valda** |
+| Genomförande | **Inte startat** |
+| Dashboard | **Automatiskt härledd från intern projektstatus** |
 
-## Processbild
+## Nuvarande arbetsläge
 
-```mermaid
+| Område | Status |
+|---|---|
+| Uppdragsförståelse | Etablerad |
+| Anbud | Under arbete |
+| Mottagningslandskap | Etablerat / levande |
+| Metod och analysmodell | Etablerad / förfinas |
+| Visuellt material | Under utveckling |
+| Publik samarbetsyta | Aktiv |
+| Researchdesign | Under utveckling |
+
+## Från förberedelse till leverans
+
+~~~mermaid
 flowchart LR
   A[Förberedelse] --> B[Anbud]
   B --> C{Uppdrag/start}
@@ -31,16 +40,18 @@ flowchart LR
   F --> G[Jämförelse]
   G --> H[Överförbarhet + rekommendationer]
   H --> I[Rapport + presentation]
-```
+~~~
 
-## Viktiga metodprinciper
+## Urvalslogik
 
-- de tre mottagningarna ska inte presenteras som representativa för hela Sverige;
-- urvalet görs tillsammans med RFSU;
-- offentlig information används för orientering och screening, inte som bevis på hur en verksamhet faktiskt arbetar;
-- samma grundstruktur används för att kunna jämföra de tre fallen;
-- överförbarhet beskrivs tillsammans med villkor och begränsningar.
+**Brett register → Grundkrav → Relevans → Palett → Dialog med RFSU → Tre mottagningar**
 
-## Nästa publika kontrollpunkt
+Urvalet är inte en ranking. De slutliga tre mottagningarna väljs tillsammans med RFSU.
 
-Nästa större statusförändring sker när anbudet är färdigställt eller när uppdragets start/fortsättning är beslutad.
+## Analyslogik
+
+**Strukturella villkor → Faktisk praktik → Verksam mekanism → Hinder/möjliggörare → Överförbarhet → Rekommendation**
+
+## Automationsprincip
+
+Den publika dashboarden skrivs inte separat från den interna projektstyrningen. Den genereras som en **whitelist-projektion av samma källkontrollerade projektstatus**. Intern RAMx-detalj, kommersiella uppgifter, interna risker och intern metodmaskin publiceras inte här.
