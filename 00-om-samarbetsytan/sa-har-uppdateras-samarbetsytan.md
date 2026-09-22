@@ -1,34 +1,42 @@
 # Så här uppdateras samarbetsytan
 
-Det finns två uppdateringsvägar.
+Det finns två kontrollerade uppdateringsvägar.
 
-## 1. Projektdashboarden
+## 1. Dashboard och kärninfografik
 
-Dashboarden genereras automatiskt från den interna källkontrollerade projektstatusen.
+Dessa genereras automatiskt från projektets källobjekt:
 
 ~~~text
 intern projektstatus
       ↓
-validering
+collect
       ↓
-genererad intern dashboard
+validate
+      ↓
+derive / sensemaking
+      ↓
+render
+      ↓
+public-safety validation
       ↓
 publik whitelist
       ↓
-genererad publik dashboard
+dashboard + infografik
 ~~~
 
-Den publika dashboarden innehåller inte intern RAMx-detalj, kommersiella uppgifter, interna risker eller annan intern kontrollinformation.
+Kärnvisualerna är projektdashboard, uppdragsöversikt, urvalsprocess, analysmodell och arbetsprocess.
 
-## 2. Övrigt innehåll
+Den publika projektionen innehåller inte intern RAMx-detalj, kommersiella uppgifter, interna risker, PIVE/HARP-kontroll eller annan skyddad projektstyrning.
 
-Övrigt sakmaterial publiceras när det har passerat följande frågor:
+## 2. Övrigt sakmaterial
 
-1. **Är det relevant?**
-2. **Är det stabilt?**
-3. **Är det tydligt?**
-4. **Är det säkert?**
-5. **Är det spårbart?**
-6. **Är det meningsfullt att publicera nu?**
+Övrigt innehåll publiceras först när det passerat publiceringsgrinden:
 
-Interna arbetsbegrepp och ramverk används bara här när de faktiskt hjälper läsaren. I andra fall publiceras slutsatsen eller arbetsprincipen i stället för den interna processen bakom den.
+1. **Relevant**
+2. **Stabilt**
+3. **Tydligt**
+4. **Säkert**
+5. **Spårbart**
+6. **Meningsfullt att publicera nu**
+
+Interna ramverk exponeras bara när de själva hjälper mottagaren. I annat fall publiceras slutsatsen, metoden eller den praktiska arbetsprincipen.
