@@ -1,6 +1,6 @@
 # Projektdashboard
 
-**Automatisk build:** RFSU-DASH-SEED-20260922  
+**Automatisk build:** RFSU-DASH-7fbeddf58f08  
 **Fas:** Förberedelse inför anbud
 
 > Den här sidan är den publika projektionen av samma projektstatus som används internt. Den visar endast uppgifter avsedda för extern läsning.
