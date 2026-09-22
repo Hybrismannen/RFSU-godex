@@ -32,3 +32,9 @@ Planerad.
 ## Princip
 
 Visualiseringarna är förenklingar av det mer detaljerade arbetsunderlaget. Om en bild och den källkontrollerade texten skiljer sig åt är det textunderlaget som är styrande.
+
+
+### VIS-RFSU-005 — Projektdashboard
+Visuell lägesbild över förberedelse, aktiva arbetsdelar och kommande genomförandefaser.
+
+![Projektdashboard](assets/projektdashboard-v0.1.svg)
