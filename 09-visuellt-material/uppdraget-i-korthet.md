@@ -1,36 +1,23 @@
 # Uppdraget i korthet — visuell översikt
 
-**VIS-RFSU-001 / v1.0 / 2026-09-21**
+![Uppdraget i korthet](assets/uppdraget-i-korthet.svg)
 
-En första grafisk arbetsversion är framtagen och har en reserverad plats i samarbetsytan.
+**VIS-RFSU-001 / GENERATED**
 
-## Bildens funktion
+Bilden sammanfattar uppdragets fyra kärnor:
 
-Visualiseringen ska ge en snabb helhetsbild av:
-- varför uppdraget genomförs;
-- vilka frågor som ska undersökas;
-- hur mottagningsurvalet går till;
-- hur arbetet genomförs;
-- vilka ramar och leveranser som gäller.
+**Frågan:** vad går att lära av verksamheter som försöker hålla ihop vuxnas sexuella och reproduktiva hälsa?
 
-## Kärnlogik i bilden
+**Urvalet:** tre mottagningar väljs tillsammans med RFSU ur ett bredare, källkontrollerat fält.
 
-### Urval
-**Brett register → Grundkrav → Relevans → Palett → Dialog med RFSU → Tre mottagningar**
+**Underlaget:** strukturella villkor kombineras med intervjuer och/eller fokusgrupper om faktisk praktik.
 
-### Genomförande
-**Kartläggning → Gemensamt urval → Strukturellt underlag → Intervjuer/fokusgrupper → Analys och jämförelse → Rekommendationer, rapport och presentation**
+**Leveransen:** jämförande analys, förbättringsförslag, rapport och presentation inom uppdragets ramar.
 
-## Assetplats
+## Kärnlogiker
 
-Den slutliga bildfilen publiceras här:
+**Urval:** Brett register → Grundkrav → Relevans → Palett → Dialog med RFSU → Tre mottagningar
 
-`assets/uppdraget-i-korthet-v1.0.png`
+**Analys:** Strukturella villkor → Faktisk praktik → Verksam mekanism → Hinder/möjliggörare → Överförbarhet → Rekommendation
 
-När den publiceras ska den här sidan finnas kvar som textalternativ och kompletteras med tydlig alternativtext.
-
-## Status
-
-**PLACE RESERVED / EXTERNAL-DRAFT**
-
-Bildfilen publiceras först efter faktakontroll, språkgranskning och kontroll av användningen av RFSU:s visuella identitet.
+Visualiseringen genereras automatiskt och ska inte redigeras separat från projektmodellen.
