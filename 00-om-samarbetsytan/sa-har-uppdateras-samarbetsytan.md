@@ -1,10 +1,34 @@
 # Så här uppdateras samarbetsytan
 
-Material publiceras här när det har passerat fyra enkla frågor:
+Det finns två uppdateringsvägar.
 
-1. **Är det relevant?** Hjälper materialet RFSU eller en extern läsare att förstå uppdraget?
-2. **Är det stabilt?** Är analysen tillräckligt mogen för att kommuniceras?
-3. **Är det tydligt?** Går det att förstå utan kunskap om interna arbetsramverk?
-4. **Är det säkert?** Innehåller det inget konfidentiellt, känsligt eller personidentifierande material?
+## 1. Projektdashboarden
+
+Dashboarden genereras automatiskt från den interna källkontrollerade projektstatusen.
+
+~~~text
+intern projektstatus
+      ↓
+validering
+      ↓
+genererad intern dashboard
+      ↓
+publik whitelist
+      ↓
+genererad publik dashboard
+~~~
+
+Den publika dashboarden innehåller inte intern RAMx-detalj, kommersiella uppgifter, interna risker eller annan intern kontrollinformation.
+
+## 2. Övrigt innehåll
+
+Övrigt sakmaterial publiceras när det har passerat följande frågor:
+
+1. **Är det relevant?**
+2. **Är det stabilt?**
+3. **Är det tydligt?**
+4. **Är det säkert?**
+5. **Är det spårbart?**
+6. **Är det meningsfullt att publicera nu?**
 
 Interna arbetsbegrepp och ramverk används bara här när de faktiskt hjälper läsaren. I andra fall publiceras slutsatsen eller arbetsprincipen i stället för den interna processen bakom den.
