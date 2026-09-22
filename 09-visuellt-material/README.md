@@ -1,37 +1,39 @@
 # 09 — Visuellt material
 
-Här samlas infografik, processbilder och andra visuella förklaringar av uppdraget.
-
-Syftet är att göra uppdragets logik lättare att förstå utan att läsaren först behöver gå igenom alla metod- och arbetsdokument.
-
 ## Projektdashboard
-
-Dashboardens visuella lägesbild genereras automatiskt från samma projektmodell som textsidan.
 
 ![Projektdashboard](assets/projektdashboard.svg)
 
-[Öppna projektdashboarden](../05-lagesbild/projektdashboard.md)
+[Öppna dashboardens textvy](../05-lagesbild/projektdashboard.md)
 
-## Övrigt visuellt material
+## Uppdraget i korthet
 
-### VIS-RFSU-001 — Uppdraget i korthet
-En samlad översikt över syfte, vad som undersöks, urval, genomförande, ramar och leveranser.
+![Uppdraget i korthet](assets/uppdraget-i-korthet.svg)
 
-[Öppna presentationssidan](uppdraget-i-korthet.md)
+[Textalternativ och förklaring](uppdraget-i-korthet.md)
 
-### VIS-RFSU-002 — Urvalsprocess
-Planerad visualisering av:
+## Urvalsprocess
 
-**Register → Grundkrav → Relevans → Palett → Dialog med RFSU → Tre mottagningar**
+![Urvalsprocess](assets/urvalsprocess.svg)
 
-### VIS-RFSU-003 — Analysmodell
-Planerad visualisering av:
+**Brett register → Grundkrav → Relevans → Dialogpalett → Dialog med RFSU → Tre case**
 
-**Strukturella villkor → Faktiskt arbetssätt → Verksam mekanism → Hinder/möjliggörare → Överförbarhet → Rekommendation**
+Kända antal visas i bilden. Grundkrav och relevans är bedömningssteg och får därför inga fabricerade deltal.
 
-### VIS-RFSU-004 — Uppdragets arbetsprocess
-Planerad.
+## Analysmodell
 
-## Princip
+![Analysmodell](assets/analysmodell.svg)
 
-Visualiseringarna är förenklingar av det mer detaljerade arbetsunderlaget. Om en bild och den källkontrollerade texten skiljer sig åt är det textunderlaget som är styrande.
+**Struktur → Praktik → Mekanism → Hinder/möjliggörare → Överförbarhet → Rekommendation**
+
+## Arbetsprocess
+
+![Arbetsprocess](assets/arbetsprocess.svg)
+
+WP-strukturen visar leverans- och kapacitetslogiken. Exakta kalenderdatum låses först när uppdragets T0 är känt.
+
+## Design- och dataprincip
+
+Alla fem kärnvisualer genereras från samma projektmodell. De ska inte handredigeras.
+
+Om en visualisering och det källkontrollerade textunderlaget skulle skilja sig åt är textunderlaget styrande tills nästa automatiska build har korrigerat bilden.
