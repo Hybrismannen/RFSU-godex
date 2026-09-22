@@ -1,9 +1,21 @@
 # Assets
 
-Den här katalogen är reserverad för publicerade visuella filer.
+Den här katalogen innehåller publicerade visuella filer för samarbetsytan.
 
-## Reserverad fil
+## Genererade projektvisualer
 
-- `uppdraget-i-korthet-v1.0.png` — VIS-RFSU-001
+- `projektdashboard.svg` — **kanonisk genererad dashboardvisual**, härledd från samma projektmodell som `05-lagesbild/projektdashboard.md`.
 
-Binära arbetsfiler ska inte läggas här förrän de har passerat den interna publiceringsgrinden.
+Denna fil ska inte redigeras manuellt. Den byggs av dashboard-pipelinen och speglas från den interna källkontrollerade projektstatusen.
+
+## Övriga visuella assets
+
+- `uppdraget-i-korthet-v1.0.png` — reserverad destination för VIS-RFSU-001 när den passerat publiceringsgrinden.
+
+## Regel
+
+Genererade dashboardfiler följer:
+
+**intern projektstatus → validering → derivation → publik whitelist-projektion → extern asset**
+
+Övriga visuella filer publiceras först efter faktakontroll, språkgranskning, tillgänglighetskontroll och relevant publiceringsgrind.
