@@ -23,3 +23,10 @@ Den här delen används för korta, tydliga uppdateringar om var arbetet befinne
 - vilka typer av mottagningar RFSU särskilt vill ha med i den slutliga paletten;
 - hur mycket fysisk närvaro som är önskvärd respektive möjlig inom budget;
 - vilka strukturella underlag som kan göras tillgängliga från de valda mottagningarna.
+
+
+## Projektdashboard
+
+För en sammanhållen statusbild av vad som är etablerat, under arbete och ännu inte startat:
+
+[**Öppna projektdashboarden**](projektdashboard.md)
