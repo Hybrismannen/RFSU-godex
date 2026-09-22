@@ -1,27 +1,17 @@
 # 05 — Lägesbild
 
-Den här delen har **en kanonisk projektdashboard**.
+![Projektdashboard](../09-visuellt-material/assets/projektdashboard.svg)
 
-[**Öppna projektdashboarden**](projektdashboard.md)
+[**Öppna dashboardens textvy**](projektdashboard.md) · [Maskinläsbar buildmetadata](dashboard-public.json)
 
-Dashboarden visar:
-- aktuell fas;
-- huvudfokus;
-- nästa kontrollpunkt;
-- mottagningsurvalets läge;
-- vilka arbetsdelar som är etablerade, under arbete eller ännu inte startade;
-- den övergripande vägen från anbud till rapport och presentation.
+Det här är samarbetsytans **kanoniska lägesbild**.
 
-## Automatiserad status
+Dashboarden visar aktuell fas, nästa kontrollpunkt, mottagningsfältets läge, vilka arbetsdelar som är etablerade eller pågående samt den övergripande vägen från anbud till rapport och presentation.
 
-Projektdashboarden skrivs inte manuellt som en separat lägesrapport.
+## En projektmodell — två vyer
 
-Den genereras från samma källkontrollerade projektstatus som används i den interna projektstyrningen, men genom en offentlig whitelist som tar bort intern RAMx-detalj, kommersiella uppgifter, interna risker och intern metodstyrning.
+Den publika dashboarden skrivs inte som en separat statusrapport. Den genereras från samma källkontrollerade projektmodell som den interna projektstyrningen.
 
-Det betyder att den publika lägesbilden och den interna dashboarden bygger på **samma projektmodell**, inte två parallella statusbeskrivningar.
+Den publika whitelisten tar bort intern RAMx-detalj, kommersiella uppgifter, interna risker, PIVE/HARP-kontroll och annan intern metodstyrning.
 
-## Maskinläsbar buildmetadata
-
-För spårbarhet finns även:
-
-[dashboard-public.json](dashboard-public.json)
+Det betyder att **intern och publik lägesbild inte kan utvecklas som två parallella sanningar**.
