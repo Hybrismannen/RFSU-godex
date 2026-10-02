@@ -1,12 +1,27 @@
-# 04 — Analysmodellen 1.0
+# 04 — Analysmodellen 1.1
 
-Den aktiva analysmodellen utgår från [**Synopsis 1.0**](../01-uppdraget/synopsis-v1.0.md).
+Den aktiva analysmodellen utgår från [**Synopsis 1.1**](../01-uppdraget/synopsis-v1.1.md).
 
 ## Grundposition
 
-Analysen ska inte ompröva svensk hälso- och sjukvårds normativa ram. Begrepp som **jämlik vård, personcentrering, holistisk/sammanhållen vård samt tillgänglighet och vårdval** skrivs fram från relevanta nationella styr- och kunskapsramar och används som benchmark.
+Analysen omprövar inte svensk hälso- och sjukvårds normativa ram. **Jämlik vård, personcentrering, holistisk/sammanhållen vård samt tillgänglighet och vårdval** skrivs fram från relevanta nationella styr- och kunskapsramar och används som benchmark.
 
-Analysens uppgift är i stället att förstå **hur väl denna ram kan realiseras för de grupper som RFSU särskilt värnar om**.
+[**Läs Nationell vårdram 0.1**](nationell-vardram-v0.1.md)
+
+Analysens uppgift är att förstå **hur väl denna ram kan realiseras för de grupper som RFSU särskilt värnar om**.
+
+## Tre nivåer
+
+### 1. Nationell vårdram
+Vad ska vården möjliggöra?
+
+### 2. Realiseringssystem
+Hur formar strukturella villkor, organisatoriskt kapital och faktisk praktik det som blir möjligt?
+
+### 3. Individens vårdrealiseringsresa
+Vad behöver en person faktiskt kunna göra, förstå och navigera för att få relevant vård?
+
+[**Läs Individens vårdrealiseringsresa 0.1**](individens-vardrealiseringsresa-v0.1.md)
 
 ## Analyskedjan
 
@@ -19,6 +34,11 @@ Organisatoriskt kapital
         ↓
 Faktisk praktik
         ↓
+Individens vårdrealiseringsresa
+Behov → orientering → vårdval/ingång →
+vårdkedja/navigation → relevant vård →
+genomförd vård → helhetsupplevelse
+        ↓
 Kvantitet + kvalitet
         ↓
 Realiserbar vårdmöjlighet
@@ -30,47 +50,41 @@ Hinder och möjliggörare
 Förbättring + överförbarhet
 ~~~
 
-## Nationell vårdram
+## Hälsoliteracitet som gränssnitt
 
-[**Läs Nationell vårdram 0.1 — snabb benchmark med referenser**](nationell-vardram-v0.1.md)
+Hälsoliteracitet används som en **relationell analyslins**, inte som ett individbetyg. Frågan är vilka krav systemet ställer på att personen ska kunna hitta, förstå, värdera, använda och navigera information och tjänster — och hur verksamheten minskar eller förstärker dessa krav.
 
-Den nationella ramen är analysens fasta referenspunkt. Den ska inte definieras genom de tre casen.
+Vi skiljer därför mellan:
 
-Projektet kommer därför att skriva fram vad relevanta nationella ramverk anger om bland annat:
-- jämlik vård;
-- personcentrerad vård;
-- holistisk och sammanhållen vård;
-- tillgänglighet och patientens faktiska möjligheter att nå relevant vård.
+- **teoretisk vårdresa** — den väg systemet formellt innebär att personen ska kunna ta;
+- **praktisk vårdresa** — den väg personen faktiskt behöver och kan ta.
 
-## Realiseringssystemet
-
-Mellan den normativa ramen och den vård en person faktiskt får finns ett realiseringssystem.
-
-Analysen undersöker:
-- strukturella villkor;
-- organisatorisk förmåga och kapacitet;
-- kompetens och samordning;
-- kunskapsförmåga och kontinuitet;
-- handlingsutrymme;
-- faktisk praktik;
-- tillgänglighetsarkitektur.
-
-## Kvantitet och kvalitet
-
-**Kvantitet** avser hur mycket faktisk vårdmöjlighet som finns: exempelvis tillgång, kapacitet, vägar in, tid och plats.
-
-**Kvalitet** avser vilken vård personen faktiskt kan få: exempelvis relevans, bemötande, samordning, personcentrering och förmåga att möta komplexa eller sammansatta behov.
-
-Tillsammans formar de den **realiserbara vårdmöjligheten**.
+Gapet mellan dem kan synliggöra extra steg, hänvisningar, egen koordinering och andra friktioner som påverkar jämlik tillgång.
 
 ## Tre case — samma dataprotokoll
 
-De tre mottagningarna analyseras genom samma grundstruktur men i olika kontexter. Skillnader i exempelvis geografi, huvudmannaskap, organisatorisk form, service scope och organisatoriskt kapital används som analyslinser — inte som rangordningskriterier.
+Mottagningen är fortsatt case. Vårdrealiseringsresan är den analytiska bana som följs genom caset.
+
+De tre mottagningarna analyseras genom samma grundstruktur men i olika kontexter. Skillnader i geografi, huvudmannaskap, organisatorisk form, service scope och organisatoriskt kapital används som analyslinser — inte som rangordningskriterier.
+
+## Praktisk proportionalitet
+
+Analysmodellen är medvetet rikare än den praktiska studien.
+
+> **Analytisk komplexitet får inte automatiskt skapa metodisk eller empirisk komplexitet.**
+
+Grunddesignen är:
+
+**gemensam benchmark → tre case → kort strukturellt underlag + ett primärt empiriskt block per case → tre case sheets → tvär-case-syntes → rekommendationer.**
+
+Patientintervjuer, enkät, hälsoliteracitetsmätning och effektstudie ingår inte automatiskt.
 
 ## Tvär-case syntes
 
 ~~~text
 Likheter / skillnader
+        ↓
+Vårdresans friktion och navigationskrav
         ↓
 Verksam mekanism
         ↓
@@ -81,8 +95,6 @@ Jämlikhetsimplikation
 Rekommendation
 ~~~
 
-Rekommendationen ska precisera **vad som bör förändras, för vem, under vilka villkor och varför förändringen skulle förbättra möjligheten att realisera den vårdstandard som redan gäller**.
-
 ## Versionsprincip
 
-Tidigare analysformuleringar är bevarade i [backlog/historik](../99-backlog-historik/README.md). Synopsis 1.0 är den aktiva tolkningsramen.
+Analysmodell 1.0 är bevarad i [backlog/historik](../99-backlog-historik/analysmodell-v1.0.md). Synopsis 1.1 är den aktiva tolkningsramen.
