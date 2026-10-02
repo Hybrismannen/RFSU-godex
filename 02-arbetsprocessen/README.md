@@ -1,27 +1,41 @@
-# 02 — Arbetsprocessen
+# 02 — Arbetsprocessen 1.1
 
-Den föreslagna arbetsprocessen följer uppdragets egen logik och håller metodiken tillräckligt koncentrerad för tid och budget.
+Den föreslagna arbetsprocessen använder en relativt rik analysmodell men håller det praktiska genomförandet koncentrerat för att passa uppdragets tid och budget.
 
-```text
-1. Förstå uppdrag och urvalskriterier
+> **Analytisk komplexitet får inte automatiskt skapa metodisk eller empirisk komplexitet.**
+
+~~~text
+1. Fast nationell benchmark
               ↓
-2. Ta fram en relevant palett av mottagningar
+2. Välj tre mottagningar med RFSU
               ↓
-3. Välja tre mottagningar tillsammans med RFSU
-              ↓
-4. Samla strukturellt underlag
+3. Per mottagning:
+   kort strukturellt underlag
               +
-   Intervjuer/fokusgrupper med nyckelpersoner
+   ett primärt empiriskt block
+   med relevanta nyckelpersoner
               ↓
-5. Analysera varje verksamhet
+4. Standardiserat case sheet
+   inklusive vårdrealiseringsresa
               ↓
-6. Jämföra fallen
+5. Jämför de tre fallen
               ↓
-7. Bedöma överförbarhet
+6. Identifiera gap, mekanismer,
+   möjliggörare och överförbarhet
               ↓
-8. Formulera rekommendationer
+7. Rekommendationer
               ↓
-9. Rapport + presentation
-```
+8. Rapport + presentation
+~~~
 
-Processen kan justeras tillsammans med RFSU när uppdraget startar.
+## Vårdrealiseringsresan i caset
+
+Mottagningen är case. Genom caset följs den teoretiska och praktiska väg en individ behöver kunna ta:
+
+**Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
+
+Detta skapar inte en separat patientstudie. Resan rekonstrueras i grunddesignen från strukturellt material och nyckelpersoners beskrivningar av faktisk praktik.
+
+## Avgränsning
+
+Patientintervjuer, enkät, hälsoliteracitetsmätning, effektstudie eller utökad nationell kartläggning ingår inte automatiskt. Ny datainsamling aktiveras endast om befintligt material inte räcker för att besvara en central fråga i uppdraget.
