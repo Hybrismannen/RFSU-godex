@@ -2,9 +2,9 @@
 
 ## Aktuellt läge
 
-**ITR 1 är genomfört och passerat.** RFSU:s uppdragsbeskrivning har stämts av mot designen och den fortsatta anbudsproduktionen kan nu bygga på en låst krav- och spårbarhetsstruktur.
+**ITR 1 och ITR 2 är genomförda och passerade.** Kravbilden är låst och en sammanhållen anbudsarkitektur med metod, arbetsplan, tidsbudget, teamlogik, leveranser och kommersiell struktur är etablerad.
 
-**Nästa steg:** ITR 2 — anbudsarkitektur och underlag.
+**Nästa steg:** ITR 3 — full intern DNA-box och operationalisering av det som erbjuds i anbudet.
 
 Den här arbetsordningen beskriver hur Form & Flöde går från en etablerad analys- och metoddesign till ett komplett, spårbart och begripligt anbudsunderlag.
 
