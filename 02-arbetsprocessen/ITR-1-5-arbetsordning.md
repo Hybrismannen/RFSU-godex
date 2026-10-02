@@ -2,9 +2,9 @@
 
 ## Aktuellt läge
 
-**ITR 1 och ITR 2 är genomförda och passerade.** Kravbilden är låst och en sammanhållen anbudsarkitektur med metod, arbetsplan, tidsbudget, teamlogik, leveranser och kommersiell struktur är etablerad.
+**ITR 1, ITR 2 och ITR 3 är genomförda och passerade.** Kravbilden och anbudsarkitekturen är låsta, och det som erbjuds i anbudet har nu översatts till en sammanhållen intern genomförandestruktur.
 
-**Nästa steg:** ITR 3 — full intern DNA-box och operationalisering av det som erbjuds i anbudet.
+**Nästa steg:** ITR 4 — uppdragsspecifik teamprofil och slutlig evidensbunden formulering av Adrian Repkas roll.
 
 Den här arbetsordningen beskriver hur Form & Flöde går från en etablerad analys- och metoddesign till ett komplett, spårbart och begripligt anbudsunderlag.
 
@@ -22,7 +22,7 @@ När kravbilden är låst skrivs anbudsunderlaget fram utifrån den strukturen. 
 
 ## ITR 3 — Intern DNA och genomförandekapacitet
 
-Det externa erbjudandet översätts till en full intern projekt-DNA och operativ struktur. Varje utfästelse i anbudet ska ha ett internt hem: ansvar, metod, evidens, output, kvalitetsgrind och beroende.
+**Genomförd.** Det externa erbjudandet har översatts till en full proposal-stage projekt-DNA och operativ struktur. Varje materiell utfästelse i anbudet har ett internt hem: ansvar, metod, evidens, output, kvalitetsgrind, beroende och resurskoppling.
 
 ## ITR 4 — Teamprofil
 
