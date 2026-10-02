@@ -2,162 +2,89 @@
 
 Det här dokumentet sammanfattar **vad uppdraget är, vilken rörelse det ska skapa och vilka principer som håller arbetet samman**.
 
-Det är en förenklad extern version av Form & Flödes interna DNA-box för uppdraget.
+Det är en förenklad extern version av Form & Flödes interna DNA-box och är nu synkroniserad med **Synopsis 1.1**.
 
 ## Kärnan
 
-Uppdraget handlar om att undersöka **hur tre mottagningar för sexuell hälsa för personer över ungdomsmottagningsåldern faktiskt fungerar**.
+Uppdraget handlar om att undersöka tre mottagningar för sexuell hälsa för personer över ungdomsmottagningsåldern och förstå **hur etablerade principer för svensk hälso- och sjukvård faktiskt blir möjliga att realisera för de grupper RFSU särskilt värnar om**.
 
-Fokus ligger inte bara på vad mottagningarna erbjuder, utan på sambandet mellan:
+Den sammanhållna analyskedjan är:
 
-**strukturella villkor → faktisk praktik → vad som får arbetssättet att fungera → hinder och möjliggörare → vad som kan överföras vidare**
+**Nationell vårdram → strukturella villkor → organisatoriskt kapital → faktisk praktik → individens vårdrealiseringsresa → kvantitet/kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet**
 
 ## Den rörelse uppdraget ska skapa
 
-Det finns redan mycket kunskap om ojämn tillgång till sexuell och reproduktiv hälsa och rättigheter.
+Det finns redan omfattande kunskap om ojämn tillgång till sexuell och reproduktiv hälsa och rättigheter. Uppdraget går från frågan om vård **finns** till frågan om vården faktiskt går att **hitta, nå, navigera, få och använda på ett relevant och sammanhållet sätt**.
 
-Det här uppdraget tar nästa steg:
-
-> **från problembild och tillgång → till förståelse av fungerande praktik och vad andra verksamheter kan lära av den**
-
-Det innebär att ett "gott exempel" inte är tillräckligt i sig.
-
-Vi behöver också förstå:
-
+Ett "gott exempel" är därför inte tillräckligt i sig. Vi behöver också förstå:
 - vad mottagningen faktiskt gör;
-- varför arbetssättet fungerar i just den miljön;
-- vilka strukturer, kompetenser och relationer som gör det möjligt;
-- vilka hinder som finns;
-- vilka delar som är lokala;
-- vad som kan överföras till andra verksamheter och under vilka villkor.
+- vilka strukturella villkor och organisatoriska förmågor som gör det möjligt;
+- var individens väg genom vården blir enklare eller svårare;
+- vilka hinder och möjliggörare som återkommer;
+- vad som är lokalt;
+- vad som kan förbättras eller överföras och under vilka villkor.
 
-## Två saker undersöks samtidigt
+## Tre analytiska nivåer
 
-### 1. Strukturella villkor
+### 1. Nationell vårdram
+Jämlik vård, personcentrering, sammanhållen/holistisk vård och tillgänglighet används som benchmark.
 
-Exempel:
+### 2. Realiseringssystem
+Analysen följer hur strukturella villkor, organisatoriskt kapital och faktisk praktik formar vad som blir möjligt.
 
-- uppdrag och styrning;
-- organisatorisk placering;
-- avtal och beställning;
-- professionell sammansättning;
-- regionala riktlinjer;
-- remiss eller egenkontakt;
-- digital och fysisk tillgång;
-- samverkansstrukturer;
-- resurser och uppföljning.
+### 3. Individens vårdrealiseringsresa
+Mottagningen är fortsatt case, men genom caset följs den teoretiska och praktiska vägen:
 
-### 2. Faktisk praktik
-
-Exempel:
-
-- hur patienter hittar och kommer in i verksamheten;
-- hur behov identifieras;
-- hur olika professioner arbetar tillsammans;
-- hur vården anpassas efter individen;
-- hur flera behov hålls ihop;
-- vilka hinder personalen möter;
-- vad som fungerar väl i vardagen;
-- hur kontinuitet och uppföljning hanteras.
-
-## Urvalet är en del av metodkvaliteten
-
-Tre mottagningar kan inte representera hela Sverige.
-
-Därför försöker vi inte skapa ett statistiskt representativt urval eller rangordna mottagningar.
-
-I stället används följande logik:
-
-**Brett register → Grundkrav → Relevans → Palett → Dialog med RFSU → Tre mottagningar**
-
-Syftet är att välja tre verksamheter som tillsammans kan ge **olika men jämförbara perspektiv** på hur vuxen SRHR-vård kan organiseras och bedrivas.
-
-[Läs mer om urvalsprocessen](../03-val-av-mottagningar/urvalspresentation.md)
-
-## Analysens kärna
-
-För varje case följer analysen samma kedja:
-
-### Struktur
-Vilka villkor formar verksamheten?
-
-### Praktik
-Vad gör man faktiskt?
-
-### Mekanism
-Vad verkar få arbetssättet att fungera?
-
-### Hinder och möjliggörare
-Vad stärker eller begränsar praktiken?
-
-### Överförbarhet
-Vad kan en annan verksamhet rimligen lära eller använda?
-
-### Rekommendation
-Vad bör bevaras, utvecklas eller förändras?
+**Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
 
 [Läs mer om analysmodellen](../04-analysmodellen/README.md)
 
-## Jämlikhet är en genomgående fråga
+## Hälsoliteracitet som gränssnitt
 
-Jämlik tillgång behandlas inte som ett separat tema vid sidan av analysen.
+Hälsoliteracitet används relationellt: vilka krav ställer systemet på att personen ska kunna **hitta, förstå, värdera, använda och navigera** information och vård — och vad gör verksamheten för att minska eller öka denna börda?
 
-I stället följer vi bland annat:
+Det innebär **inte** individuell scoring och gör inte uppdraget till en separat hälsoliteracitets- eller patientstudie.
 
-- åldersgränser;
-- vägen in i vården;
-- geografiska hinder;
-- kostnader;
-- språk och tolk;
-- digital tillgång;
-- målgruppsanpassningar;
-- hur personer med komplexa behov blir mottagna;
-- hur vården fungerar för personer som inte passar in i en enkel vårdkategori.
+## Urvalet är en del av metodkvaliteten
 
-## Vad uppdraget inte är
+Tre mottagningar kan inte representera hela Sverige. Därför skapas ingen topplista eller statistiskt representativ ranking.
 
-Arbetet är avgränsat.
+**Brett register → Grundkrav → Relevans → Palett → Dialog med RFSU → Tre mottagningar**
 
-Det är inte:
+Syftet är att välja tre verksamheter som ger olika men jämförbara lärandepositioner.
 
-- en nationell ranking av mottagningar;
-- en fullständig utvärdering av svensk SRHR-vård;
-- en patientutfallsstudie;
-- en nationell prevalensstudie;
-- en kausal effektutvärdering.
+[Läs mer om urvalsprocessen](../03-val-av-mottagningar/urvalspresentation.md)
 
-Det huvudsakliga empiriska fokuset ligger på de tre valda verksamheterna, deras strukturella villkor och nyckelpersoners erfarenheter av hur arbetet faktiskt bedrivs.
+## Praktiskt genomförande
+
+Analysarkitekturen är medvetet rikare än datainsamlingen.
+
+> **Analytisk komplexitet får inte automatiskt skapa metodisk eller empirisk komplexitet.**
+
+Grunddesignen är:
+
+**Gemensam nationell benchmark → tre case → begränsat strukturellt underlag + ett primärt empiriskt block med relevanta nyckelpersoner per case → tre standardiserade case sheets → tvär-case-syntes → rekommendationer**
+
+Patientintervjuer, patientenkät, individuell hälsoliteracitetsmätning, effektstudie, full nationell systemkartläggning eller extra case aktiveras inte automatiskt.
+
+## Jämlikhet är tvärgående
+
+Analysen söker systematiska skillnader mellan normativ vårdstandard och faktisk vårdmöjlighet. Den kan bland annat uppmärksamma geografi, vägar in, kostnader, språk, digital tillgång, professionell access, samordningskrav och hur komplexa behov hanteras.
 
 ## Kvalitetsprinciper
 
-Fyra principer ska hålla ihop uppdraget:
-
-### Spårbarhet
-Påståenden ska kunna följas tillbaka till källa, case-material eller tydligt markerad analys.
-
-### Jämförbarhet
-Samma grundstruktur används för alla tre case.
-
-### Tydlig osäkerhet
-Sådant som inte går att verifiera markeras som oklart i stället för att fyllas i med antaganden.
-
-### Villkorad överförbarhet
-Ett arbetssätt presenteras inte som universellt fungerande. Vi beskriver vilka villkor som behöver finnas för att det ska kunna fungera någon annanstans.
-
-## Arbetsform
-
-Uppdraget är uppbyggt som en sammanhängande kedja:
-
-**Urval → strukturellt underlag → intervjuer/fokusgrupper → caseanalys → jämförelse → överförbarhet → rekommendationer → rapport och presentation**
-
-[Läs mer om arbetsprocessen](../02-arbetsprocessen/README.md)
+- **Spårbarhet:** påståenden ska kunna följas tillbaka till källa, case-material eller tydligt markerad analys.
+- **Jämförbarhet:** samma grundstruktur används för alla tre case.
+- **Tydlig osäkerhet:** sådant som inte kan verifieras fylls inte i med antaganden.
+- **Villkorad överförbarhet:** ett arbetssätt beskrivs tillsammans med de villkor som krävs för att fungera någon annanstans.
+- **Proportionalitet:** nya datakällor eller metoder kräver ett centralt evidensgap och tydlig beslutnytta.
 
 ## Kortversion
 
-> **Tre mottagningar används för att förstå hur strukturella villkor formar faktisk vuxen-SRHR-praktik och vilka fungerande mekanismer som kan överföras vidare.**
+> **Tre mottagningar används för att förstå hur en nationell vårdstandard blir — eller inte blir — praktiskt realiserbar för individen, och vilka mekanismer och villkor som kan förbättras eller överföras.**
 
 ---
 
-**Version:** Extern DNA-spegling v0.1  
-**Datum:** 21 september 2026  
-**Status:** EXTERNAL-STABLE / kan uppdateras när uppdraget formellt startar
+**Version:** Extern DNA-spegling v0.2  
+**Datum:** 2 oktober 2026  
+**Status:** EXTERNAL-STABLE / SYNOPSIS 1.1 ALIGNED
