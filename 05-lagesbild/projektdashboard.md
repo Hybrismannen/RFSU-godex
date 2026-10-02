@@ -2,7 +2,7 @@
 
 ![Projektdashboard](../09-visuellt-material/assets/projektdashboard.svg)
 
-**Build:** `RFSU-DASH-a36076296645` · **Fas:** Förberedelse inför anbud
+**Build:** `RFSU-DASH-a00a61112b5f` · **Fas:** Förberedelse inför anbud
 
 Dashboarden är den publika projektionen av samma källkontrollerade projektmodell som används internt.
 
