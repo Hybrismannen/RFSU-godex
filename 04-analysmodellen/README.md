@@ -1,42 +1,86 @@
-# 04 — Analysmodellen
+# 04 — Analysmodellen 1.0
 
-Analysen bygger på två spår som först undersöks var för sig och sedan kopplas ihop.
+Den aktiva analysmodellen utgår från [**Synopsis 1.0**](../01-uppdraget/synopsis-v1.0.md).
 
-## Strukturella villkor
+## Grundposition
 
-Vi tittar bland annat på:
-- formellt uppdrag;
-- regionala riktlinjer;
-- avtal och styrning;
-- organisatorisk placering;
-- mandat och resurser;
-- vägar in i vården.
+Analysen ska inte ompröva svensk hälso- och sjukvårds normativa ram. Begrepp som **jämlik vård, personcentrering, holistisk/sammanhållen vård samt tillgänglighet och vårdval** skrivs fram från relevanta nationella styr- och kunskapsramar och används som benchmark.
 
-## Arbetssätt och praktik
+Analysens uppgift är i stället att förstå **hur väl denna ram kan realiseras för de grupper som RFSU särskilt värnar om**.
 
-Vi undersöker bland annat:
-- hur mottagningen faktiskt arbetar;
-- vilka professioner som deltar;
-- hur olika kompetenser samverkar;
-- hur patienter kommer in i vården;
-- bedömning, stöd och behandling;
-- uppföljning;
-- hur arbetet anpassas efter olika behov.
+## Analyskedjan
 
-## Från praktik till överförbar kunskap
-
-```text
+~~~text
+Nationell vårdram
+        ↓
 Strukturella villkor
         ↓
-Faktiskt arbetssätt
+Organisatoriskt kapital
         ↓
-Vad är det som får arbetssättet att fungera?
+Faktisk praktik
         ↓
-Vad möjliggör eller hindrar?
+Kvantitet + kvalitet
         ↓
-Vad är lokalt och vad kan överföras?
+Realiserbar vårdmöjlighet
+        ↓
+Jämlikhets- / gapanalys
+        ↓
+Hinder och möjliggörare
+        ↓
+Förbättring + överförbarhet
+~~~
+
+## Nationell vårdram
+
+Den nationella ramen är analysens fasta referenspunkt. Den ska inte definieras genom de tre casen.
+
+Projektet kommer därför att skriva fram vad relevanta nationella ramverk anger om bland annat:
+- jämlik vård;
+- personcentrerad vård;
+- holistisk och sammanhållen vård;
+- tillgänglighet och patientens faktiska möjligheter att nå relevant vård.
+
+## Realiseringssystemet
+
+Mellan den normativa ramen och den vård en person faktiskt får finns ett realiseringssystem.
+
+Analysen undersöker:
+- strukturella villkor;
+- organisatorisk förmåga och kapacitet;
+- kompetens och samordning;
+- kunskapsförmåga och kontinuitet;
+- handlingsutrymme;
+- faktisk praktik;
+- tillgänglighetsarkitektur.
+
+## Kvantitet och kvalitet
+
+**Kvantitet** avser hur mycket faktisk vårdmöjlighet som finns: exempelvis tillgång, kapacitet, vägar in, tid och plats.
+
+**Kvalitet** avser vilken vård personen faktiskt kan få: exempelvis relevans, bemötande, samordning, personcentrering och förmåga att möta komplexa eller sammansatta behov.
+
+Tillsammans formar de den **realiserbara vårdmöjligheten**.
+
+## Tre case — samma dataprotokoll
+
+De tre mottagningarna analyseras genom samma grundstruktur men i olika kontexter. Skillnader i exempelvis geografi, huvudmannaskap, organisatorisk form, service scope och organisatoriskt kapital används som analyslinser — inte som rangordningskriterier.
+
+## Tvär-case syntes
+
+~~~text
+Likheter / skillnader
+        ↓
+Verksam mekanism
+        ↓
+Jämlikhetsimplikation
+        ↓
+Överförbarhet
         ↓
 Rekommendation
-```
+~~~
 
-Målet är alltså inte bara att beskriva goda exempel, utan att förstå varför de fungerar och under vilka förutsättningar.
+Rekommendationen ska precisera **vad som bör förändras, för vem, under vilka villkor och varför förändringen skulle förbättra möjligheten att realisera den vårdstandard som redan gäller**.
+
+## Versionsprincip
+
+Tidigare analysformuleringar är bevarade i [backlog/historik](../99-backlog-historik/README.md). Synopsis 1.0 är den aktiva tolkningsramen.
