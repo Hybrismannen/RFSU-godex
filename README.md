@@ -2,7 +2,7 @@
 
 ![Projektdashboard](09-visuellt-material/assets/projektdashboard.svg)
 
-[**Öppna projektdashboarden**](05-lagesbild/projektdashboard.md) · [Urvalsprocess](09-visuellt-material/assets/urvalsprocess.svg) · [Analysmodell](09-visuellt-material/assets/analysmodell.svg) · [Arbetsprocess](09-visuellt-material/assets/arbetsprocess.svg)
+[**Öppna projektdashboarden**](05-lagesbild/projektdashboard.md) · [**Synopsis 1.0**](01-uppdraget/synopsis-v1.0.md) · [Urvalsprocess](09-visuellt-material/assets/urvalsprocess.svg) · [Analysmodell 1.0](04-analysmodellen/README.md) · [Arbetsprocess](09-visuellt-material/assets/arbetsprocess.svg)
 
 > **Aktuell lägesbild först.** Dashboarden ovan genereras från samma källkontrollerade projektstatus som används i den interna projektstyrningen.
 
@@ -38,11 +38,15 @@ Den publika projektionen innehåller inte intern RAMx-detalj, kommersiella uppgi
 **08 — Källor** håller den publika spårbarheten.  
 **09 — Visuellt material** samlar genererade projektbilder.
 
-## Två centrala logiker
+## Kanonisk tolkning — Synopsis 1.0
+
+Från 2 oktober 2026 är [**Synopsis 1.0**](01-uppdraget/synopsis-v1.0.md) den aktiva överordnade tolkningen av uppdraget.
+
+**Analys:** Nationell vårdram → strukturella villkor → organisatoriskt kapital → faktisk praktik → kvantitet och kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet
 
 **Urval:** Alla → Gate → Relevans → Palett → Dialog med RFSU → Tre mottagningar
 
-**Analys:** Strukturella villkor → faktisk praktik → verksam mekanism → hinder/möjliggörare → överförbarhet → rekommendation
+Tidigare konceptuella versioner finns kvar i [backlog/historik](99-backlog-historik/README.md).
 
 ## Public-by-design
 
