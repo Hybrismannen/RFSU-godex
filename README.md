@@ -2,7 +2,7 @@
 
 ![Projektdashboard](09-visuellt-material/assets/projektdashboard.svg)
 
-[**Öppna projektdashboarden**](05-lagesbild/projektdashboard.md) · [**Synopsis 1.0**](01-uppdraget/synopsis-v1.0.md) · [Urvalsprocess](09-visuellt-material/assets/urvalsprocess.svg) · [Analysmodell 1.0](04-analysmodellen/README.md) · [Arbetsprocess](09-visuellt-material/assets/arbetsprocess.svg)
+[**Öppna projektdashboarden**](05-lagesbild/projektdashboard.md) · [**Synopsis 1.1**](01-uppdraget/synopsis-v1.1.md) · [Urvalsprocess](09-visuellt-material/assets/urvalsprocess.svg) · [Analysmodell 1.1](04-analysmodellen/README.md) · [Arbetsprocess](09-visuellt-material/assets/arbetsprocess.svg)
 
 > **Aktuell lägesbild först.** Dashboarden ovan genereras från samma källkontrollerade projektstatus som används i den interna projektstyrningen.
 
@@ -38,11 +38,11 @@ Den publika projektionen innehåller inte intern RAMx-detalj, kommersiella uppgi
 **08 — Källor** håller den publika spårbarheten.  
 **09 — Visuellt material** samlar genererade projektbilder.
 
-## Kanonisk tolkning — Synopsis 1.0
+## Kanonisk tolkning — Synopsis 1.1
 
-Från 2 oktober 2026 är [**Synopsis 1.0**](01-uppdraget/synopsis-v1.0.md) den aktiva överordnade tolkningen av uppdraget.
+Från 2 oktober 2026 är [**Synopsis 1.1**](01-uppdraget/synopsis-v1.1.md) den aktiva överordnade tolkningen. Synopsis 1.0 finns kvar som tidigare stabil version.
 
-**Analys:** Nationell vårdram → strukturella villkor → organisatoriskt kapital → faktisk praktik → kvantitet och kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet
+**Analys:** Nationell vårdram → strukturella villkor → organisatoriskt kapital → faktisk praktik → individens vårdrealiseringsresa → kvantitet och kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet
 
 **Urval:** Alla → Gate → Relevans → Palett → Dialog med RFSU → Tre mottagningar
 
