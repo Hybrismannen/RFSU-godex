@@ -2,7 +2,7 @@
 
 ![Projektdashboard](09-visuellt-material/assets/projektdashboard.svg)
 
-[**Öppna projektdashboarden**](05-lagesbild/projektdashboard.md) · [**Synopsis 1.1**](01-uppdraget/synopsis-v1.1.md) · [Urvalsprocess](09-visuellt-material/assets/urvalsprocess.svg) · [Analysmodell 1.1](04-analysmodellen/README.md) · [Arbetsprocess](09-visuellt-material/assets/arbetsprocess.svg)
+[**Öppna projektdashboarden**](05-lagesbild/projektdashboard.md) · [**Synopsis 1.1**](01-uppdraget/synopsis-v1.1.md) · [**ITR-arbetsordning**](02-arbetsprocessen/ITR-1-5-arbetsordning.md) · [Urvalsprocess](09-visuellt-material/assets/urvalsprocess.svg) · [Analysmodell 1.1](04-analysmodellen/README.md) · [Arbetsprocess](09-visuellt-material/assets/arbetsprocess.svg)
 
 > **Aktuell lägesbild först.** Dashboarden ovan genereras från samma källkontrollerade projektstatus som används i den interna projektstyrningen.
 
@@ -51,3 +51,10 @@ Tidigare konceptuella versioner finns kvar i [backlog/historik](99-backlog-histo
 ## Public-by-design
 
 Intervjurådata, personuppgifter, konfidentiella dokument, känsliga arbetsanteckningar och intern kommersiell planering publiceras inte här.
+
+
+## Aktuellt ITR-läge
+
+**ITR 1, ITR 2 och ITR 3 är genomförda. Nästa steg är ITR 4 — uppdragsspecifik teamprofil.**
+
+Den interna operationaliseringen från ITR 3 publiceras inte som intern metodapparat här; den publika ytan visar endast den del som hjälper externa läsare att förstå uppdrag, arbetsprocess, urval och analys.
