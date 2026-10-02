@@ -39,3 +39,9 @@ Detta skapar inte en separat patientstudie. Resan rekonstrueras i grunddesignen 
 ## Avgränsning
 
 Patientintervjuer, enkät, hälsoliteracitetsmätning, effektstudie eller utökad nationell kartläggning ingår inte automatiskt. Ny datainsamling aktiveras endast om befintligt material inte räcker för att besvara en central fråga i uppdraget.
+
+## Anbudsfas — ITR 1–5
+
+[**Läs arbetsordningen ITR 1–5**](ITR-1-5-arbetsordning.md)
+
+ITR-kedjan säkrar att den färdiga anbudstexten först byggs efter en ny fullständig avstämning mellan RFSU:s annons, den etablerade designen och det material som faktiskt ska lämnas in.
