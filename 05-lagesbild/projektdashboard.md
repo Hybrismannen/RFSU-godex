@@ -2,7 +2,7 @@
 
 ![Projektdashboard](../09-visuellt-material/assets/projektdashboard.svg)
 
-**Build:** `RFSU-DASH-e8aefb23b371` · **Fas:** Förberedelse inför anbud
+**Build:** `RFSU-DASH-85796141cf21` · **Fas:** Förberedelse inför anbud
 
 Dashboarden är den publika projektionen av samma källkontrollerade projektmodell som används internt.
 
@@ -15,9 +15,9 @@ Dashboarden är den publika projektionen av samma källkontrollerade projektmode
 | Mottagningsfält | **27 identifierade; 7 i dialogpaletten; 0/3 slutligt valda** |
 | Genomförande | **Inte startat** |
 
-## Tre bilder som förklarar arbetet
+## Fyra bilder som förklarar arbetet
 
-[Urvalsprocess](../09-visuellt-material/assets/urvalsprocess.svg) · [Analysmodell](../09-visuellt-material/assets/analysmodell.svg) · [Arbetsprocess](../09-visuellt-material/assets/arbetsprocess.svg)
+[Urvalsprocess](../09-visuellt-material/assets/urvalsprocess.svg) · [Analysmodell](../09-visuellt-material/assets/analysmodell.svg) · [Vårdrealiseringsresa](../09-visuellt-material/assets/vardrealiseringsresa.svg) · [Arbetsprocess](../09-visuellt-material/assets/arbetsprocess.svg)
 
 ## Urvalslogik
 
@@ -25,6 +25,6 @@ Dashboarden är den publika projektionen av samma källkontrollerade projektmode
 
 ## Analyslogik
 
-**Nationell vårdram → strukturella villkor → organisatoriskt kapital → faktisk praktik → kvantitet och kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet**
+**Nationell vårdram → strukturella villkor → organisatoriskt kapital → faktisk praktik → individens vårdrealiseringsresa → kvantitet och kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet**
 
 Den publika dashboarden innehåller inte intern RAMx-detalj, kommersiella uppgifter, interna risker eller intern metodstyrning.
