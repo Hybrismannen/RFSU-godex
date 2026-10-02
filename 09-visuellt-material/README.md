@@ -20,20 +20,30 @@
 
 Kända antal visas i bilden. Grundkrav och relevans är bedömningssteg och får därför inga fabricerade deltal.
 
-## Analysmodell
+## Analysmodell 1.1
 
-![Analysmodell](assets/analysmodell.svg)
+![Analysmodell 1.1](assets/analysmodell.svg)
 
-**Struktur → Praktik → Mekanism → Hinder/möjliggörare → Överförbarhet → Rekommendation**
+Analysmodellen håller samman tre nivåer:
+
+**Nationell vårdram → realiseringssystem → individens vårdrealiseringsresa → realiserbar vårdmöjlighet → gap → förbättring/överförbarhet.**
+
+## Individens vårdrealiseringsresa
+
+![Individens vårdrealiseringsresa](assets/vardrealiseringsresa.svg)
+
+**Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
+
+Visualen skiljer mellan teoretisk och praktisk vårdresa och visar hälsoliteracitet/navigation som en relationell gränssnittslins — inte som individuell scoring.
 
 ## Arbetsprocess
 
 ![Arbetsprocess](assets/arbetsprocess.svg)
 
-WP-strukturen visar leverans- och kapacitetslogiken. Exakta kalenderdatum låses först när uppdragets T0 är känt.
+Arbetsprocessen är medvetet mindre än analysarkitekturen: tre case, begränsat strukturellt underlag och ett primärt empiriskt block per case.
 
 ## Design- och dataprincip
 
-Alla fem kärnvisualer genereras från samma projektmodell. De ska inte handredigeras.
+Alla **sex kärnvisualer** genereras från samma projektmodell. De ska inte handredigeras.
 
 Om en visualisering och det källkontrollerade textunderlaget skulle skilja sig åt är textunderlaget styrande tills nästa automatiska build har korrigerat bilden.
