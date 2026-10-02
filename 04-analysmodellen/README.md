@@ -32,6 +32,8 @@ Förbättring + överförbarhet
 
 ## Nationell vårdram
 
+[**Läs Nationell vårdram 0.1 — snabb benchmark med referenser**](nationell-vardram-v0.1.md)
+
 Den nationella ramen är analysens fasta referenspunkt. Den ska inte definieras genom de tre casen.
 
 Projektet kommer därför att skriva fram vad relevanta nationella ramverk anger om bland annat:
