@@ -1,8 +1,8 @@
-# Nationell vårdram 0.1 — benchmark för Analysmodell 1.0
+# Nationell vårdram 0.1 — benchmark för Analysmodell 1.1
 
 **Status:** PUBLIC WORKING BENCHMARK  
 **Datum:** 2026-10-02  
-**Relation till Synopsis 1.0:** Den nationella vårdramen är analysens fasta referenspunkt. Den ska inte omdefinieras genom de tre casen.
+**Relation till Synopsis 1.1:** Den nationella vårdramen är analysens fasta referenspunkt. Den ska inte omdefinieras genom de tre casen.
 
 Den här snabbversionen etablerar fyra delar som är tillräckliga för nästa steg i researchdesignen: **jämlik vård, personcentrerad vård, holistisk/sammanhållen vård samt tillgänglighet och vårdval**.
 
@@ -48,7 +48,7 @@ Patientlagen anger att olika insatser ska samordnas på ett ändamålsenligt sä
 
 Tillgänglighet är ett uttryckligt nationellt krav. Hälso- och sjukvårdslagen anger att god vård ska vara lätt tillgänglig. Patientlagen anger samma grundkrav och reglerar bland annat medicinsk bedömning, vårdgaranti och patientens rätt till information om hälsotillstånd, undersökning, vård och behandling. Tillgänglighet behöver därför förstås både som formell förekomst och som faktisk möjlighet att komma in i, orientera sig i och använda vården.
 
-Begreppet **vårdval** måste användas mer precist. I lagstiftningen omfattar val bland annat behandlingsalternativ och val av utförare, och i primärvården finns särskilda regler om listning och vårdvalssystem. Detta är smalare än det fenomen Synopsis 1.0 behöver analysera. Projektet bör därför skilja mellan **formellt vårdval** och det konsultanalytiska begreppet **realiserbar vårdmöjlighet**: den vård som en person faktiskt kan nå och få givet geografi, tid, kontaktvägar, information, kompetens, remiss-/ingångslogik och mottagningens kapacitet.
+Begreppet **vårdval** måste användas mer precist. I lagstiftningen omfattar val bland annat behandlingsalternativ och val av utförare, och i primärvården finns särskilda regler om listning och vårdvalssystem. Detta är smalare än det fenomen Synopsis 1.1 behöver analysera. Projektet bör därför skilja mellan **formellt vårdval** och det konsultanalytiska begreppet **realiserbar vårdmöjlighet**: den vård som en person faktiskt kan nå och få givet geografi, tid, kontaktvägar, information, kompetens, remiss-/ingångslogik och mottagningens kapacitet.
 
 **Arbetsdefinition:** Tillgänglighet beskriver den faktiska möjligheten att nå och använda relevant vård. Formellt vårdval hålls isär från projektets analytiska begrepp *realiserbar vårdmöjlighet*.
 
