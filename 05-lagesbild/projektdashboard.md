@@ -2,7 +2,7 @@
 
 ![Projektdashboard](../09-visuellt-material/assets/projektdashboard.svg)
 
-**Build:** `RFSU-DASH-891fae08312f` · **Fas:** Förberedelse inför anbud
+**Build:** `RFSU-DASH-e8aefb23b371` · **Fas:** Förberedelse inför anbud
 
 Dashboarden är den publika projektionen av samma källkontrollerade projektmodell som används internt.
 
@@ -25,6 +25,6 @@ Dashboarden är den publika projektionen av samma källkontrollerade projektmode
 
 ## Analyslogik
 
-**Strukturella villkor → Faktisk praktik → Verksam mekanism → Hinder/möjliggörare → Överförbarhet → Rekommendation**
+**Nationell vårdram → strukturella villkor → organisatoriskt kapital → faktisk praktik → kvantitet och kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet**
 
 Den publika dashboarden innehåller inte intern RAMx-detalj, kommersiella uppgifter, interna risker eller intern metodstyrning.
