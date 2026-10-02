@@ -1,6 +1,12 @@
 # 01 — Uppdraget
 
-Här samlas den externa beskrivningen av vad RFSU efterfrågar och hur uppdragets ramar påverkar arbetets utformning.
+Här samlas den externa beskrivningen av vad RFSU efterfrågar och hur Form & Flöde tolkar uppdragets analytiska riktning.
+
+## Kanonisk tolkning
+
+[**Synopsis 1.0 — Form & Flödes tolkning av RFSU-uppdraget**](synopsis-v1.0.md)
+
+Synopsis 1.0 är från 2 oktober 2026 den aktiva överordnade tolkningsramen för fortsatt researchdesign, metodutveckling och proposal.
 
 ## Uppdraget i korthet
 
@@ -25,15 +31,24 @@ Arbetet ska belysa:
 - hela uppdraget avslutat senast 19 februari 2027;
 - total budgetram 150 000 kronor inklusive moms.
 
+## Analytisk position
+
+Den nationella vårdramen är benchmark. Analysen undersöker hur väl den kan realiseras för de grupper RFSU särskilt värnar om genom att följa relationen mellan:
+
+**strukturella villkor → organisatoriskt kapital → faktisk praktik → kvantitet/kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → förbättring/överförbarhet.**
+
 ## Viktig princip
 
 Vi skiljer hela tiden mellan:
 - det RFSU uttryckligen efterfrågar;
-- vår tolkning av vad uppdraget kräver;
-- våra egna metodförslag.
+- nationella vårdprinciper och styrande ramar;
+- Form & Flödes tolkning;
+- metodiska och analytiska förslag.
+
+## Genealogi
+
+Tidigare konceptuella versioner är bevarade i [backlog/historik](../99-backlog-historik/README.md). De raderas inte men är inte längre den aktiva tolkningsramen.
 
 ## Uppdragets DNA
-
-En samlad beskrivning av uppdragets kärna, analyslogik, avgränsningar och kvalitetsprinciper finns här:
 
 [**Läs Uppdragets DNA**](uppdragets-dna.md)
