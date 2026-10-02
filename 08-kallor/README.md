@@ -16,3 +16,10 @@ Källor och tolkningar hålls isär så långt som möjligt.
 [**Referenser — Nationell vårdram 0.1**](nationell-vardram-referenser-v0.1.md)
 
 Källpaketet stödjer benchmarken för jämlik vård, personcentrering, sammanhållen vård samt tillgänglighet/vårdval i Analysmodell 1.0.
+
+
+## Hälsoliteracitet och vårdnavigation
+
+[**Källor — hälsoliteracitet och vårdnavigation 0.1**](halsoliteracitet-navigation-v0.1.md)
+
+Källorna används för att stödja den relationella analysen av hur individer behöver hitta, förstå, värdera, använda och navigera information och vårdtjänster.
