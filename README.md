@@ -2,59 +2,66 @@
 
 ![Projektdashboard](09-visuellt-material/assets/projektdashboard.svg)
 
-[**Öppna projektdashboarden**](05-lagesbild/projektdashboard.md) · [**Synopsis 1.1**](01-uppdraget/synopsis-v1.1.md) · [**ITR-arbetsordning**](02-arbetsprocessen/ITR-1-5-arbetsordning.md) · [Urvalsprocess](09-visuellt-material/assets/urvalsprocess.svg) · [Analysmodell 1.1](04-analysmodellen/README.md) · [Arbetsprocess](09-visuellt-material/assets/arbetsprocess.svg)
+[**Uppdragsdesign 2.0**](09-visuellt-material/uppdragsdesign-v2.0.md) · [**Konsultprofil**](10-konsultprofil/README.md) · [**Synopsis 1.1**](01-uppdraget/synopsis-v1.1.md) · [**ITR 1–5**](02-arbetsprocessen/ITR-1-5-arbetsordning.md) · [**Urval av mottagningar**](03-val-av-mottagningar/README.md) · [**Analysmodell 1.1**](04-analysmodellen/README.md) · [**Projektdashboard**](05-lagesbild/projektdashboard.md)
 
-> **Aktuell lägesbild först.** Dashboarden ovan genereras från samma källkontrollerade projektstatus som används i den interna projektstyrningen.
+> **Aktuell uppdragsdesign först.** Den publika samarbetsytan visar den svenska, klientnära projektionen av Form & Flödes interna projektstyrning och Proposal 2.0.
 
-Det här är den publika arbets- och kommunikationsytan för uppdraget om goda exempel på jämlik SRHR-vård för vuxna efter ungdomsmottagningsålder.
+Det här är den publika arbets- och kommunikationsytan för uppdraget om goda exempel på jämlik SRHR-vård för personer över ungdomsmottagningsålder.
 
-## Så uppdateras lägesbilden
+## Aktuellt läge
 
-~~~text
-intern projektstatus
-        ↓
-automatisk validering
-        ↓
-sensemaking / härledning
-        ↓
-RFSU-profilerad dashboard
-        ↓
-publik whitelist
-        ↓
-den här samarbetsytan
-~~~
+**ITR 1–5 är genomförda och passerade.** Kravbild, uppdragsförståelse, genomförandearkitektur, konsultprofiler och helhetsvisualisering är stabiliserade.
 
-Den publika projektionen innehåller inte intern RAMx-detalj, kommersiella uppgifter, interna risker eller intern metodstyrning.
+**Nästa steg är det första officiella svenska anbudsutkastet och slutlig paketering inför inlämning.**
 
-## Innehåll
+## Uppdragsdesign 2.0
+
+Den aktuella designen följer:
+
+> **Gemensam vårdram → tre ändamålsenligt varierade fall → gemensam materialarkitektur → vårdrealiseringsresa → standardiserad fallanalys → tvärgående mekanismanalys → rekommendationer och överförbarhet**
+
+Aktuell startkonfiguration för dialog med RFSU:
+
+1. **SESAM Mälarsjukhuset, Eskilstuna**
+2. **Hudmottagning Centrum för sexuell hälsa, Malmö**
+3. **Stockholms mottagning för sexuell hälsa**
+
+Den slutliga konfigurationen bekräftas tillsammans med RFSU.
+
+## Konsultteam
+
+**Linus Fast — uppdragsansvarig konsult**  
+Ansvarar för uppdragsledning, metod- och analysarkitektur, projektkontroll, syntes och slutleverans.
+
+**Adrian Repka — senior konsult**  
+Adrian medverkar genom genomförandet utifrån uppdragets behov och bidrar med processledning, kvalitativt arbete, jämlikhets- och normkritisk analys samt vård- och fertilitetsnära kompetens.
+
+[**Öppna full konsultprofil och CV-länkar →**](10-konsultprofil/README.md)
+
+## Samarbetsytans struktur
 
 **01 — Uppdraget** beskriver ramar och uppdragsförståelse.  
-**02 — Arbetsprocessen** visar hur genomförandet hänger ihop.  
+**02 — Arbetsprocessen** visar uppdragsdesign, genomförande och ITR-sekvens.  
 **03 — Val av mottagningar** visar register, urvalsprincip och dialogpalett.  
-**04 — Analysmodellen** visar hur struktur kopplas till praktik, mekanism och överförbarhet.  
-**05 — Lägesbild** innehåller den kanoniska dashboarden.  
+**04 — Analysmodellen** visar hur struktur kopplas till praktik, vårdresa, mekanism och överförbarhet.  
+**05 — Lägesbild** innehåller projektdashboarden.  
 **06 — Resultat** används när stabila resultat finns.  
 **07 — Leveranser** samlar rapport och presentation.  
 **08 — Källor** håller den publika spårbarheten.  
-**09 — Visuellt material** samlar genererade projektbilder.
+**09 — Visuellt material** samlar projektbilder och Uppdragsdesign 2.0.  
+**10 — Konsultprofil** presenterar Form & Flöde, Linus Fast och Adrian Repka samt uppdragsrelevanta CV-versioner.  
+**99 — Backlog/historik** samlar tidigare versioner och utvecklingsgenealogi.
 
 ## Kanonisk tolkning — Synopsis 1.1
 
-Från 2 oktober 2026 är [**Synopsis 1.1**](01-uppdraget/synopsis-v1.1.md) den aktiva överordnade tolkningen. Synopsis 1.0 finns kvar som tidigare stabil version.
+[**Synopsis 1.1**](01-uppdraget/synopsis-v1.1.md) är den aktiva överordnade tolkningen.
 
 **Analys:** Nationell vårdram → strukturella villkor → organisatoriskt kapital → faktisk praktik → individens vårdrealiseringsresa → kvantitet och kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet
 
-**Urval:** Alla → Gate → Relevans → Palett → Dialog med RFSU → Tre mottagningar
+**Urval:** Brett register → Gate → Relevans → Palett → Dialog med RFSU → Tre mottagningar
 
-Tidigare konceptuella versioner finns kvar i [backlog/historik](99-backlog-historik/README.md).
+Tidigare versioner finns i [backlog/historik](99-backlog-historik/README.md) och styr inte den aktiva ytan.
 
 ## Public-by-design
 
-Intervjurådata, personuppgifter, konfidentiella dokument, känsliga arbetsanteckningar och intern kommersiell planering publiceras inte här.
-
-
-## Aktuellt ITR-läge
-
-**ITR 1, ITR 2 och ITR 3 är genomförda. Nästa steg är ITR 4 — uppdragsspecifik teamprofil.**
-
-Den interna operationaliseringen från ITR 3 publiceras inte som intern metodapparat här; den publika ytan visar endast den del som hjälper externa läsare att förstå uppdrag, arbetsprocess, urval och analys.
+Intervjurådata, personuppgifter, konfidentiella dokument, känsliga arbetsanteckningar, interna kvalificeringskartor och intern kommersiell projektstyrning publiceras inte här.
