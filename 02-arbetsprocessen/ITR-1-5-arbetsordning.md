@@ -2,44 +2,38 @@
 
 ## Aktuellt läge
 
-**ITR 1, ITR 2, ITR 3 och ITR 4 är genomförda och passerade.** Kravbilden, anbudsarkitekturen, den interna genomförandestrukturen och konsultprofilerna är stabiliserade.
+**ITR 1–5 är genomförda och passerade.** Kravbilden, anbudsarkitekturen, den interna genomförandestrukturen, konsultprofilerna och helhetsvisualiseringen är stabiliserade.
 
-**Nästa steg:** ITR 5 — sammanhållen helhetsinfografik för uppdragets behov, design, genomförande, team, analys och leveranser.
+**Nästa steg:** första officiella svenska anbudsutkastet och slutlig paketering inför inlämning.
 
-Den här arbetsordningen beskriver hur Form & Flöde går från en etablerad analys- och metoddesign till ett komplett, spårbart och begripligt anbudsunderlag.
+Den här arbetsordningen visar hur Form & Flöde har gått från uppdragskrav till ett sammanhållet och spårbart anbudsunderlag.
 
 ## ITR 1 — Uppdraget mot designen
 
-RFSU:s aktuella uppdragsannons läses på nytt som styrande källa. Varje krav, önskemål, leverans, tids- och budgetvillkor samt efterfrågad kompetens bryts ned och kopplas till:
+RFSU:s uppdragsannons har brutits ned i krav, leveranser, tids- och budgetvillkor samt efterfrågad kompetens och kopplats till Form & Flödes design och anbudets svar.
 
-**RFSU:s krav → Form & Flödes design → var det besvaras i anbudet**
+**RFSU:s krav → Form & Flödes design → anbudets svar**
 
-Målet är att ingen del av uppdraget ska sakna en tydlig respons.
+## ITR 2 — Från kravkarta till anbudsarkitektur
 
-## ITR 2 — Från kravkarta till anbudsunderlag
-
-När kravbilden är låst skrivs anbudsunderlaget fram utifrån den strukturen. Metod, arbetsplan, urval, analys, team, erfarenhet, leveranser och genomförbarhet ska tillsammans visa hur Form & Flöde kan realisera det RFSU efterfrågar.
+Kravbilden har omsatts i metod, arbetsplan, tidsbudget, team, leveranser, kommersiell ram och struktur för anbudspaketet.
 
 ## ITR 3 — Intern DNA och genomförandekapacitet
 
-**Genomförd.** Det externa erbjudandet har översatts till en full proposal-stage projekt-DNA och operativ struktur. Varje materiell utfästelse i anbudet har ett internt hem: ansvar, metod, underlag, output, kvalitetsgrind, beroende och resurskoppling.
+Det externa erbjudandet har översatts till en sammanhållen intern genomförandestruktur med ansvar, metod, underlag, output, kvalitetsgrindar, beroenden och resurskoppling.
 
 ## ITR 4 — Teamprofil
 
-**Genomförd.** Adrian Repkas uppdragsspecifika profil och funktion är källbundet formulerad. Kompetens och erfarenhet som är relevant för uppdraget och stöds av underlaget används i den aktiva teamprofilen.
+Linus Fasts och Adrian Repkas uppdragsspecifika profiler och roller är stabiliserade. Adrian medverkar som senior konsult genom genomförandet utifrån uppdragets behov.
 
 ## ITR 5 — Helhetsinfografik
 
-**Aktiv.** En sammanhållen infografik tas fram som visar:
+Uppdragsdesign 2.0 visar hur uppdraget hänger ihop från gemensam vårdram och tre mottagningar till material, vårdrealiseringsresa, tvärgående analys, rekommendationer, genomförande och team.
 
-**RFSU:s behov → Form & Flödes svar → genomförande → team → analys → leveranser**
-
-Visualiseringen är en kommunikationsyta för den redan verifierade designen och blir inte en separat källa.
+[**Öppna Uppdragsdesign 2.0 →**](../09-visuellt-material/uppdragsdesign-v2.0.md)
 
 ## Ordning och kvalitet
 
-Arbetsordningen är sekventiell:
+> **ITR 1 PASS → ITR 2 PASS → ITR 3 PASS → ITR 4 PASS → ITR 5 PASS**
 
-> **ITR 1 → ITR 2 → ITR 3 → ITR 4 → ITR 5**
-
-Varje steg ska vara tillräckligt stabilt innan nästa stängs. På så sätt byggs anbudet från källspårbarhet och uppdragskrav, inte från generisk offerttext.
+Den aktiva anbudsdesignen bygger nu på Proposal 2.0 internt och lokaliseras till svenska för den officiella anbudsversionen.
