@@ -77,7 +77,7 @@ Analysen söker systematiska skillnader mellan normativ vårdstandard och faktis
 - **Jämförbarhet:** samma grundstruktur används för alla tre case.
 - **Tydlig osäkerhet:** sådant som inte kan verifieras fylls inte i med antaganden.
 - **Villkorad överförbarhet:** ett arbetssätt beskrivs tillsammans med de villkor som krävs för att fungera någon annanstans.
-- **Proportionalitet:** nya datakällor eller metoder kräver ett centralt evidensgap och tydlig beslutnytta.
+- **Proportionalitet:** nya datakällor eller metoder kräver ett centralt informationslucka och tydlig beslutnytta.
 
 ## Kortversion
 

@@ -44,7 +44,7 @@ Detta är en analysfråga om relationen individ ↔ system, inte ett försök at
 
 Komponenten ska **inte** skapa en separat patientstudie.
 
-Primär evidens hämtas i första hand från:
+Primär underlag hämtas i första hand från:
 - strukturella dokument och offentliga vårdvägar;
 - nyckelpersoners beskrivning av hur en person kommer in, rör sig vidare och får vård;
 - identifierade friktionspunkter, hänvisningar och samordningsbehov;
@@ -64,7 +64,7 @@ För varje steg noteras:
 - vad mottagningen/systemet gör;
 - identifierad friktion eller möjliggörare;
 - konsekvens för kvantitet, kvalitet och realiserbar vårdmöjlighet;
-- evidensstyrka.
+- stödnivå.
 
 ## Analytisk avgränsning
 

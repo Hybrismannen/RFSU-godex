@@ -22,7 +22,7 @@ När kravbilden är låst skrivs anbudsunderlaget fram utifrån den strukturen. 
 
 ## ITR 3 — Intern DNA och genomförandekapacitet
 
-**Genomförd.** Det externa erbjudandet har översatts till en full proposal-stage projekt-DNA och operativ struktur. Varje materiell utfästelse i anbudet har ett internt hem: ansvar, metod, evidens, output, kvalitetsgrind, beroende och resurskoppling.
+**Genomförd.** Det externa erbjudandet har översatts till en full proposal-stage projekt-DNA och operativ struktur. Varje materiell utfästelse i anbudet har ett internt hem: ansvar, metod, underlag, output, kvalitetsgrind, beroende och resurskoppling.
 
 ## ITR 4 — Teamprofil
 

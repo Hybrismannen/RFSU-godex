@@ -22,6 +22,6 @@ Bilden sammanfattar uppdragets fyra kärnor:
 
 **Praktiskt genomförande:** gemensam benchmark → tre case → kort strukturellt paket + ett primärt empiriskt block per case → tre case sheets → tvär-case-syntes → rekommendationer.
 
-Den analytiska modellen är medvetet rikare än datainsamlingen. Vårdrealiseringsresa och hälsoliteracitet/navigation används som analyslinser på samma begränsade evidenspaket.
+Den analytiska modellen är medvetet rikare än datainsamlingen. Vårdrealiseringsresa och hälsoliteracitet/navigation används som analyslinser på samma begränsade materialpaket.
 
 Visualiseringen genereras automatiskt och ska inte redigeras separat från projektmodellen.
