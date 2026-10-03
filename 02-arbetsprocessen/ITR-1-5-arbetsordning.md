@@ -2,9 +2,9 @@
 
 ## Aktuellt läge
 
-**ITR 1, ITR 2 och ITR 3 är genomförda och passerade.** Kravbilden och anbudsarkitekturen är låsta, och det som erbjuds i anbudet har nu översatts till en sammanhållen intern genomförandestruktur.
+**ITR 1, ITR 2, ITR 3 och ITR 4 är genomförda och passerade.** Kravbilden, anbudsarkitekturen, den interna genomförandestrukturen och konsultprofilerna är stabiliserade.
 
-**Nästa steg:** ITR 4 — uppdragsspecifik teamprofil och slutlig källbunden formulering av Adrian Repkas roll.
+**Nästa steg:** ITR 5 — sammanhållen helhetsinfografik för uppdragets behov, design, genomförande, team, analys och leveranser.
 
 Den här arbetsordningen beskriver hur Form & Flöde går från en etablerad analys- och metoddesign till ett komplett, spårbart och begripligt anbudsunderlag.
 
@@ -26,11 +26,11 @@ När kravbilden är låst skrivs anbudsunderlaget fram utifrån den strukturen. 
 
 ## ITR 4 — Teamprofil
 
-Adrian Repkas uppdragsspecifika profil och funktion skrivs fram kort och källbundet. Endast kompetens och erfarenhet som är relevant för uppdraget och stöds av underlaget används.
+**Genomförd.** Adrian Repkas uppdragsspecifika profil och funktion är källbundet formulerad. Kompetens och erfarenhet som är relevant för uppdraget och stöds av underlaget används i den aktiva teamprofilen.
 
 ## ITR 5 — Helhetsinfografik
 
-Slutligen tas en sammanhållen infografik fram som visar:
+**Aktiv.** En sammanhållen infografik tas fram som visar:
 
 **RFSU:s behov → Form & Flödes svar → genomförande → team → analys → leveranser**
 
