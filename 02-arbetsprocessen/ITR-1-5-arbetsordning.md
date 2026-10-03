@@ -4,7 +4,7 @@
 
 **ITR 1, ITR 2 och ITR 3 är genomförda och passerade.** Kravbilden och anbudsarkitekturen är låsta, och det som erbjuds i anbudet har nu översatts till en sammanhållen intern genomförandestruktur.
 
-**Nästa steg:** ITR 4 — uppdragsspecifik teamprofil och slutlig evidensbunden formulering av Adrian Repkas roll.
+**Nästa steg:** ITR 4 — uppdragsspecifik teamprofil och slutlig källbunden formulering av Adrian Repkas roll.
 
 Den här arbetsordningen beskriver hur Form & Flöde går från en etablerad analys- och metoddesign till ett komplett, spårbart och begripligt anbudsunderlag.
 
