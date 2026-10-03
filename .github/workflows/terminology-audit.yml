@@ -1,0 +1,35 @@
+name: One-time terminology audit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/terminology-audit.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scan tracked repository text
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          pat=re.compile(r'(evidence|evidens)',re.I)
+          hits=[]
+          for p in Path('.').rglob('*'):
+              if not p.is_file(): continue
+              if p.parts and p.parts[0] in {'.git','.github'}: continue
+              if p.suffix.lower() not in {'.md','.json','.py','.yml','.yaml','.txt','.svg'}: continue
+              try: text=p.read_text(encoding='utf-8')
+              except Exception: continue
+              for i,line in enumerate(text.splitlines(),1):
+                  if pat.search(line): hits.append((str(p),i,line.strip()))
+          print('MATCH_COUNT',len(hits))
+          for row in hits[:500]: print(f'{row[0]}:{row[1]}:{row[2]}')
+          PY
