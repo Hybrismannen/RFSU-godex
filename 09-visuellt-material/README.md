@@ -1,5 +1,13 @@
 # 09 — Visuellt material
 
+## Uppdragsdesign 2.0 — Proposal 2.0
+
+![Uppdragsdesign 2.0](uppdragsdesign-v2.0.svg)
+
+[**Textalternativ och förklaring**](uppdragsdesign-v2.0.md)
+
+Den här visualen visar hur hela uppdraget är konstruerat: gemensam vårdram, tre mottagningar, gemensam materialarkitektur, vårdrealiseringsresa, fallanalys, tvärgående syntes, rekommendationer, genomförande och team.
+
 ## Projektdashboard
 
 ![Projektdashboard](assets/projektdashboard.svg)
@@ -16,17 +24,13 @@
 
 ![Urvalsprocess](assets/urvalsprocess.svg)
 
-**Brett register → Grundkrav → Relevans → Dialogpalett → Dialog med RFSU → Tre case**
-
-Kända antal visas i bilden. Grundkrav och relevans är bedömningssteg och får därför inga fabricerade deltal.
+**Brett register → Grundkrav → Relevans → Dialogpalett → Dialog med RFSU → Tre fall**
 
 ## Analysmodell 1.1
 
 ![Analysmodell 1.1](assets/analysmodell.svg)
 
-Analysmodellen håller samman tre nivåer:
-
-**Nationell vårdram → realiseringssystem → individens vårdrealiseringsresa → realiserbar vårdmöjlighet → gap → förbättring/överförbarhet.**
+**Nationell vårdram → realiseringssystem → individens vårdrealiseringsresa → realiserbar vårdmöjlighet → gap → förbättring/överförbarhet**
 
 ## Individens vårdrealiseringsresa
 
@@ -34,16 +38,14 @@ Analysmodellen håller samman tre nivåer:
 
 **Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
 
-Visualen skiljer mellan teoretisk och praktisk vårdresa och visar hälsoliteracitet/navigation som en relationell gränssnittslins — inte som individuell scoring.
+Hälsoliteracitet och navigation används som en relationell gränssnittslins genom resan.
 
 ## Arbetsprocess
 
 ![Arbetsprocess](assets/arbetsprocess.svg)
 
-Arbetsprocessen är medvetet mindre än analysarkitekturen: tre case, begränsat strukturellt underlag och ett primärt empiriskt block per case.
+Arbetsprocessen omsätter analysarkitekturen i ett proportionerligt genomförande med tre fall, strukturellt material och ett primärt empiriskt block per fall.
 
 ## Design- och dataprincip
 
-Alla **sex kärnvisualer** genereras från samma projektmodell. De ska inte handredigeras.
-
-Om en visualisering och det källkontrollerade textunderlaget skulle skilja sig åt är textunderlaget styrande tills nästa automatiska build har korrigerat bilden.
+Visualerna ska hållas i linje med det källkontrollerade textunderlaget. Proposal 2.0 och Synopsis 1.1 är styrande för uppdragsdesignen.
