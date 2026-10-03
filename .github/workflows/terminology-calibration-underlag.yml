@@ -1,0 +1,97 @@
+name: One-time terminology calibration
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/terminology-calibration-underlag.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  calibrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Calibrate terminology across public Swedish project content
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          extensions={'.md','.json','.py','.yml','.yaml','.txt','.svg'}
+          skip_roots={'.git','.security','.github'}
+
+          replacements=[
+              ('evidensarkitektur','materialarkitektur'),
+              ('Evidensarkitektur','Materialarkitektur'),
+              ('evidensstruktur','materialstruktur'),
+              ('Evidensstruktur','Materialstruktur'),
+              ('evidensspår','materialspår'),
+              ('Evidensspår','Materialspår'),
+              ('evidenspaket','materialpaket'),
+              ('Evidenspaket','Materialpaket'),
+              ('strukturell evidens','strukturellt underlag'),
+              ('Strukturell evidens','Strukturellt underlag'),
+              ('praktikevidens','praktikmaterial'),
+              ('Praktikevidens','Praktikmaterial'),
+              ('empirisk evidens','empiriskt material'),
+              ('Empirisk evidens','Empiriskt material'),
+              ('evidensstyrka','stödnivå'),
+              ('Evidensstyrka','Stödnivå'),
+              ('evidenslucka','informationslucka'),
+              ('Evidenslucka','Informationslucka'),
+              ('evidensgap','informationslucka'),
+              ('Evidensgap','Informationslucka'),
+              ('evidensbaserad','kunskapsbaserad'),
+              ('Evidensbaserad','Kunskapsbaserad'),
+              ('evidensbas','underlagsbas'),
+              ('Evidensbas','Underlagsbas'),
+              ('evidenskedja','analyskedja'),
+              ('Evidenskedja','Analyskedja'),
+              ('evidensfält','materialfält'),
+              ('Evidensfält','Materialfält'),
+              ('evidensunderlag','underlag'),
+              ('Evidensunderlag','Underlag'),
+              ('evidensstöd','källstöd'),
+              ('Evidensstöd','Källstöd'),
+          ]
+
+          for p in Path('.').rglob('*'):
+              if not p.is_file() or p.suffix.lower() not in extensions:
+                  continue
+              if p.parts and p.parts[0] in skip_roots:
+                  continue
+              try:
+                  text=p.read_text(encoding='utf-8')
+              except Exception:
+                  continue
+
+              for a,b in replacements:
+                  text=text.replace(a,b)
+
+              text=re.sub(r'\bEvidens\b','Underlag',text)
+              text=re.sub(r'\bevidens\b','underlag',text)
+              text=re.sub(r'\bEvidence\b','Material',text)
+              text=re.sub(r'\bevidence\b','material',text)
+              text=text.replace('"evidence":','"source_control":')
+              p.write_text(text,encoding='utf-8')
+          PY
+
+      - name: Commit calibrated terminology
+        shell: bash
+        run: |
+          git config user.name "rfsu-terminology-bot"
+          git config user.email "rfsu-terminology-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No terminology changes required."
+            exit 0
+          fi
+          git commit -m "terminology: calibrate study language to underlag, material and källstöd"
+          git push origin HEAD:main
