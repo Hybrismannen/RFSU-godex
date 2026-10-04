@@ -8,34 +8,34 @@
 
 ## Uppdragsdesign
 
-**Tre mottagningar följs genom samma analytiska arkitektur för att göra både skillnader och gemensamma mönster jämförbara.** Arbetet rör sig från gemensamma vårdprinciper och strukturella villkor till faktisk praktik, individens väg genom vården och de mekanismer som skapar relevant och jämlik vård.
+**Tre mottagningar följs genom samma analyssystem för att göra både skillnader och gemensamma mönster jämförbara.** Arbetet rör sig från en nationell referensram och strukturella villkor till faktisk praktik, individens vårdrealiseringsresa och de mekanismer som skapar relevant och jämlik vård.
 
-> **Gemensam vårdram → tre ändamålsenligt varierade fall → gemensam materialarkitektur → vårdrealiseringsresa → standardiserad fallanalys → tvärgående mekanismanalys → rekommendationer och överförbarhet**
+> **Nationell referensram → tre ändamålsenligt varierade fall → gemensam underlagsarkitektur → vårdrealiseringsresa → standardiserad fallanalys → tvärgående mekanismanalys → rekommendationer och överförbarhet**
 
 [**Läs uppdragsdesignen →**](06-visuellt-material/uppdragsdesign.md)
 
-## Föreslagna mottagningar
+## Föreslagen startpalett
 
-**Urvalet byggs för att ge tre relevanta verksamheter med användbar variation i organisatorisk placering, regional kontext, uppdrag och tillträdeslogik.** Form & Flöde går in i dialogen med RFSU med följande startkonfiguration:
+**Urvalet byggs för att ge tre relevanta verksamheter med användbar variation i organisatorisk placering, regional kontext, uppdrag och ingångslogik.** Form & Flöde går in i dialogen med RFSU med följande startpalett:
 
 1. **SESAM Mälarsjukhuset, Eskilstuna**
 2. **Hudmottagning Centrum för sexuell hälsa, Malmö**
 3. **Stockholms mottagning för sexuell hälsa**
 
-Den slutliga konfigurationen fastställs tillsammans med RFSU vid mobilisering.
+De slutliga tre fallen fastställs tillsammans med RFSU vid mobilisering.
 
 [**Läs om urvalet →**](03-val-av-mottagningar/README.md)
 
 ## Konsultteam
 
-**Linus Fast leder uppdraget och håller samman metod, analys, projektstyrning, syntes och slutleverans.** Adrian Repka medverkar som senior konsult i genomförandet utifrån de behov som uppstår genom processen.
+**Linus Fast leder uppdraget och håller samman metod, analys, projektstyrning, syntes och slutleverans.** Adrian Repka medverkar som senior konsult genom genomförandet utifrån de behov som uppstår i processen.
 
-Teamet kombinerar organisations- och processutveckling, utvärdering och kvalitativ analys med dokumenterad erfarenhet av jämlikhetsfrågor, vård- och fertilitetsnära arbete samt normkritiska och intersektionella perspektiv.
+Teamet kombinerar organisations- och processutveckling, utvärdering och kvalitativ analys med dokumenterad erfarenhet av jämlikhetsfrågor, vård- och fertilitetsrelaterat arbete samt normkritiska och intersektionella perspektiv.
 
 [**Möt Form & Flöde, Linus och Adrian →**](07-konsultprofil/README.md)
 
 ## Så hänger materialet ihop
 
-**Uppdraget** beskriver frågan och de ramar som styr arbetet. **Arbetsprocessen** visar hur material samlas in och utvecklas till tre jämförbara fall. **Val av mottagningar** visar urvalslogiken. **Analysmodellen** visar hur struktur, praktik och vårdrealiseringsresa kopplas samman. **Källor** samlar den publika spårbarheten. **Anbudet** för samman helheten i erbjudandet till RFSU. **Inlämningsexporten** samlar den text som ska kunna kopieras i ett enda block vid inlämning.
+**Uppdraget** beskriver frågan och de ramar som styr arbetet. **Arbetsprocessen** visar hur underlag samlas in och utvecklas till tre jämförbara fall. **Val av mottagningar** visar urvalslogiken. **Analysmodellen** visar hur struktur, praktik och vårdrealiseringsresa kopplas samman. **Källor** samlar den publika spårbarheten. **Anbudet** för samman helheten i erbjudandet till RFSU. **Inlämningsexporten** samlar den text som ska kunna kopieras i ett enda block vid inlämning.
 
 [**Öppna inlämningsexporten →**](08-anbud/export.md)
