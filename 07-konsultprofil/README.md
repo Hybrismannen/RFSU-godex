@@ -20,20 +20,20 @@ I RFSU-uppdraget leder Linus arbetet och ansvarar för metod- och analysarkitekt
 
 ---
 
-## Adrian Repka
+## AD
 
-![Adrian Repka](assets/adrian-repka-bw.webp)
+![AD](assets/adrian-repka-bw.webp)
 
 **Senior konsult**
 
-**Adrian Repka har erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsnära sammanhang.** Adrians dokumenterade erfarenhet omfattar användarcentrerade flöden och multiprofessionell samverkan inom fertilitetsområdet, jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
+**AD har erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsnära sammanhang.** AD:s dokumenterade erfarenhet omfattar användarcentrerade flöden och multiprofessionell samverkan inom fertilitetsområdet, jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
 
-Adrian Repka medverkar som senior konsult i genomförandet av uppdraget utifrån de behov som uppstår genom processen. Adrians kompetens används i processledning, kvalitativt arbete, jämlikhets- och normkritisk analys, vård- och fertilitetsnära frågor, gemensam analys, rekommendationsarbete samt återföring och erfarenhetsutbyte.
+AD medverkar som senior konsult i genomförandet av uppdraget utifrån de behov som uppstår genom processen. AD:s kompetens används i processledning, kvalitativt arbete, jämlikhets- och normkritisk analys, vård- och fertilitetsnära frågor, gemensam analys, rekommendationsarbete samt återföring och erfarenhetsutbyte.
 
-[**Adrians profil →**](adrian-repka.md) · [**CV →**](cv/adrian-repka-fullstandigt-cv-rfsu.md)
+[**AD:s profil →**](adrian-repka.md) · [**CV →**](cv/adrian-repka-fullstandigt-cv-rfsu.md)
 
 ---
 
 ## Teamet i uppdraget
 
-**Linus och Adrian utgör ett litet seniort konsultteam med tydligt uppdragsansvar och flexibel användning av kompetens.** Linus håller samman uppdragets arkitektur och slutleverans. Adrian medverkar genom hela genomförandet där Adrians kompetens skapar värde för uppdraget.
+**Linus och AD utgör ett litet seniort konsultteam med tydligt uppdragsansvar och flexibel användning av kompetens.** Linus håller samman uppdragets arkitektur och slutleverans. AD medverkar genom hela genomförandet där AD:s kompetens skapar värde för uppdraget.
