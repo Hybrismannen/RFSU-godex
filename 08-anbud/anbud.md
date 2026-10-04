@@ -3,7 +3,7 @@
 **Anbudsgivare:** Form & Flöde  
 **Uppdragsansvarig konsult:** Linus Fast  
 **Senior konsult:** Adrian Repka  
-**Datum:** 3 oktober 2026
+**Datum:** 4 oktober 2026
 
 ---
 
@@ -191,7 +191,7 @@ Rapporten samlar de tre fallen i en gemensam berättelse om villkor, praktik, hi
 
 **Form & Flöde arbetar med organisations- och processutveckling i offentlig sektor, civilsamhälle och tvärsektoriella sammanhang.** Arbetet kombinerar organisations- och systemanalys, processdesign, strategi, facilitering, utvärdering och lärande samt kunskapsöversättning.
 
-[**Läs konsultprofilen →**](../10-konsultprofil/README.md)
+[**Läs konsultprofilen →**](../07-konsultprofil/README.md)
 
 ## Linus Fast — uppdragsansvarig konsult
 
@@ -208,7 +208,7 @@ I uppdraget ansvarar Linus för:
 - rekommendationer;
 - rapportering och slutleverans.
 
-[**Linus profil →**](../10-konsultprofil/linus-fast.md) · [**CV →**](../10-konsultprofil/cv/linus-fast-fullstandigt-cv-rfsu.md)
+[**Linus profil →**](../07-konsultprofil/linus-fast.md) · [**CV →**](../07-konsultprofil/cv/linus-fast-fullstandigt-cv-rfsu.md)
 
 ## Adrian Repka — senior konsult
 
@@ -224,7 +224,7 @@ Adrian Repka medverkar som senior konsult i genomförandet av uppdraget utifrån
 - rekommendationsarbete;
 - återföring och erfarenhetsutbyte.
 
-[**Adrians profil →**](../10-konsultprofil/adrian-repka.md) · [**CV →**](../10-konsultprofil/cv/adrian-repka-fullstandigt-cv-rfsu.md)
+[**Adrians profil →**](../07-konsultprofil/adrian-repka.md) · [**CV →**](../07-konsultprofil/cv/adrian-repka-fullstandigt-cv-rfsu.md)
 
 ## Teamets arbetssätt
 
@@ -298,7 +298,7 @@ Anbudet gäller i **30 dagar från sista anbudsdag**, till och med **3 november 
 
 ## Bilagor och länkar
 
-1. [Linus Fast — uppdragsrelevant CV](../10-konsultprofil/cv/linus-fast-fullstandigt-cv-rfsu.md)
-2. [Adrian Repka — uppdragsrelevant CV](../10-konsultprofil/cv/adrian-repka-fullstandigt-cv-rfsu.md)
-3. [Uppdragsdesign — infografik](../09-visuellt-material/uppdragsdesign-v2.0.svg)
-4. [Konsultteam och profiler](../10-konsultprofil/README.md)
+1. [Linus Fast — uppdragsrelevant CV](../07-konsultprofil/cv/linus-fast-fullstandigt-cv-rfsu.md)
+2. [Adrian Repka — uppdragsrelevant CV](../07-konsultprofil/cv/adrian-repka-fullstandigt-cv-rfsu.md)
+3. [Uppdragsdesign — infografik](../06-visuellt-material/uppdragsdesign.svg)
+4. [Konsultteam och profiler](../07-konsultprofil/README.md)
