@@ -1,25 +1,27 @@
-# 08 — Källor
+# Källor
 
-Här samlas publika källor som används i arbetet.
-
-Källorna ska göra det möjligt att förstå:
-- vad som bygger på RFSU:s uppdragsbeskrivning;
-- vad som kommer från offentliga verksamhetsbeskrivningar;
-- vad som kommer från forskning, myndigheter och andra relevanta källor;
-- vad som är konsultens egen analys eller metodförslag.
-
-Källor och tolkningar hålls isär så långt som möjligt.
-
+**Källorna gör uppdragets utgångspunkter och analys spårbara från nationell vårdram till mottagningsurval och vårdrealiseringsresa.** Här samlas de offentliga referenser som bär centrala delar av uppdragsdesignen.
 
 ## Nationell vårdram
 
-[**Referenser — Nationell vårdram 0.1**](nationell-vardram-referenser-v0.1.md)
+**Lagstiftning och nationella kunskapsramar ger den gemensamma referensen för jämlik vård, personcentrering, sammanhållning, tillgänglighet och delaktighet.**
 
-Källpaketet stödjer benchmarken för jämlik vård, personcentrering, sammanhållen vård samt tillgänglighet/vårdval i Analysmodell 1.0.
+[**Referenser för den nationella vårdramen →**](nationell-vardram-referenser.md)
 
+## Hälsolitteracitet och navigation
 
-## Hälsoliteracitet och vårdnavigation
+**Forskning om hälsolitteracitet och navigation stödjer analysen av samspelet mellan individens väg genom vården och systemets krav och stöd.**
 
-[**Källor — hälsoliteracitet och vårdnavigation 0.1**](halsoliteracitet-navigation-v0.1.md)
+[**Referenser om hälsolitteracitet och navigation →**](halsolitteracitet-och-navigation.md)
 
-Källorna används för att stödja den relationella analysen av hur individer behöver hitta, förstå, värdera, använda och navigera information och vårdtjänster.
+## Mottagningar och urval
+
+**Officiella verksamhetsbeskrivningar och offentliga vårdingångar används för att kartlägga mottagningarnas uppdrag, målgrupper, organisering och tillträde.**
+
+[**Källor för mottagningar och urval →**](mottagningskallor.md)
+
+## Spårbarhet genom uppdraget
+
+**Källmaterial, analys och konsultens metodiska konstruktion hålls tydligt åtskilda i framställningen.** Nationella källor sätter referensen, mottagningskällor beskriver verksamheternas offentligt dokumenterade form och det kvalitativa arbetet fördjupar bilden av faktisk praktik.
+
+[**Se analysmodellen →**](../04-analysmodellen/README.md)
