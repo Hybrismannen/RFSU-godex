@@ -24,4 +24,4 @@
 
 Den gemensamma vårdramen gör det möjligt att undersöka hur samma principer tar form i olika regionala och organisatoriska kontexter.
 
-[**Se källor för den nationella vårdramen →**](../08-kallor/nationell-vardram-referenser.md)
+[**Se källor för den nationella vårdramen →**](../05-kallor/nationell-vardram-referenser.md)
