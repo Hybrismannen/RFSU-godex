@@ -47,6 +47,6 @@ Resan rekonstrueras genom strukturellt material och nyckelpersoners beskrivninga
 
 > **Praktik → verksam mekanism → möjliggörande villkor → jämlikhetsimplikation → överförbarhet → rekommendation**
 
-[**Se uppdragsdesignen →**](../09-visuellt-material/uppdragsdesign-v2.0.md)  
+[**Se uppdragsdesignen →**](../09-visuellt-material/uppdragsdesign.md)  
 [**Se valet av mottagningar →**](../03-val-av-mottagningar/README.md)  
-[**Öppna anbudet →**](../11-anbud/officiellt-anbudsutkast-v1.0.md)
+[**Öppna anbudet →**](../11-anbud/anbud.md)
