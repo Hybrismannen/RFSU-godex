@@ -1,13 +1,22 @@
 # Anbud
 
-**Anbudet samlar Form & Flödes förslag till hur RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård kan genomföras.** Texten för samman uppdragsförståelse, uppdragsdesign, urval, materialinsamling, analys, arbetsplan, konsultteam, leveranser och prisram.
+**Anbudet samlar Form & Flödes slutliga förslag till hur RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård kan genomföras.** Den publika anbudssidan är harmoniserad mot slutversionen daterad 4 oktober 2026, med integritetssäkring av privata kontaktuppgifter.
 
-[**Öppna inlämningsexporten — kopiera allt i ett block →**](export.md)  
-[**Öppna det fullständiga anbudet →**](anbud.md)
+[**Öppna inlämningsexporten →**](export.md)  
+[**Öppna det fullständiga publika anbudet →**](anbud.md)
+
+## Slutversionskontroll
+
+Den interna PDF-slutversionen är presentations- och inlämningsartefakt. Den publika samarbetsytan är en redaktionell spegling, inte en klon. Metod, urvalslogik, arbetsplan, resursram, teamstruktur och referensidentiteter ska därför vara sakligt harmoniserade, medan telefonnummer och e-postadresser till referenspersoner inte publiceras här.
+
+De två terminologiska förtydligandena från slutgranskningen är:
+
+- **samordningsbörda på individen** — avser att individen själv måste hålla ihop delar av vårdresan när systemet inte gör det;
+- **grad av empiriskt stöd** — avser hur starkt underlag en analys eller slutsats har, inte söktryck eller beläggning i verksamheten.
 
 ## Inlämning
 
-Exportsidan är den praktiska källan vid inlämning i RFSU:s formulär. Den innehåller formulärsvaren, en sammanhållen anbudstext, arbetsinsats uttryckt både i timmar och arbetsdagar samt referens- och bilagestruktur. Privata kontaktuppgifter till referenspersoner publiceras inte i samarbetsytan.
+Exportsidan är den praktiska källan för formulärsvar och kompletterande portaltext. Slutlig anbuds-PDF och CV-filer hanteras i den privata leveransmiljön.
 
 ## Tillhörande material
 
