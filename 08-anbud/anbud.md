@@ -1,304 +1,349 @@
-# Anbud — kartläggning och analys av goda exempel på jämlik SRHR-vård
+# Anbud — kartläggning och analys av tre mottagningar för sexuell hälsa
 
 **Anbudsgivare:** Form & Flöde  
-**Uppdragsansvarig konsult:** Linus Fast  
+**Huvudkonsult:** Linus Fast  
 **Senior konsult:** Adrian Repka  
 **Datum:** 4 oktober 2026
 
 ---
 
-# Vårt förslag
+# Vårt erbjudande
 
-**Form & Flöde föreslår en jämförande kartläggning och analys av tre mottagningar som erbjuder SRHR-relaterad vård till personer över ungdomsmottagningsålder.** Arbetet följer hur strukturella villkor, konkreta arbetssätt och individens praktiska väg genom vården tillsammans formar möjligheten till relevant och jämlik vård.
+**Form & Flöde föreslår en jämförande analys av tre mottagningar för sexuell hälsa för personer över ungdomsmottagningsålder.** Uppdraget undersöker hur jämlik, personcentrerad, samordnad och tillgänglig SRHR-vård realiseras genom organisatoriska villkor, konkreta arbetssätt och den väg en person behöver ta genom vården.
 
-**Alla tre fall byggs och analyseras med samma arkitektur.** Det skapar jämförbarhet mellan mottagningarna och gör det möjligt att se vilka arbetssätt, mekanismer och organisatoriska villkor som bär de goda exemplen.
+**Designen är byggd som ett sammanhängande analyssystem.** Samma nationella referensram, underlagsarkitektur och vårdrealiseringsresa används i alla tre fallen, vilket skapar jämförbarhet från källa och praktik till mekanism, jämlikhetsimplikation och rekommendation.
 
-**Genomförandet koncentreras till det material som behövs för att besvara RFSU:s frågor inom tid och budget.** Varje fall kombinerar strukturellt material med ett kvalitativt block med relevanta nyckelpersoner, följt av fallanalys och tvärgående syntes.
+**Vi går in i uppdraget med en kvalificerad startpalett av mottagningar och en tydlig urvalsprocess.** De slutliga tre fallen fastställs tillsammans med RFSU vid mobilisering så att aktuell fältkunskap och RFSU:s prioriteringar formar den slutliga konfigurationen.
 
-**Uppdraget leds av Linus Fast tillsammans med Adrian Repka som senior konsult.** Teamet förenar organisations- och processutveckling, utvärdering och kvalitativ analys med dokumenterad kompetens inom jämlikhetsfrågor, vård- och fertilitetsnära arbete samt normkritiska och intersektionella perspektiv.
+**Uppdraget genomförs av ett litet seniorteam.** Linus Fast har uppdragsansvar och leder metod- och analysarkitektur samt slutleverans. Adrian Repka deltar som senior konsult genom uppdraget utifrån de behov som uppstår i processen.
 
 ---
 
 # 1. Uppdragsförståelse och syfte
 
-**RFSU efterfrågar kunskap om hur jämlik, holistisk, multiprofessionell och personcentrerad SRHR-vård organiseras och genomförs för personer över ungdomsmottagningsålder.** Kartläggningen ska synliggöra fungerande arbetssätt och de strukturella och praktiska villkor som påverkar möjligheten att få relevant vård.
+**Uppdraget handlar om hur etablerade principer i svensk hälso- och sjukvård blir verkliga vårdmöjligheter för personer som passerat ungdomsmottagningarnas åldersgräns.** Den nationella referensramen omfattar jämlik vård, personcentrering, samordnad och holistisk vård, tillgänglighet och realiserbar vårdmöjlighet.
 
-Vår centrala analysfråga är:
+**Den centrala analysfrågan är hur struktur och praktik tillsammans formar det som faktiskt blir möjligt för individen.** Formellt uppdrag, organisatoriskt kapital, faktisk praktik och individens väg genom vården analyseras därför som ett sammanhängande system.
 
-> **Vad gör relevant och jämlik SRHR-vård praktiskt möjlig för personer över ungdomsmottagningsålder, vilka hinder uppstår längs vägen och vilka arbetssätt och organisatoriska villkor kan bidra till utveckling i andra liknande verksamheter?**
+Uppdraget besvarar fyra sammanhängande frågor:
 
-**Analysen börjar i etablerade vårdprinciper och följer hur de realiseras i verksamheten.** På så sätt kopplas formella villkor, organisatorisk kapacitet, faktisk praktik och den vårdresa som individen behöver kunna genomföra samman i en gemensam analys.
+1. **Hur är de tre verksamheterna strukturellt organiserade?**
+2. **Hur fungerar vården i praktiken från väg in till samordning, kontinuitet och anpassning?**
+3. **Vilka mekanismer gör relevant och jämlik vård lättare eller svårare att realisera?**
+4. **Vilka arbetssätt och möjliggörande villkor har värde för utveckling i liknande verksamheter?**
+
+## Nationell referensram
+
+| Dimension | Arbetsdefinition i uppdraget |
+|---|---|
+| **Jämlik vård** | Personer med jämförbara behov ska ha reella möjligheter att få relevant vård på jämlika villkor; större behov kan motivera större eller annorlunda insatser. |
+| **Personcentrerad vård** | Vårdens organisation och praktik kan anpassas efter individens behov, förutsättningar och preferenser och möjliggör meningsfull delaktighet. |
+| **Samordnad och holistisk vård** | Relevanta behov, professioner och insatser hålls samman genom kontinuitet och samordning. |
+| **Tillgänglighet och realiserbar vårdmöjlighet** | Individen kan hitta, nå och använda relevant vård givet geografi, tid, kontaktvägar, information, ingångslogik, kompetens och kapacitet. |
+
+Referensramen hämtar stöd från Hälso- och sjukvårdslagen, Patientlagen och relevant svensk myndighetsvägledning. Den fulla källbilden utvecklas under mobilisering och den strukturella genomgången.
 
 ---
 
-# 2. Så är uppdraget konstruerat
+# 2. Metod och analysdesign
 
-**Uppdragsdesignen består av sju sammanhängande lager där varje lager skapar material för nästa.** Konstruktionen gör vägen från gemensam vårdram till rekommendationer tydlig och spårbar.
+**Metoden är konstruerad som ett sammanhängande analyssystem där varje lager skapar det underlag som nästa lager behöver.** Konstruktionen håller datainsamlingen proportionerlig, skapar jämförbarhet och gör vägen från källmaterial till rekommendation tydlig.
 
-> **Gemensam vårdram → ändamålsenlig variation mellan fall → gemensam materialarkitektur → vårdrealiseringsresa → standardiserad fallanalys → tvärgående mekanismanalys → rekommendationer och överförbarhet**
+> **Nationell referensram → ändamålsenlig variation mellan fall → gemensam underlagsarkitektur → vårdrealiseringsresa → standardiserad fallanalys → tvärgående mekanismanalys → rekommendationer och överförbarhet**
 
-## 2.1 Gemensam vårdram
+## 2.1 Nationell referensram
 
-**Alla tre mottagningar analyseras mot samma vårdprinciper.** Jämlik vård, personcentrering, samordning och helhet samt tillgänglighet bildar en gemensam referens för frågor, materialinsamling och analys.
+**Samma referensdimensioner används i samtliga tre fall.** Jämlik vård, personcentrering, samordning och helhet, tillgänglighet och realiserbar vårdmöjlighet sätter de gemensamma analysfrågorna.
 
-Den gemensamma ramen gör det möjligt att undersöka hur motsvarande principer tar form under olika organisatoriska och regionala villkor.
+**Huvudleverans:** gemensam analytisk referensram.
 
-## 2.2 Tre fall med användbar variation
+## 2.2 Fallarkitektur och ändamålsenlig variation
 
-**De tre fallen väljs för att både motsvara RFSU:s kriterier och skapa en jämförelse som tillför kunskap.** Variation i organisatorisk placering, regional kontext, uppdrag, professionell sammansättning och tillträdeslogik används för att skapa analytiskt värde.
+**De tre fallen kombinerar stark passform för uppdraget med meningsfull organisatorisk variation.** Geografi, organisatorisk placering, utförarform, professionell konfiguration, ingångslogik och tjänsteomfattning används som analytiska kontraster.
 
-Form & Flöde går in i dialogen med RFSU med följande startkonfiguration:
+Urvalsprocessen följer:
 
-| Föreslagen mottagning | Funktion i jämförelsen |
-|---|---|
-| **SESAM Mälarsjukhuset, Eskilstuna** | Bred regional vuxen-SRHR-verksamhet med flera kompetenser och vårdbehov |
-| **Hudmottagning Centrum för sexuell hälsa, Malmö** | Specialistvårdskonfiguration som skapar regional och organisatorisk kontrast |
-| **Stockholms mottagning för sexuell hälsa** | Bred offentlig lågtröskelmodell med multiprofessionellt arbetssätt och flera ingångar |
+> **Brett register → Urvalskriterier → Relevans → Palett → RFSU-dialog → Tre fall**
 
-**Den slutliga konfigurationen fastställs tillsammans med RFSU vid mobilisering.** Urvalet stöds av ett nationellt arbetsregister, tydliga grundkrav, relevansbedömning och en bredare diskussionspalett.
+Urvalskriterierna säkerställer uppdragsanpassning. Relevansbedömningen visar vad respektive fall tillför den jämförande designen.
 
-> **Brett register → Grundkrav → Relevans → Palett → Dialog med RFSU → Tre mottagningar**
+**Huvudleverans:** tre bekräftade fall, reservfall och en dokumenterad urvalsmotivering.
 
-## 2.3 Gemensam materialarkitektur
+## 2.3 Gemensam underlagsarkitektur i varje fall
 
-**Varje fall byggs genom två sammanlänkade materialspår: struktur och praktik.** Kombinationen visar både förutsättningarna för verksamheten och hur arbetet genomförs i vardagen.
+**Varje fall utvecklas genom två sammanlänkade underlagsspår: struktur och praktik.** Samma struktur används genom hela uppdraget för att skapa jämförbart material mellan fallen.
 
-### Strukturellt material
+### Strukturellt underlag
 
-Vi samlar bland annat:
 - formellt uppdrag och organisatorisk placering;
-- regionala riktlinjer och relevanta avtal;
-- styrning och finansierings-/resurssignaler;
-- tillträdes-, remiss- och egenremisslogik;
-- professionell sammansättning;
+- styrning, uppdrag och relevanta avtal;
+- ingångs- och remissvägar;
+- professionell konfiguration och resurser;
+- relevanta riktlinjer;
 - samverkansgränssnitt;
 - digital och fysisk tillgänglighet;
-- andra strukturella villkor som påverkar verksamheten.
+- andra strukturella villkor som formar verksamheten.
 
 ### Praktikmaterial
 
-Genom intervjuer och/eller fokusgrupper med relevanta nyckelpersoner undersöker vi bland annat:
 - hur personer hittar och kommer in i verksamheten;
-- hur behov identifieras;
+- hur behov identifieras och bedöms;
 - hur professioner samverkar;
-- hur vården anpassas till individen;
-- hur kombinerade eller komplexa behov hanteras;
-- hur kontinuitet och vidare hänvisning fungerar;
-- vilka hinder och möjliggörande villkor personalen ser;
-- vilka arbetssätt som uppfattas som särskilt fungerande.
+- hur medicinska och psykosociala behov hålls samman;
+- hur komplexa eller kombinerade behov hanteras;
+- hur kontinuitet, koordinering och anpassning skapas;
+- vilka hinder och möjliggörande villkor personalen identifierar.
+
+**Huvudleverans:** en strukturell fallprofil och ett strukturerat praktikunderlag per fall.
 
 ## 2.4 Individens vårdrealiseringsresa
 
-**Vårdrealiseringsresan kopplar organisationen till den vård som faktiskt blir möjlig att nå och använda.** Samma resa rekonstrueras i varje fall:
+**Vårdrealiseringsresan kopplar organisationen till den vård som faktiskt går att nå och använda.** Samma resa rekonstrueras i varje fall:
 
-> **Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
+> **Behov → orientering → vårdval/väg in → vårdkedja/navigation → relevant vård → vård given → samlad upplevelse**
 
-**Resan gör mötet mellan systemets krav och verksamhetens stöd synligt.** Analysen följer vad individen behöver hitta, förstå, värdera, använda och navigera och hur mottagningen underlättar den rörelsen genom vården.
+För varje steg dokumenteras den formella vägen, den praktiska vägen, friktion och möjliggörande villkor samt vilket underlag tolkningen bygger på.
+
+**Hälsolitteracitet används som ett relationellt gränssnitt mellan individ och system.** Analysen följer vad individen behöver hitta, förstå, värdera, välja, använda och navigera och hur vårdsystemet förändrar denna belastning.
+
+**Huvudleverans:** en rekonstruerad vårdrealiseringsresa per fall.
 
 ## 2.5 Standardiserad fallanalys
 
-**Materialet förs in i samma analysstruktur från början.** Varje fall sammanställs i en gemensam fallmall med strukturella villkor, organisatorisk kapacitet, faktisk praktik, vårdrealiseringsresa, hinder, möjliggörare, jämlikhetsimplikationer och stödnivå i materialet.
+**Allt material förs in i samma analysstruktur från början.** Den strukturella genomgången, intervjuerna, vårdrealiseringsresan och analysen fyller samma gemensamma fält.
 
-De tre fallanalyserna blir byggstenar i den tvärgående analysen.
+Varje fall analyseras genom:
+
+- nationell referensram;
+- strukturella villkor;
+- organisatoriskt kapital;
+- faktisk praktik;
+- vårdrealiseringsresa;
+- kvantitet och kvalitet;
+- realiserbar vårdmöjlighet;
+- hinder och möjliggörande villkor;
+- jämlikhetsgap och jämlikhetsimplikationer;
+- överförbarhet;
+- stödnivå i tillgängligt material.
+
+**Huvudleverans:** tre jämförbara fallprofiler eller fallmemorandum.
 
 ## 2.6 Tvärgående mekanismanalys
 
-**Tvärfallsanalysen söker efter vad som fungerar, hur det fungerar och vilka villkor som gör det möjligt.** Goda exempel analyseras genom följande utvecklingskedja:
+**Tvärfallsanalysen identifierar mekanismer och villkor med värde över olika organisatoriska miljöer.** Jämförelsen följer friktion i vårdresan, organisatoriskt kapital, praktisk samordning, jämlikhetsimplikationer och de villkor som gör att ett arbetssätt fungerar.
+
+Utvecklingskedjan är:
 
 > **Praktik → verksam mekanism → möjliggörande villkor → jämlikhetsimplikation → överförbarhet → rekommendation**
 
-Kedjan gör det möjligt att se vilka delar av ett arbetssätt som bär funktionen och vilka organisatoriska förutsättningar som behöver finnas för att samma funktion ska kunna utvecklas i en annan verksamhet.
+**Huvudleverans:** jämförande syntesmatris och en strukturerad bild av mekanismer, hinder och möjliggörande villkor.
 
 ## 2.7 Rekommendationer och överförbarhet
 
-**Rekommendationerna byggs från hela analyskedjan.** Varje rekommendation kopplar samman vad som kan utvecklas, för vilka grupper eller situationer, under vilka villkor och varför förändringen är relevant.
+**Rekommendationerna byggs från hela analyskedjan över de tre fallen.** Varje rekommendation kopplar en utvecklingsmöjlighet till relevant mekanism, situation, möjliggörande villkor och analytisk grund.
 
-Överförbarhet bedöms utifrån funktion och förutsättningar. Det ger RFSU ett underlag för att förstå vilka komponenter som kan inspirera eller utvecklas vidare i andra organisatoriska sammanhang.
+**Överförbarhet uttrycks villkorat.** Analysen visar vad som kan flyttas, vad som behöver anpassas och vilka organisatoriska förutsättningar som behöver finnas för att arbetssättet ska behålla sitt värde.
 
----
-
-# 3. Materialinsamling och praktiskt genomförande
-
-**Materialinsamlingen koncentreras till det som behövs för att besvara uppdragets frågor med jämförbar kvalitet.** Samma tematiska struktur används i alla tre fallen och analysen påbörjas parallellt med insamlingen.
-
-## Strukturellt material per fall
-
-**Varje fall får en avgränsad strukturell profil med relevanta offentliga och verksamhetsnära källor.** Materialet väljs utifrån hur det bidrar till förståelsen av mandat, styrning, resurser, tillgänglighet och organisatoriska förutsättningar.
-
-## Kvalitativt block per fall
-
-**Varje mottagning får ett primärt kvalitativt block med relevanta nyckelpersoner.** Det kan genomföras som en gemensam fokusgrupp/intervjusession eller som ett mindre antal intervjuer när verksamhetens förutsättningar gör det mer ändamålsenligt.
-
-Deltagarkonfigurationen fastställs när de tre mottagningarna har bekräftats. Form & Flöde och RFSU säkerställer då att de funktioner och perspektiv som är centrala för respektive fall finns representerade.
-
-## Adaptiv fördjupning
-
-**Den adaptiva reserven används för kompletteringar som behövs för att besvara en central uppdragsfråga.** Behovet bedöms löpande genom fallanalysen och prioriteras inom uppdragets tid och resursram.
+**Huvudleverans:** praktiska rekommendationer för verksamhetsutveckling, kunskapshöjning och påverkansarbete.
 
 ---
 
-# 4. Arbetsplan och tidsbudget
+# 3. Föreslagen startpalett av mottagningar
 
-**Arbetsprocessen består av åtta sammanhängande arbetspaket och en adaptiv reserv.** Planeringsramen omfattar totalt 120 timmar.
+**Form & Flöde går in i uppdraget med tre välgrundade startfall som tillsammans skapar en stark jämförande konfiguration.** De slutliga tre verksamheterna fastställs tillsammans med RFSU vid mobilisering.
 
-| Arbetspaket | Innehåll | Huvudoutput | Planerad tid |
+| Föreslaget startfall | Analytiskt bidrag | Fokus vid mobilisering |
+|---|---|---|
+| **SESAM Mälarsjukhuset, Eskilstuna** | Bred regional vuxen-SRHR-verksamhet med barnmorske-, kurators- och medicinsk kompetens över flera vårdbehov | Aktuell teamkonfiguration, ingångsmodell och personcentrerade arbetssätt |
+| **Hudmottagning Centrum för sexuell hälsa, Malmö** | Specialistvårdskonfiguration som skapar tydlig regional och organisatorisk kontrast | Aktuell tjänstebredd och hur det multidisciplinära arbetet organiseras i praktiken |
+| **Stockholms mottagning för sexuell hälsa** | Bred offentlig lågtröskelverksamhet för vuxna med flera professioner och flera vägar in | Aktuella flöden, samordning och praktisk vårdväg |
+
+## Alternativa fall i dialogpaletten
+
+- **Afecto Älvsjö sexuell hälsa** — privat utförare under regionalt uppdrag;
+- **Sexualmedicinskt centrum, Göteborg** — specialistmodell inom sexualmedicin;
+- **Specialistmottagning sexuell hälsa Ersta/Karolinska** — integrerad specialist- och multidisciplinär modell;
+- **Mottagning unga män i primärvård, Uppsala** — riktad jämlikhets- och tillgänglighetsmodell för män 20–29 år.
+
+**Ett ersättningsfall väljs för att fylla en definierad funktion i tre-fallsdesignen.** Den jämförande logiken hålls därmed samman även om den slutliga mottagningskonfigurationen justeras tillsammans med RFSU.
+
+---
+
+# 4. Materialinsamling och fallutveckling
+
+**Basupplägget är kompakt och jämförbart.** Varje fall kombinerar en avgränsad strukturell genomgång med ett huvudsakligt empiriskt block med relevanta nyckelpersoner.
+
+## 4.1 Strukturell genomgång
+
+**Den strukturella genomgången bygger den organisatoriska kontext som fallanalysen behöver.** Dokument och verksamhetsinformation samlas in för att förstå uppdrag, styrning, tillgänglighet, resurser, professionell konfiguration och samverkansgränssnitt.
+
+Underlaget förs direkt in i den standardiserade fallstrukturen under arbetets gång.
+
+## 4.2 Intervjuer och/eller fokusgrupper
+
+**Varje fall får ett huvudsakligt empiriskt block med relevanta nyckelpersoner.** Blocket kan genomföras som en fokusgrupp/intervjusession eller som en mindre serie intervjuer när det ger den starkaste genomförbara konfigurationen.
+
+Den gemensamma guiden omfattar ingångsvägar, behovsbedömning, professionssamspel, samordning, kontinuitet, anpassning, komplexa behov, hinder, möjliggörande villkor och överförbarhet.
+
+Deltagarkonfigurationen fastställs när de tre fallen är bekräftade så att empirin speglar respektive organisationsform samtidigt som tematiken förblir jämförbar.
+
+## 4.3 Regel för anpassningar
+
+**Ytterligare materialinsamling aktiveras när en central uppdragsfråga kräver kompletterande underlag.** Beslutet vägs mot informationsgap, förväntat analysvärde och kvarvarande resursram.
+
+En reserv om 8 timmar skyddar denna anpassningskapacitet inom den överenskomna totalramen.
+
+---
+
+# 5. Arbetsplan, tidsbudget och leveransarkitektur
+
+**Arbetsprocessen går från mobilisering och fallurval till strukturellt underlag, praktikmaterial, analys, syntes, rekommendationer och återkoppling.** Analysen utvecklas parallellt med insamlingen så att senare frågor kan skärpas medan kontakten med verksamheterna fortfarande är aktiv.
+
+| Arbetsblock | Funktion | Huvudleverans | Tid |
 |---|---|---|---:|
-| **WP0 Mobilisering** | Uppstart, omfattning, kontakter, datahantering, kalender | Start-/leveransnot | 6 h |
-| **WP1 Urval** | Register, grundkrav, relevans, palett, RFSU-dialog | Tre fall + reservfall + motivering | 13 h |
-| **WP2 Strukturellt material** | Styrning, riktlinjer, avtal, organisation, tillträde | Tre strukturella fallprofiler | 16 h |
-| **WP3 Praktikmaterial** | Intervjuer/fokusgrupper med nyckelpersoner | Jämförbart praktikmaterial | 27 h |
-| **WP4 Fallanalys** | Struktur + praktik + vårdrealiseringsresa | Tre fallanalyser | 13 h |
-| **WP5 Tvärfallsanalys** | Mekanismer, hinder, jämlikhet, överförbarhet | Jämförande syntes | 13 h |
-| **WP6 Rekommendationer och rapport** | Syntes, rekommendationer, språk- och källkontroll | Rapport ≤30 sidor | 18 h |
-| **WP7 Återföring och avslut** | Presentation, erfarenhetsutbyte, faktakorrigering | Presentation + avslut | 6 h |
-| **Adaptiv reserv** | Nödvändiga kompletteringar | Reserv för fördjupning | 8 h |
+| **WP0 Mobilisering** | Bekräfta omfattning, kontakter, kalender, datahantering och beslut | Startbeslut + leveranskorridor | 6 h |
+| **WP1 Fallurval** | Tillämpa urvalskriterier, relevansbedömning och RFSU-dialog | Tre fall + reservfall + urvalsmotiv | 13 h |
+| **WP2 Strukturellt underlag** | Bygga strukturellt paket för varje fall | Tre strukturella fallprofiler | 16 h |
+| **WP3 Praktikmaterial** | Genomföra intervjuer/fokusgrupper och strukturera materialet | Tre praktikunderlag | 27 h |
+| **WP4 Fallanalys** | Integrera struktur, praktik och vårdrealiseringsresa | Tre fallprofiler/memorandum | 13 h |
+| **WP5 Tvärfallssyntes** | Jämföra mekanismer, friktion, jämlikhet och överförbarhet | Jämförande syntesmatris | 13 h |
+| **WP6 Rekommendationer och rapport** | Omsätta fynd i rapportstruktur och utvecklingsförslag | Rapport, högst 30 sidor | 18 h |
+| **WP7 Återkoppling och avslut** | Presentera resultat och stödja erfarenhetsutbyte | Presentation + avslut | 6 h |
+| **Reserv för anpassningar** | Nödvändiga kompletteringar eller frågor och svar | Kontrollerad anpassning | 8 h |
 | **Totalt** |  |  | **120 h** |
 
-**Arbetspaketen för strukturellt material, praktikmaterial och fallanalys överlappar delvis.** Den löpande analysen kan därmed styra mindre kompletteringar medan kontakten med mottagningarna fortfarande är aktiv.
+**Planerad arbetsinsats är cirka 15 arbetsdagar, motsvarande högst 120 timmar räknat på åtta timmar per arbetsdag.**
 
-## Tidslinje
+## Relativ tidslinje
 
-- **Månad 1:** mobilisering, slutligt urval och start av strukturellt material.
-- **Månad 2:** strukturellt material, huvudsakliga intervjuer/fokusgrupper och löpande fallanalys.
-- **Månad 3:** kompletteringar, tvärfallsanalys, rekommendationer och rapport.
-- **Efter rapport:** presentation, erfarenhetsutbyte och avslut senast 19 februari 2027.
+- **Månad 1:** mobilisering, slutligt fallurval och start av strukturell genomgång.
+- **Månad 2:** huvudsakligt empiriskt arbete och löpande fallanalys.
+- **Månad 3:** tvärfallssyntes, rekommendationer och rapportproduktion.
+- **Avslut:** presentation, erfarenhetsutbyte och slutlig leverans.
 
 Rapporten levereras inom tre månader från uppdragsstart och senast **29 januari 2027**. Hela uppdraget avslutas senast **19 februari 2027**.
 
 ---
 
-# 5. Leveranser och användning
+# 6. Leverabler och användning
 
-## Rapport
+## 6.1 Tillgänglig rapport
 
-**RFSU får en tillgänglig och jämförande rapport på högst 30 sidor.** Rapporten skrivs på korrekt, enkelt och begripligt svenska och följer RFSU:s språk- och kommunikationsvägledning.
+**RFSU får en jämförande rapport på högst 30 sidor.** Rapporten organiseras kring mekanismer, hinder, möjliggörande villkor, jämlikhetsimplikationer och utvecklingsmöjligheter i de tre fallen.
 
-Rapporten samlar de tre fallen i en gemensam berättelse om villkor, praktik, hinder, mekanismer, jämlikhetsimplikationer och överförbarhet.
+Den slutliga rapporten skrivs på korrekt, enkelt och begripligt svenska och kvalitetsgranskas mot RFSU:s språk- och publiceringsanvisningar.
 
-## Presentation och erfarenhetsutbyte
+## 6.2 Presentation och erfarenhetsutbyte
 
-**Resultaten presenteras för RFSU och deltagande mottagningar i ett strukturerat erfarenhetsutbyte.** Återföringen fokuserar på gemensamma mönster, viktiga skillnader, fungerande mekanismer och de villkor som påverkar överförbarhet.
+**Resultaten presenteras för RFSU och samtliga deltagande verksamheter genom en strukturerad presentation och ett erfarenhetsutbyte.** Formatet skapar utrymme för gemensamma mönster, viktiga skillnader och de praktiska villkor som ligger bakom identifierade exempel.
 
-## Kunskap, verksamhetsutveckling och påverkan
+## 6.3 Kunskap, verksamhetsutveckling och påverkan
 
-**Materialet utformas för att kunna användas på flera nivåer.** Rapport och presentation ska stödja kunskapsutveckling, praktiskt lärande mellan verksamheter, utvecklingsarbete och RFSU:s dialog med beslutsfattare och andra relevanta aktörer.
+**Leveransen byggs för fortsatt användning efter studien.** Underlaget ska kunna användas för kunskapshöjning, verksamhetsutveckling, dialog med vårdaktörer och påverkansarbete gentemot beslutsfattare.
+
+Rapporten skiljer på källmaterial, konsultanalys och utvecklingsförslag så att rekommendationernas analytiska grund är tydlig.
 
 ---
 
-# 6. Konsultteam
+# 7. Team och kompetens
 
-## Form & Flöde
+## Linus Fast — huvudkonsult
 
-**Form & Flöde arbetar med organisations- och processutveckling i offentlig sektor, civilsamhälle och tvärsektoriella sammanhang.** Arbetet kombinerar organisations- och systemanalys, processdesign, strategi, facilitering, utvärdering och lärande samt kunskapsöversättning.
+**Linus Fast är strategisk processdesigner, grundare av Form & Flöde och huvudkonsult i uppdraget.** Linus arbetar med organisations- och processutveckling i offentlig sektor, civilsamhälle och tvärsektoriella sammanhang och kombinerar organisationsanalys, systemtänkande, processdesign, strategi, facilitering, utvärdering/MEAL, kvalitativ analys och kunskapsöversättning.
 
-[**Läs konsultprofilen →**](../07-konsultprofil/README.md)
+I RFSU-uppdraget ansvarar Linus för uppdragsledning och kunddialog, metod- och analysarkitektur, urvalsprocess, strukturell analys, jämförbarhet mellan fallen, tvärfallssyntes, rekommendationer, rapportering och slutlig kvalitetssäkring.
 
-## Linus Fast — uppdragsansvarig konsult
-
-**Linus Fast är strategisk processdesigner och grundare av Form & Flöde.** Linus har dokumenterad erfarenhet av organisations- och processutveckling, utvärdering och MEAL, kvalitativ analys, facilitering, tvärsektoriell utveckling och kunskapsöversättning inom offentlig sektor och civilsamhälle.
-
-I uppdraget ansvarar Linus för:
-- uppdragsledning och dialog med RFSU;
-- metod- och analysarkitektur;
-- urvalsprocess och fallarkitektur;
-- projekt- och leveranskontroll;
-- strukturell analys;
-- jämförbarhet mellan de tre fallen;
-- tvärgående syntes;
-- rekommendationer;
-- rapportering och slutleverans.
+Relevant dokumenterad erfarenhet omfattar bland annat Rädda Barnen, Sensus/Malmö Tillsammans, Barnombudet i Uppsala län samt konsultuppdrag genom Form & Flöde.
 
 [**Linus profil →**](../07-konsultprofil/linus-fast.md) · [**CV →**](../07-konsultprofil/cv/linus-fast-fullstandigt-cv-rfsu.md)
 
 ## Adrian Repka — senior konsult
 
-**Adrian Repka är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsnära sammanhang.** Adrians dokumenterade erfarenhet omfattar användarcentrerade flöden och multiprofessionell samverkan inom fertilitetsområdet, arbete med jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
+**Adrian Repka är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsrelaterade miljöer.** Adrians dokumenterade erfarenhet omfattar användarcentrerade flöden och multidisciplinärt samarbete inom fertilitetsområdet, arbete med jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
 
-Adrian Repka medverkar som senior konsult i genomförandet av uppdraget utifrån de behov som uppstår genom processen. Adrians kompetens kan användas i:
-- processdesign och processledning;
-- design och genomförande av kvalitativt arbete;
-- intervjuer och fokusgrupper;
-- normkritisk, intersektionell och jämlikhetsinriktad analys;
-- vård- och fertilitetsnära frågeställningar;
-- analys av hinder, mekanismer och möjliggörande villkor;
-- rekommendationsarbete;
-- återföring och erfarenhetsutbyte.
+**Adrian Repka deltar genom uppdraget utifrån de behov som uppstår i leveransprocessen.** Adrians kompetens kan användas inom processdesign och processledning, kvalitativt arbete, intervjuer och fokusgrupper, jämlikhets- och normkritisk analys, vård- och fertilitetsrelaterade frågor, gemensam analys, rekommendationsutveckling, återkoppling och erfarenhetsutbyte.
+
+Relevant dokumenterad erfarenhet omfattar bland annat Jämfota, Mojo Fertility, Jämställd Utveckling Skåne, Svenska kyrkan, kvalitativt intervjubaserat arbete och publicerad analys inom transspecifik hälso- och sjukvård.
 
 [**Adrians profil →**](../07-konsultprofil/adrian-repka.md) · [**CV →**](../07-konsultprofil/cv/adrian-repka-fullstandigt-cv-rfsu.md)
 
-## Teamets arbetssätt
+## Teamets samlade matchning
 
-**Linus och Adrian utgör ett litet seniort konsultteam med tydligt uppdragsansvar och flexibel användning av kompetens.** Linus håller samman uppdragets arkitektur och slutleverans. Adrian medverkar genom genomförandet där Adrians kompetens skapar värde för uppdraget.
-
----
-
-# 7. Kvalitet, etik och datahantering
-
-## Käll- och analyskvalitet
-
-**Analytiska påståenden görs spårbara till strukturellt material, kvalitativt fallmaterial eller tydligt markerad konsultanalys.** Stödnivå och osäkerhet synliggörs där materialet ger olika grad av stöd.
-
-## Jämförbarhet
-
-**Samma kärnprotokoll används i alla tre fallen.** Gemensamma analysfält skapar jämförbarhet samtidigt som regionala och organisatoriska skillnader behandlas som en del av analysen.
-
-## Datahantering
-
-**Materialinsamlingen fokuserar på organisation, arbetssätt och professionella erfarenheter.** Information om användning, åtkomst, attribuering och lagring klargörs innan intervjuer och fokusgrupper genomförs.
-
-## Faktakontroll
-
-**Deltagande mottagningar ges möjlighet att korrigera sakuppgifter om den egna verksamheten.** Form & Flöde ansvarar för den analytiska syntesen och rekommendationerna.
+| Kravområde | Teamets dokumenterade svar |
+|---|---|
+| **SRHR och jämlik vård** | Direkt vård-, fertilitets- och transhälsorelevant kompetens genom Adrian kombinerad med Linus system-, process- och utvärderingskompetens. |
+| **Intersektionellt feministiskt och antirasistiskt perspektiv** | Adrians normkritiska och intersektionella arbete omfattar rasism tillsammans med kön/sexualitet, tillgänglighet och klass. Linus bidrar med rättighetsbaserad organisations- och processutveckling samt deltagarorienterad analys. |
+| **Kartläggning och/eller forskning inom SRHR** | Publicerad analys inom transspecifik hälso- och sjukvård och fertilitetsrelaterad praktik kombineras med kartläggnings- och analyskompetens. |
+| **Intervjuer och fokusgrupper** | Adrian har dokumenterat intervjubaserat arbete; Linus har dokumenterad design och processledning av fokusgrupps- och dialogprocesser. |
 
 ---
 
-# 8. Dialog vid mobilisering
+# 8. Kvalitet, etik och datahantering
 
-**Uppstarten används för att tillsammans med RFSU precisera de operativa detaljer som formar genomförandet.** Dialogen omfattar:
+## Spårbar analys
 
-1. slutlig bekräftelse av de tre mottagningarna och reservfall;
-2. kontaktvägar och introduktion till mottagningarna;
-3. deltagarkonfiguration för intervjuer/fokusgrupper;
-4. RFSU:s språk- och kommunikationsvägledning;
-5. former för faktakontroll och attribuering;
-6. kalender för rapport, presentation och erfarenhetsutbyte.
+**Varje materiell analytisk slutsats kopplas till strukturellt underlag, empiriskt material eller en uttryckligt markerad konsulttolkning.** Observation, källa, analys och rekommendation hålls åtskilda där det behövs för analytisk tydlighet.
+
+## Jämförbarhet med kontext
+
+**Samma analysprotokoll används i alla tre fall samtidigt som organisatorisk variation bevaras som analysmaterial.** Det gör det möjligt att förstå hur samma vårdprincip realiseras under olika villkor.
+
+## Proportionerlig datahantering
+
+**Fältarbetet fokuserar på organisatorisk praktik och relevant professionell erfarenhet.** Syfte, åtkomst, attribuering, lagring och gallring fastställs innan intervjuer och fokusgrupper genomförs, och endast material som behövs för uppdragets analys samlas in.
+
+## Faktagranskning
+
+**Deltagande verksamheter kan ges möjlighet att faktagranska beskrivningar av den egna verksamheten före slutlig publicering.** Form & Flöde behåller ansvar för jämförelse, analys och slutsatser.
 
 ---
 
-# 9. Pris och villkor
+# 9. Mobilisering och beslutspunkter
 
-**Planeringsramen är 120 timmar à 1 000 kronor per timme exklusive moms.** Det motsvarar **120 000 kronor exklusive moms / 150 000 kronor inklusive moms**.
+**Mobiliseringen omsätter den överenskomna analysdesignen i en operativ leveransplan tillsammans med RFSU.** Startdialogen bekräftar:
 
-112 timmar är planerade i arbetspaketen och 8 timmar avsätts som adaptiv reserv. Resor och eventuella direkta kostnader hanteras inom den överenskomna totalramen genom prioritering i planeringen.
+- slutligt val av tre fall och reservfall;
+- nyckelkontakter i respektive verksamhet;
+- deltagarkonfiguration för intervjuer/fokusgrupper;
+- slutlig kalender och plan för tillgång;
+- datahantering och attribuering;
+- RFSU:s språk- och publiceringsanvisningar;
+- format för presentation och erfarenhetsutbyte;
+- informationsgap som motiverar användning av reserven för anpassningar.
 
-## Kommersiella villkor
+---
+
+# 10. Ekonomi och kommersiella villkor
+
+**Föreslagen maximal prisram är 120 000 kronor exklusive moms / 150 000 kronor inklusive moms.** Planeringsgrunden är 1 000 kronor per timme exklusive moms och en maximal resursram om 120 timmar.
+
+Tidsbudgeten består av 112 planerade timmar och en reserv för anpassningar om 8 timmar. Resor, logi och andra direkta uppdragskostnader hanteras inom det överenskomna kostnadstaket genom den slutliga leveransplanen.
+
+Kommersiella villkor:
 
 - betalningsvillkor: minst 30 dagar;
-- prisjustering sker genom skriftlig överenskommelse;
-- eventuell förlängning av ett tidsbegränsat avtal sker genom ny överenskommelse;
-- Form & Flöde lämnar de företags- och skatteuppgifter som RFSU behöver för leverantörskontroll.
+- fast pris inom överenskommet kostnadstak;
+- prisändringar sker genom skriftlig överenskommelse;
+- eventuell förlängning av tidsbegränsat avtal sker genom ny överenskommelse;
+- standardmässig kreditkontroll accepteras;
+- behörighets-, skatte- och socialförsäkringsvillkor bekräftas före inlämning.
 
-## Giltighet
-
-Anbudet gäller i **30 dagar från sista anbudsdag**, till och med **3 november 2026**, om RFSU och Form & Flöde inte skriftligen kommer överens om annat.
+**Anbudet gäller i 30 dagar från sista anbudsdag, till och med 3 november 2026.**
 
 ---
 
-# 10. Referenser och bilagor
+# 11. Referenser och bilagor
 
 ## Referenser
 
-**Referenserna ska tillsammans spegla uppdragets metodiska, processuella och vård-/jämlikhetsrelaterade kompetens.** Kontaktuppgifter lämnas tillsammans med anbudet.
+**Två namngivna referenser lämnas med anbudet.** Kontaktuppgifter lämnas om RFSU går vidare med anbudet.
 
-| Referensspår | Vad referensen kan beskriva |
-|---|---|
-| **Rädda Barnen** | MEAL, utvärdering, analys, material- och lärandearbete |
-| **Sensus / Malmö Tillsammans** | Processledning, behovsdriven utveckling och kvalitativa/dialogbaserade processer |
-| **Vård-/jämlikhetsrelaterat uppdrag via Adrian/Jämfota eller annan direkt vårdkontext** | Vårdnära, jämlikhets- och normkritiskt utvecklingsarbete |
+1. **Priyanka John** — Strategisk Utvecklare, Tomelilla kommun. Referens för Linus Fast.
+2. **Lisa Svensson** — Klimatsamordnare kyrkans uppdrag, Svenska kyrkan Stockholms stift. Referens för Adrian Repka.
 
-## Bilagor och länkar
+## Bilagor
 
-1. [Linus Fast — uppdragsrelevant CV](../07-konsultprofil/cv/linus-fast-fullstandigt-cv-rfsu.md)
-2. [Adrian Repka — uppdragsrelevant CV](../07-konsultprofil/cv/adrian-repka-fullstandigt-cv-rfsu.md)
-3. [Uppdragsdesign — infografik](../06-visuellt-material/uppdragsdesign.svg)
-4. [Konsultteam och profiler](../07-konsultprofil/README.md)
+1. **Linus Fast — uppdragsrelevant CV.**
+2. **Adrian Repka — uppdragsrelevant CV.**
+
+Den öppna samarbetsytan ger kompletterande tillgång till uppdragsdesign, urvalslogik, analysmodell, källunderlag och konsultprofiler.
