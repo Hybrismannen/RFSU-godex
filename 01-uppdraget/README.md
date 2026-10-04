@@ -37,5 +37,5 @@ Hälsolitteracitet och navigation används som en relationell analyslins. Analys
 
 [**Fördjupad uppdragsförståelse →**](uppdragsforstaelse.md)  
 [**Se arbetsprocessen →**](../02-arbetsprocessen/README.md)  
-[**Se uppdragsdesignen →**](../09-visuellt-material/uppdragsdesign.md)  
+[**Se uppdragsdesignen →**](../06-visuellt-material/uppdragsdesign.md)  
 [**Se valet av mottagningar →**](../03-val-av-mottagningar/README.md)
