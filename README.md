@@ -1,8 +1,8 @@
 # RFSU Godex — kartläggning av jämlik SRHR-vård
 
-![Uppdragsdesign](09-visuellt-material/uppdragsdesign.svg)
+![Uppdragsdesign](06-visuellt-material/uppdragsdesign.svg)
 
-[**Anbud**](11-anbud/anbud.md) · [**Uppdragsdesign**](09-visuellt-material/uppdragsdesign.md) · [**Konsultteam**](10-konsultprofil/README.md) · [**Uppdraget**](01-uppdraget/README.md) · [**Arbetsprocess**](02-arbetsprocessen/README.md) · [**Val av mottagningar**](03-val-av-mottagningar/README.md) · [**Analysmodell**](04-analysmodellen/README.md) · [**Källor**](08-kallor/README.md)
+[**Anbud**](08-anbud/anbud.md) · [**Uppdragsdesign**](06-visuellt-material/uppdragsdesign.md) · [**Konsultteam**](07-konsultprofil/README.md) · [**Uppdraget**](01-uppdraget/README.md) · [**Arbetsprocess**](02-arbetsprocessen/README.md) · [**Val av mottagningar**](03-val-av-mottagningar/README.md) · [**Analysmodell**](04-analysmodellen/README.md) · [**Källor**](05-kallor/README.md)
 
 **Den här samarbetsytan samlar Form & Flödes förslag till RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård för personer över ungdomsmottagningsålder.** Här går det att följa uppdragsförståelsen, urvalet av mottagningar, arbetsprocessen, analysmodellen, konsultteamet och anbudet som en sammanhängande helhet.
 
@@ -12,7 +12,7 @@
 
 > **Gemensam vårdram → tre ändamålsenligt varierade fall → gemensam materialarkitektur → vårdrealiseringsresa → standardiserad fallanalys → tvärgående mekanismanalys → rekommendationer och överförbarhet**
 
-[**Läs uppdragsdesignen →**](09-visuellt-material/uppdragsdesign.md)
+[**Läs uppdragsdesignen →**](06-visuellt-material/uppdragsdesign.md)
 
 ## Föreslagna mottagningar
 
@@ -32,10 +32,10 @@ Den slutliga konfigurationen fastställs tillsammans med RFSU vid mobilisering.
 
 Teamet kombinerar organisations- och processutveckling, utvärdering och kvalitativ analys med dokumenterad erfarenhet av jämlikhetsfrågor, vård- och fertilitetsnära arbete samt normkritiska och intersektionella perspektiv.
 
-[**Möt Form & Flöde, Linus och Adrian →**](10-konsultprofil/README.md)
+[**Möt Form & Flöde, Linus och Adrian →**](07-konsultprofil/README.md)
 
 ## Så hänger materialet ihop
 
 **Uppdraget** beskriver frågan och de ramar som styr arbetet. **Arbetsprocessen** visar hur material samlas in och utvecklas till tre jämförbara fall. **Val av mottagningar** visar urvalslogiken. **Analysmodellen** visar hur struktur, praktik och vårdrealiseringsresa kopplas samman. **Källor** samlar den publika spårbarheten. **Anbudet** för samman helheten i erbjudandet till RFSU.
 
-[**Öppna anbudet →**](11-anbud/anbud.md)
+[**Öppna anbudet →**](08-anbud/anbud.md)
