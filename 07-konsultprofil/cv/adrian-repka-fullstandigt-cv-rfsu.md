@@ -1,9 +1,9 @@
-# Adrian Repka — fullständigt CV relevant för RFSU-uppdraget
+# AD — fullständigt CV relevant för RFSU-uppdraget
 
 **Senior konsult**  
 **Version:** 2026-10-03
 
-Den här webbläsbara CV-versionen bygger på Adrians inlämnade RFSU-CV. Privat adress, telefonnummer och e-post publiceras inte i samarbetsytan.
+Den här webbläsbara CV-versionen bygger på AD:s inlämnade RFSU-CV. Privat adress, telefonnummer och e-post publiceras inte i samarbetsytan.
 
 ## Utbildning
 
@@ -106,6 +106,6 @@ Organisationsutveckling inom normkritisk praktik och systemtransformation för e
 
 ## Roll i RFSU-uppdraget
 
-Adrian medverkar som senior konsult genom genomförandet utifrån de behov som uppstår i uppdraget. Adrians kompetens kan användas genom hela uppdraget inom processdesign, processledning, kvalitativt arbete, intervjuer och fokusgrupper, jämlikhets- och normkritisk analys, vård- och fertilitetsnära frågor, gemensam analys, rekommendationsarbete samt återföring och erfarenhetsutbyte.
+AD medverkar som senior konsult genom genomförandet utifrån de behov som uppstår i uppdraget. AD:s kompetens kan användas genom hela uppdraget inom processdesign, processledning, kvalitativt arbete, intervjuer och fokusgrupper, jämlikhets- och normkritisk analys, vård- och fertilitetsnära frågor, gemensam analys, rekommendationsarbete samt återföring och erfarenhetsutbyte.
 
 [← Till konsultprofilen](../adrian-repka.md)
