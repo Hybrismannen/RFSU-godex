@@ -6,7 +6,7 @@ Detta är den praktiska exportsidan för RFSU:s ansökningsformulär. Sidan saml
 
 ## Portalens struktur
 
-- **CV och referenser:** högst 2 filer. De två filplatserna används för Linus Fasts och Adrian Repkas CV.
+- **CV och referenser:** högst 2 filer. De två filplatserna används för Linus Fasts och AD:s CV.
 - **Anbud:** högst 1 fil.
 - **Referenser:** två namngivna referenser anges i anbudstexten.
 - **Formulärfråga om liknande roll:** svar **Ja, mer än 3 år**.
@@ -15,7 +15,7 @@ Detta är den praktiska exportsidan för RFSU:s ansökningsformulär. Sidan saml
 ## Två referenser
 
 1. **Priyanka John** — Strategisk Utvecklare, Tomelilla kommun. Referens för Linus Fast.
-2. **Lisa Svensson** — Klimatsamordnare kyrkans uppdrag, Svenska kyrkan Stockholms stift. Referens för Adrian Repka.
+2. **Lisa Svensson** — Klimatsamordnare kyrkans uppdrag, Svenska kyrkan Stockholms stift. Referens för AD.
 
 Kontaktuppgifter lämnas om RFSU går vidare med anbudet.
 
@@ -28,7 +28,7 @@ ANBUD — KARTLÄGGNING OCH ANALYS AV TRE MOTTAGNINGAR FÖR SEXUELL HÄLSA
 
 Anbudsgivare: Form & Flöde
 Huvudkonsult: Linus Fast
-Senior konsult: Adrian Repka
+Senior konsult: AD
 Datum: 4 oktober 2026
 
 FORMULÄRSVAR
@@ -38,7 +38,7 @@ Ja, mer än 3 år.
 
 Har du kunskaper inom intersektionella feministiska och antirasistiska perspektiv? Beskriv dina kunskaper och tidigare erfarenhet inom området.
 
-Ja. Konsultteamet har dokumenterad erfarenhet av intersektionella, normkritiska och jämlikhetsinriktade perspektiv i organisations- och processutveckling. Adrian Repka har lång erfarenhet av normkritisk och intersektionell organisationsutveckling där bland annat rasism, kön, sexualitet, funktionalitet och klass behandlas som sammanvävda maktordningar. Erfarenheten omfattar arbete i vård- och hälsorelaterade sammanhang, jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård. Linus Fast har omfattande erfarenhet av rättighetsbaserad organisations- och processutveckling, utvärdering, kvalitativ analys och deltagarorienterade processer i offentlig sektor och civilsamhälle.
+Ja. Konsultteamet har dokumenterad erfarenhet av intersektionella, normkritiska och jämlikhetsinriktade perspektiv i organisations- och processutveckling. AD har lång erfarenhet av normkritisk och intersektionell organisationsutveckling där bland annat rasism, kön, sexualitet, funktionalitet och klass behandlas som sammanvävda maktordningar. Erfarenheten omfattar arbete i vård- och hälsorelaterade sammanhang, jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård. Linus Fast har omfattande erfarenhet av rättighetsbaserad organisations- och processutveckling, utvärdering, kvalitativ analys och deltagarorienterade processer i offentlig sektor och civilsamhälle.
 
 I detta uppdrag används perspektiven som en integrerad del av analysen. Vi undersöker hur organisatoriska villkor, tillgänglighet, information, bemötande, professionell samverkan och individens väg genom vården påverkar möjligheten att nå och få relevant SRHR-vård. Perspektiven används för att förstå vilka strukturer och arbetssätt som minskar eller förstärker ojämlikhet.
 
@@ -154,7 +154,7 @@ RFSU får:
 
 Linus Fast är strategisk processdesigner, grundare av Form & Flöde och huvudkonsult i uppdraget. Linus ansvarar för uppdragsledning och kunddialog, metod- och analysarkitektur, urvalsprocess, strukturell analys, jämförbarhet mellan fallen, tvärfallssyntes, rekommendationer, rapportering och slutlig kvalitetssäkring.
 
-Adrian Repka är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsrelaterade miljöer. Adrian Repka deltar genom uppdraget utifrån de behov som uppstår i leveransprocessen. Adrians kompetens kan användas inom processdesign och processledning, kvalitativt arbete, intervjuer och fokusgrupper, jämlikhets- och normkritisk analys, vård- och fertilitetsrelaterade frågor, gemensam analys, rekommendationsutveckling, återkoppling och erfarenhetsutbyte.
+AD är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsrelaterade miljöer. AD deltar genom uppdraget utifrån de behov som uppstår i leveransprocessen. AD:s kompetens kan användas inom processdesign och processledning, kvalitativt arbete, intervjuer och fokusgrupper, jämlikhets- och normkritisk analys, vård- och fertilitetsrelaterade frågor, gemensam analys, rekommendationsutveckling, återkoppling och erfarenhetsutbyte.
 
 8. KVALITET, ETIK OCH DATAHANTERING
 
@@ -174,14 +174,14 @@ Anbudet gäller i 30 dagar från sista anbudsdag, till och med 3 november 2026.
 
 Två namngivna referenser lämnas med anbudet:
 1. Priyanka John — Strategisk Utvecklare, Tomelilla kommun. Referens för Linus Fast.
-2. Lisa Svensson — Klimatsamordnare kyrkans uppdrag, Svenska kyrkan Stockholms stift. Referens för Adrian Repka.
+2. Lisa Svensson — Klimatsamordnare kyrkans uppdrag, Svenska kyrkan Stockholms stift. Referens för AD.
 
 Kontaktuppgifter lämnas om RFSU går vidare med anbudet.
 
 11. BILAGOR
 
 1. Linus Fast — uppdragsrelevant CV.
-2. Adrian Repka — uppdragsrelevant CV.
+2. AD — uppdragsrelevant CV.
 
 Kompletterande material finns i Form & Flödes öppna samarbetsyta för uppdraget, bland annat uppdragsdesign, urvalslogik, analysmodell, källunderlag och konsultprofiler.
 ```
