@@ -2,7 +2,12 @@
 
 **Anbudet samlar Form & Flödes förslag till hur RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård kan genomföras.** Texten för samman uppdragsförståelse, uppdragsdesign, urval, materialinsamling, analys, arbetsplan, konsultteam, leveranser och prisram.
 
-[**Öppna anbudet →**](anbud.md)
+[**Öppna inlämningsexporten — kopiera allt i ett block →**](export.md)  
+[**Öppna det fullständiga anbudet →**](anbud.md)
+
+## Inlämning
+
+Exportsidan är den praktiska källan vid inlämning i RFSU:s formulär. Den innehåller formulärsvaren, en sammanhållen anbudstext, arbetsinsats uttryckt både i timmar och arbetsdagar samt referens- och bilagestruktur. Privata kontaktuppgifter till referenspersoner publiceras inte i samarbetsytan.
 
 ## Tillhörande material
 
