@@ -6,7 +6,7 @@ Detta är den praktiska exportsidan för RFSU:s ansökningsformulär. Sidan saml
 
 ## Portalens struktur
 
-- **CV och referenser:** högst 2 filer. De två filplatserna används för Linus Fasts och Adrian Reperkas CV.
+- **CV och referenser:** högst 2 filer. De två filplatserna används för Linus Fasts och Adrian Repkas CV.
 - **Anbud:** högst 1 fil.
 - **Referenser:** två namngivna referenser anges i anbudstexten.
 - **Formulärfråga om liknande roll:** svar **Ja, mer än 3 år**.
