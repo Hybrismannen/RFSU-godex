@@ -6,8 +6,8 @@
 
 ## Tillhörande material
 
-- [Uppdragsdesign](../09-visuellt-material/uppdragsdesign.md)
-- [Konsultteam — Form & Flöde, Linus Fast och Adrian Repka](../10-konsultprofil/README.md)
+- [Uppdragsdesign](../06-visuellt-material/uppdragsdesign.md)
+- [Konsultteam — Form & Flöde, Linus Fast och Adrian Repka](../07-konsultprofil/README.md)
 - [Val av mottagningar](../03-val-av-mottagningar/README.md)
 - [Analysmodell](../04-analysmodellen/README.md)
-- [Källor](../08-kallor/README.md)
+- [Källor](../05-kallor/README.md)
