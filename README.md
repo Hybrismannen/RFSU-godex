@@ -28,11 +28,11 @@ De slutliga tre fallen fastställs tillsammans med RFSU vid mobilisering.
 
 ## Konsultteam
 
-**Linus Fast leder uppdraget och håller samman metod, analys, projektstyrning, syntes och slutleverans.** Adrian Repka medverkar som senior konsult genom genomförandet utifrån de behov som uppstår i processen.
+**Linus Fast leder uppdraget och håller samman metod, analys, projektstyrning, syntes och slutleverans.** AD medverkar som senior konsult genom genomförandet utifrån de behov som uppstår i processen.
 
 Teamet kombinerar organisations- och processutveckling, utvärdering och kvalitativ analys med dokumenterad erfarenhet av jämlikhetsfrågor, vård- och fertilitetsrelaterat arbete samt normkritiska och intersektionella perspektiv.
 
-[**Möt Form & Flöde, Linus och Adrian →**](07-konsultprofil/README.md)
+[**Möt Form & Flöde, Linus och AD →**](07-konsultprofil/README.md)
 
 ## Så hänger materialet ihop
 
