@@ -4,48 +4,54 @@
 
 ## Så är uppdraget konstruerat
 
-**Tre mottagningar följs genom en gemensam analytisk arkitektur där varje steg bygger vidare på det föregående.** Arbetet börjar i en gemensam vårdram och utvecklas steg för steg till jämförbara fall, tvärgående analys och rekommendationer.
+**Tre mottagningar följs genom ett gemensamt analyssystem där varje steg bygger vidare på det föregående.** Arbetet börjar i en nationell referensram och utvecklas steg för steg till jämförbara fall, tvärgående analys och rekommendationer.
 
-### 1. Gemensam vårdram
+### 1. Nationell referensram
 
-**Alla tre fall analyseras med samma kärnfrågor.** Jämlik vård, personcentrering, samordning och helhet, tillgänglighet och praktisk möjlighet att få relevant vård skapar den gemensamma referensen.
+**Alla tre fall analyseras med samma kärnfrågor.** Jämlik vård, personcentrering, samordning och helhet, tillgänglighet och realiserbar vårdmöjlighet skapar den gemensamma referensen.
 
 ### 2. Tre mottagningar
 
-**Urvalet kombinerar relevans med användbar variation.** Form & Flöde går in i dialogen med RFSU med följande startkonfiguration:
+**Urvalet kombinerar stark passform mot uppdraget med användbar variation.** Form & Flöde går in i dialogen med RFSU med följande startpalett:
 
 1. **SESAM Mälarsjukhuset, Eskilstuna**
 2. **Hudmottagning Centrum för sexuell hälsa, Malmö**
 3. **Stockholms mottagning för sexuell hälsa**
 
-Den slutliga konfigurationen fastställs tillsammans med RFSU.
+De slutliga tre fallen fastställs tillsammans med RFSU vid mobilisering.
 
-### 3. Struktur och praktik
+### 3. Gemensam underlagsarkitektur
 
-**Varje fall byggs med två sammanlänkade materialspår.** Strukturspåret beskriver uppdrag, organisering, tillträde, professioner, riktlinjer, resurser och samverkansgränssnitt. Praktikspåret följer ingångar, behov, samordning, anpassning, kontinuitet, hinder och möjliggörande villkor.
+**Varje fall byggs genom två sammanlänkade underlagsspår: struktur och praktik.** Det strukturella underlaget beskriver uppdrag, organisering, ingångslogik, professioner, riktlinjer, resurser och samverkansgränssnitt. Praktikmaterialet följer ingångar, behov, samordning, anpassning, kontinuitet, hinder och möjliggörande villkor.
 
 ### 4. Individens vårdrealiseringsresa
 
 **Materialet läses genom samma praktiska resa i alla tre fall.**
 
-> **Behov → orientering → ingång → navigation → relevant vård → genomförd vård → helhetsupplevelse**
+> **Behov → orientering → vårdval/väg in → vårdkedja/navigation → relevant vård → vård given → samlad upplevelse**
 
-Analysen följer vad personen behöver kunna hitta, förstå, värdera, använda och navigera och vilket stöd verksamheten skapar längs vägen.
+Analysen följer vad personen behöver hitta, förstå, värdera, välja, använda och navigera och hur vårdsystemet förändrar denna belastning.
 
-### 5. Syntes och användning
+### 5. Standardiserad fallanalys
+
+**Varje fall förs in i samma analysstruktur från början.** Strukturella villkor, organisatoriskt kapital, faktisk praktik, vårdrealiseringsresa, realiserbar vårdmöjlighet, jämlikhetsgap och stödnivå bildar den gemensamma fallprofilen.
+
+### 6. Tvärgående mekanismanalys
 
 **De tre fallen förs samman genom en gemensam utvecklingskedja.**
 
 > **Praktik → verksam mekanism → möjliggörande villkor → jämlikhetsimplikation → överförbarhet → rekommendation**
 
-Det ger RFSU en jämförande analys som kan användas för kunskapsutveckling, verksamhetsutveckling, erfarenhetsutbyte och påverkansarbete.
+### 7. Användning
+
+**Analysen omsätts i rekommendationer, rapport, erfarenhetsutbyte, kunskapshöjning och påverkansarbete.** Det ger RFSU ett underlag som kan användas både för lärande och fortsatt utveckling.
 
 ## Genomförande
 
-> **Mobilisering → urval → strukturellt material → praktikmaterial → fallanalys → tvärfallsanalys → rapport → återföring**
+> **Mobilisering → urval → strukturellt underlag → praktikmaterial → fallanalys → tvärfallssyntes → rapport → återkoppling**
 
-Planeringsramen är **112 timmar + 8 timmar adaptiv reserv = 120 timmar**. Rapporten levereras senast **29 januari 2027** och hela uppdraget avslutas senast **19 februari 2027**.
+Planeringsramen är **112 timmar + 8 timmar reserv för anpassningar = 120 timmar**, motsvarande cirka **15 arbetsdagar**. Rapporten levereras senast **29 januari 2027** och hela uppdraget avslutas senast **19 februari 2027**.
 
 ## Team
 
-**Linus Fast leder uppdraget och ansvarar för metod- och analysarkitektur, projektkontroll, syntes och slutleverans.** Adrian Repka medverkar som senior konsult genom genomförandet utifrån uppdragets behov och bidrar med processledning, kvalitativt arbete, jämlikhets- och normkritisk analys samt vård- och fertilitetsnära kompetens.
+**Linus Fast leder uppdraget och ansvarar för metod- och analysarkitektur, projektkontroll, syntes och slutleverans.** Adrian Repka medverkar som senior konsult genom genomförandet utifrån uppdragets behov och bidrar med processledning, kvalitativt arbete, jämlikhets- och normkritisk analys samt vård- och fertilitetsrelaterad kompetens.
