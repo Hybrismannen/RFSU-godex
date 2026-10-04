@@ -19,7 +19,7 @@ Rapporten omfattar högst 30 sidor och följs av presentation och erfarenhetsutb
 
 ## Analytisk riktning
 
-**Analysen följer hur vårdprinciper omsätts från formella villkor till den vård som faktiskt blir möjlig att nå och använda.** Det skapar en sammanhängande rörelse genom uppdraget:
+**Analysen följer hur vårdprinciper omsätts från formella villkor till den vård som faktiskt blir möjlig att nå och använda.**
 
 > **Nationell vårdram → strukturella villkor → organisatorisk kapacitet → faktisk praktik → individens vårdrealiseringsresa → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet**
 
@@ -35,6 +35,7 @@ Hälsolitteracitet och navigation används som en relationell analyslins. Analys
 
 **Uppdragsförståelsen förs direkt vidare in i urval, materialinsamling, fallanalys och tvärgående syntes.** Det gör att samma frågor följer arbetet från den första kontakten med mottagningarna till rekommendationer och återföring.
 
+[**Fördjupad uppdragsförståelse →**](uppdragsforstaelse.md)  
 [**Se arbetsprocessen →**](../02-arbetsprocessen/README.md)  
-[**Se uppdragsdesignen →**](../09-visuellt-material/uppdragsdesign-v2.0.md)  
+[**Se uppdragsdesignen →**](../09-visuellt-material/uppdragsdesign.md)  
 [**Se valet av mottagningar →**](../03-val-av-mottagningar/README.md)
