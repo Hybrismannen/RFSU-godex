@@ -44,4 +44,4 @@ När vårdprocessen har genomförts kan dess relevans, begriplighet och sammanh�
 
 **Resan kopplar organisationens form till realiserbar vårdmöjlighet.** För varje steg analyseras systemets erbjudande, vad som praktiskt krävs av individen, vilka möjliggörande mekanismer som finns och vilka konsekvenser detta får för jämlik tillgång.
 
-[**Se källor om hälsolitteracitet och navigation →**](../08-kallor/halsolitteracitet-och-navigation.md)
+[**Se källor om hälsolitteracitet och navigation →**](../05-kallor/halsolitteracitet-och-navigation.md)
