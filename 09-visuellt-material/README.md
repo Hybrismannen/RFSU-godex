@@ -1,51 +1,39 @@
-# 09 — Visuellt material
+# Visuellt material
 
-## Uppdragsdesign 2.0 — Proposal 2.0
+**Visualiseringarna gör uppdragets konstruktion, urval och analys lättare att läsa som en sammanhängande helhet.** Varje bild motsvarar en del av det textbaserade underlaget och används tillsammans med förklarande text.
 
-![Uppdragsdesign 2.0](uppdragsdesign-v2.0.svg)
+## Uppdragsdesign
 
-[**Textalternativ och förklaring**](uppdragsdesign-v2.0.md)
+![Uppdragsdesign](uppdragsdesign-v2.0.svg)
 
-Den här visualen visar hur hela uppdraget är konstruerat: gemensam vårdram, tre mottagningar, gemensam materialarkitektur, vårdrealiseringsresa, fallanalys, tvärgående syntes, rekommendationer, genomförande och team.
-
-## Projektdashboard
-
-![Projektdashboard](assets/projektdashboard.svg)
-
-[Öppna dashboardens textvy](../05-lagesbild/projektdashboard.md)
+[**Textalternativ och förklaring →**](uppdragsdesign-v2.0.md)
 
 ## Uppdraget i korthet
 
 ![Uppdraget i korthet](assets/uppdraget-i-korthet.svg)
 
-[Textalternativ och förklaring](uppdraget-i-korthet.md)
+[**Textalternativ och förklaring →**](uppdraget-i-korthet.md)
 
 ## Urvalsprocess
 
 ![Urvalsprocess](assets/urvalsprocess.svg)
 
-**Brett register → Grundkrav → Relevans → Dialogpalett → Dialog med RFSU → Tre fall**
+> **Brett register → Grundkrav → Relevans → Dialogpalett → Dialog med RFSU → Tre fall**
 
-## Analysmodell 1.1
+## Analysmodell
 
-![Analysmodell 1.1](assets/analysmodell.svg)
+![Analysmodell](assets/analysmodell.svg)
 
-**Nationell vårdram → realiseringssystem → individens vårdrealiseringsresa → realiserbar vårdmöjlighet → gap → förbättring/överförbarhet**
+> **Nationell vårdram → realiseringssystem → individens vårdrealiseringsresa → realiserbar vårdmöjlighet → jämlikhetsgap → förbättring och överförbarhet**
 
 ## Individens vårdrealiseringsresa
 
 ![Individens vårdrealiseringsresa](assets/vardrealiseringsresa.svg)
 
-**Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
-
-Hälsoliteracitet och navigation används som en relationell gränssnittslins genom resan.
+> **Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
 
 ## Arbetsprocess
 
 ![Arbetsprocess](assets/arbetsprocess.svg)
 
-Arbetsprocessen omsätter analysarkitekturen i ett proportionerligt genomförande med tre fall, strukturellt material och ett primärt empiriskt block per fall.
-
-## Design- och dataprincip
-
-Visualerna ska hållas i linje med det källkontrollerade textunderlaget. Proposal 2.0 och Synopsis 1.1 är styrande för uppdragsdesignen.
+**Arbetsprocessen håller genomförandet koncentrerat till tre mottagningar, strukturellt material och ett primärt kvalitativt block per fall.** Analysarkitekturen ger sedan materialet en gemensam struktur för jämförelse, syntes och rekommendationer.

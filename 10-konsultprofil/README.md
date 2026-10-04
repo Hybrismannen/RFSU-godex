@@ -1,35 +1,39 @@
-# Konsultprofil — Form & Flöde
+# Form & Flöde och konsultteamet
 
-Det här är den direkta profilytan för Form & Flöde och konsultteamet i RFSU-uppdraget.
-
-## Form & Flöde
-
-**Form & Flöde** arbetar med organisations- och processutveckling i offentlig sektor, civilsamhälle och tvärsektoriella sammanhang. Arbetet kombinerar organisations- och systemanalys, processdesign, strategi, facilitering, utvärdering och lärande samt kunskapsöversättning.
-
-I RFSU-uppdraget används denna kompetens för att undersöka hur strukturella villkor och faktisk praktik tillsammans påverkar möjligheten till relevant och jämlik SRHR-vård, och för att översätta analysen till användbar kunskap och rekommendationer.
+**Form & Flöde arbetar med organisations- och processutveckling i offentlig sektor, civilsamhälle och tvärsektoriella sammanhang.** I RFSU-uppdraget används den kompetensen för att följa hur strukturella villkor och faktisk praktik tillsammans formar möjligheten till relevant och jämlik SRHR-vård.
 
 [**Läs om Form & Flöde →**](form-och-flode.md)
 
+---
+
 ## Linus Fast
+
+![Linus Fast](assets/linus-fast-bw.webp)
 
 **Strategisk processdesigner · Grundare av Form & Flöde · Uppdragsansvarig konsult**
 
-Linus Fast arbetar med organisations- och processutveckling, systemanalys, utvärdering och MEAL, facilitering, kvalitativ analys, projekt- och programutveckling samt kunskapsöversättning.
+**Linus Fast arbetar med organisations- och processutveckling, systemanalys, strategi, utvärdering och MEAL, facilitering, kvalitativ analys och kunskapsöversättning.** Erfarenheten omfattar bland annat Rädda Barnen, Sensus/Malmö Tillsammans, Barnombudet i Uppsala län och konsult- och utvecklingsuppdrag inom offentlig sektor och civilsamhälle.
 
-I RFSU-uppdraget ansvarar Linus för uppdragsledning, metod- och analysarkitektur, urvalsprocess, projektkontroll, strukturell analys, jämförbarhet mellan fallen, syntes, rekommendationer, rapportering och slutleverans.
+I RFSU-uppdraget leder Linus arbetet och ansvarar för metod- och analysarkitektur, urvalsprocess, projektkontroll, strukturell analys, jämförbarhet mellan fall, syntes, rapportering och slutleverans.
 
-[**Läs Linus profil →**](linus-fast.md) · [**Fullständigt uppdragsrelevant CV →**](cv/linus-fast-fullstandigt-cv-rfsu.md)
+[**Linus profil →**](linus-fast.md) · [**CV →**](cv/linus-fast-fullstandigt-cv-rfsu.md)
+
+---
 
 ## Adrian Repka
 
+![Adrian Repka](assets/adrian-repka-bw.webp)
+
 **Senior konsult**
 
-Adrian Repka har erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsnära sammanhang. Adrians dokumenterade erfarenhet omfattar användarcentrerade flöden och multiprofessionell samverkan inom fertilitetsområdet, arbete med jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
+**Adrian Repka har erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsnära sammanhang.** Adrians dokumenterade erfarenhet omfattar användarcentrerade flöden och multiprofessionell samverkan inom fertilitetsområdet, jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
 
-Adrian medverkar som senior konsult genom genomförandet utifrån uppdragets behov. Adrians kompetens kan användas genom hela uppdraget inom bland annat processledning, kvalitativt arbete, jämlikhets- och normkritisk analys, vård- och fertilitetsnära frågor, gemensam analys, rekommendationsarbete samt återföring och erfarenhetsutbyte.
+Adrian Repka medverkar som senior konsult i genomförandet av uppdraget utifrån de behov som uppstår genom processen. Adrians kompetens används i processledning, kvalitativt arbete, jämlikhets- och normkritisk analys, vård- och fertilitetsnära frågor, gemensam analys, rekommendationsarbete samt återföring och erfarenhetsutbyte.
 
-[**Läs Adrians profil →**](adrian-repka.md) · [**Fullständigt uppdragsrelevant CV →**](cv/adrian-repka-fullstandigt-cv-rfsu.md)
+[**Adrians profil →**](adrian-repka.md) · [**CV →**](cv/adrian-repka-fullstandigt-cv-rfsu.md)
 
-## Teamet
+---
 
-Linus och Adrian utgör ett litet seniort konsultteam med tydlig ansvarsfördelning och flexibel användning av kompetens genom uppdraget. Linus har formellt uppdragsansvar och håller samman metod, analys, resurser och slutleverans. Adrian medverkar som senior konsult där Adrians kompetens stärker genomförandet.
+## Teamet i uppdraget
+
+**Linus och Adrian utgör ett litet seniort konsultteam med tydligt uppdragsansvar och flexibel användning av kompetens.** Linus håller samman uppdragets arkitektur och slutleverans. Adrian medverkar genom hela genomförandet där Adrians kompetens skapar värde för uppdraget.

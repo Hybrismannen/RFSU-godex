@@ -1,31 +1,30 @@
 # Adrian Repka
 
+![Adrian Repka](assets/adrian-repka-bw.webp)
+
 **Senior konsult**
 
-## Kort profil
+## Profil
 
-Adrian Repka är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsnära sammanhang.
+**Adrian Repka är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsnära sammanhang.** Kombinationen ger uppdraget kompetens för att läsa organisation, praktik och jämlikhetsfrågor tillsammans.
 
 Adrians dokumenterade erfarenhet omfattar användarcentrerade flöden och multiprofessionell samverkan inom fertilitetsområdet, arbete med jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
 
-## Relevant erfarenhet för RFSU-uppdraget
+## Relevant erfarenhet
 
-Adrians kompetensprofil omfattar:
-
+Adrians erfarenhet omfattar bland annat:
 - processledning och processdesign;
 - kvalitativt intervjubaserat arbete;
 - normkritisk och intersektionell organisationsutveckling;
-- professionell praktik där antirasistiska perspektiv ingår i ett intersektionellt arbete;
+- antirasistiska perspektiv inom intersektionellt utvecklingsarbete;
 - vård- och fertilitetsnära utvecklingsarbete;
-- användarcentrerade flöden och multiprofessionell samverkan inom fertilitetsområdet;
-- arbete med jämlik vård och makt i vårdsammanhang;
+- användarcentrerade flöden och multiprofessionell samverkan;
+- jämlik vård och makt i vårdsammanhang;
 - publicerad analys av transspecifik hälso- och sjukvård.
 
 ## Roll i RFSU-uppdraget
 
-Adrian medverkar som senior konsult genom genomförandet utifrån de behov som uppstår i uppdraget.
-
-Adrians kompetens kan användas genom hela uppdraget inom bland annat:
+**Adrian Repka medverkar som senior konsult i genomförandet av uppdraget utifrån de behov som uppstår genom processen.** Adrians kompetens kan användas genom hela uppdraget i exempelvis:
 
 - processdesign och processledning;
 - design och genomförande av kvalitativt arbete;
@@ -36,6 +35,4 @@ Adrians kompetens kan användas genom hela uppdraget inom bland annat:
 - rekommendationsarbete;
 - återföring och erfarenhetsutbyte.
 
-Adrian är en senior konsult i teamet och medverkar där Adrians kompetens behövs för att genomföra uppdraget med hög kvalitet.
-
-[**Fullständigt CV relevant för RFSU-uppdraget →**](cv/adrian-repka-fullstandigt-cv-rfsu.md)
+[**Fullständigt uppdragsrelevant CV →**](cv/adrian-repka-fullstandigt-cv-rfsu.md)

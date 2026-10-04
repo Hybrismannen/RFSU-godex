@@ -1,10 +1,8 @@
-# 02 — Arbetsprocess och uppdragsdesign 2.0
+# Arbetsprocess
 
-**Arbetsprocessen omsätter en rik analysarkitektur i ett koncentrerat praktiskt genomförande.** Tre mottagningar följs genom samma materialstruktur, vårdrealiseringsresa och analysfält inom uppdragets tid och budget.
+**Arbetsprocessen gör en rik analysarkitektur praktiskt genomförbar inom uppdragets tid och budget.** Tre mottagningar följs genom samma materialstruktur, vårdrealiseringsresa och analysfält så att resultatet blir jämförbart från början.
 
-> **Analytisk komplexitet ska följas av proportionerligt genomförande.**
-
-## Genomförandespår
+## Genomförandet
 
 ~~~text
 1. Gemensam nationell vårdram
@@ -35,22 +33,20 @@
 
 **Mottagningen är fallet och vårdrealiseringsresan är den analytiska rörelsen genom fallet.** Samma resa följs i alla tre mottagningar:
 
-**Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
+> **Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
 
-Resan rekonstrueras genom det strukturella materialet och nyckelpersoners beskrivningar av faktisk praktik. Hälsoliteracitet och navigation används som en relationell analyslins för att synliggöra vilka krav systemet ställer på individen och vilket stöd verksamheten skapar.
+Resan rekonstrueras genom strukturellt material och nyckelpersoners beskrivningar av faktisk praktik. Hälsolitteracitet och navigation används som en relationell analyslins för att synliggöra vad personen behöver kunna göra längs vägen och vilket stöd verksamheten skapar.
 
-## Materialomfattning
+## Material per mottagning
 
-**Grunddesignen använder ett avgränsat strukturellt material och ett primärt kvalitativt block per mottagning.** Kompletterande insamling aktiveras när en central informationslucka påverkar möjligheten att besvara uppdragets frågor och ryms inom den adaptiva reserven.
+**Varje fall byggs av två sammanlänkade materialspår: struktur och praktik.** Det strukturella materialet beskriver mandat, organisering, tillträde, professioner, riktlinjer, resurser och samverkansgränssnitt. Det kvalitativa blocket visar hur verksamheten fungerar i praktiken genom intervjuer och/eller fokusgrupper med relevanta nyckelpersoner.
 
-## Uppdragsdesign 2.0
+## Från fall till rekommendation
 
-[**Läs hela Uppdragsdesign 2.0**](uppdragsdesign-v2.0.md)
+**De tre fallanalyserna förs samman i en tvärgående analys av vad som fungerar, hur det fungerar och vilka villkor som bär arbetssättet.** Utvecklingskedjan är:
 
-[**Öppna Uppdragsdesign 2.0 som infografik**](../09-visuellt-material/uppdragsdesign-v2.0.svg)
+> **Praktik → verksam mekanism → möjliggörande villkor → jämlikhetsimplikation → överförbarhet → rekommendation**
 
-## Anbudsfas — ITR 1–5
-
-[**Läs arbetsordningen ITR 1–5**](ITR-1-5-arbetsordning.md)
-
-**ITR 1–5 är genomförda och passerade.** Första officiella svenska anbudsutkastet finns nu i [11 — Anbud](../11-anbud/README.md).
+[**Se uppdragsdesignen →**](../09-visuellt-material/uppdragsdesign-v2.0.md)  
+[**Se valet av mottagningar →**](../03-val-av-mottagningar/README.md)  
+[**Öppna anbudet →**](../11-anbud/officiellt-anbudsutkast-v1.0.md)

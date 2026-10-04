@@ -1,31 +1,28 @@
 # Form & Flöde
 
-## Kort presentation
+## Vår praktik
 
-Form & Flöde är en konsultpraktik för organisations- och processutveckling i offentlig sektor, civilsamhälle och tvärsektoriella sammanhang.
+**Form & Flöde är en konsultpraktik för organisations- och processutveckling i offentlig sektor, civilsamhälle och tvärsektoriella sammanhang.** Arbetet kombinerar organisations- och systemanalys, processdesign, strategi, facilitering, projekt- och programutveckling, utvärdering och lärande samt kommunikation och kunskapsöversättning.
 
-Arbetet kombinerar organisations- och systemanalys, processdesign, strategi, facilitering, projekt- och programutveckling, utvärdering och lärande samt kommunikation och kunskapsöversättning.
-
-Den återkommande frågan är hur **ändamål och verksamhetsform hänger samman**: vilka strukturer, resurser, roller, relationer, beslut och institutionella villkor som gör det möjligt för en verksamhet att nå sitt syfte.
+**Kärnfrågan är hur ändamål och organisationsform hänger samman.** Vi undersöker hur strukturer, resurser, roller, relationer, beslut, information och institutionella villkor påverkar verksamhetens förmåga att åstadkomma det den finns till för.
 
 ## Arbetssätt
 
-Form & Flöde rör sig mellan strategisk och operativ nivå. Analys omsätts i beslut, processer, ansvar, resurser och praktiskt genomförande.
+**Arbetet rör sig mellan strategisk och operativ nivå och kopplar analys till genomförande.** Metoder väljs och kombineras utifrån uppdragets frågor, tillgängliga material, tidsram och den kunskap som behöver kunna användas efter avslutat arbete.
 
-Metoder väljs och kombineras utifrån uppdragets behov och den kunskap som behöver utvecklas för att arbetet ska bli genomförbart, jämförbart och användbart.
+Det gör att analysen kan utvecklas med tillräckligt djup samtidigt som genomförandet hålls proportionerligt och tydligt.
 
-## Relevans för RFSU-uppdraget
+## I RFSU-uppdraget
 
-I RFSU-uppdraget används Form & Flödes arbetssätt för att länka samman:
+**Form & Flödes uppgift är att göra sambandet mellan vårdprinciper, organisation, praktik och individens faktiska väg genom vården synligt och jämförbart.** Uppdraget följer därför en sammanhängande kedja:
 
-**nationell vårdram → strukturella villkor → organisatoriskt kapital → faktisk praktik → individens vårdrealiseringsresa → hinder och möjliggörare → överförbar kunskap och rekommendationer**
+> **Nationell vårdram → strukturella villkor → faktisk praktik → individens vårdrealiseringsresa → hinder och möjliggörare → överförbar kunskap och rekommendationer**
 
-Uppdraget följer tre mottagningar genom samma analytiska arkitektur. Det skapar en gemensam struktur för att förstå hur organisering och arbetssätt påverkar möjligheten att hitta, nå, navigera och få relevant vård.
+Kartläggningen beskriver tre mottagningar och analyserar hur deras organisering och arbetssätt påverkar möjligheten att hitta, nå, navigera och få relevant vård.
 
 ## Kompetensbas
 
-Form & Flödes kompetens omfattar bland annat:
-
+Form & Flödes arbete omfattar bland annat:
 - organisations- och processutveckling;
 - systemtänkande och komplexitet;
 - strategi och strategisk design;
@@ -36,5 +33,3 @@ Form & Flödes kompetens omfattar bland annat:
 - tvärsektoriell utveckling;
 - forskning, syntes och ramverksutveckling;
 - kommunikation och kunskapsöversättning.
-
-[← Till konsultprofilen](README.md)
