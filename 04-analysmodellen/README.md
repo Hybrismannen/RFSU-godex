@@ -45,4 +45,4 @@
 > **Praktik → verksam mekanism → möjliggörande villkor → jämlikhetsimplikation → överförbarhet → rekommendation**
 
 [**Se arbetsprocessen →**](../02-arbetsprocessen/README.md)  
-[**Se uppdragsdesignen →**](../09-visuellt-material/uppdragsdesign.md)
+[**Se uppdragsdesignen →**](../06-visuellt-material/uppdragsdesign.md)
