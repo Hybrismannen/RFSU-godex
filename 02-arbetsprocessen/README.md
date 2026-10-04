@@ -1,18 +1,18 @@
 # Arbetsprocess
 
-**Arbetsprocessen gör en rik analysarkitektur praktiskt genomförbar inom uppdragets tid och budget.** Tre mottagningar följs genom samma materialstruktur, vårdrealiseringsresa och analysfält så att resultatet blir jämförbart från början.
+**Arbetsprocessen gör analysdesignen praktiskt genomförbar inom uppdragets tid och budget.** Tre mottagningar följs genom samma underlagsarkitektur, vårdrealiseringsresa och analysfält så att resultatet blir jämförbart från början.
 
 ## Genomförandet
 
 ~~~text
-1. Gemensam nationell vårdram
+1. Nationell referensram
               ↓
-2. Bekräfta tre mottagningar med RFSU
+2. Bekräfta tre fall med RFSU
               ↓
-3. Per mottagning:
-   strukturellt material
+3. Per fall:
+   strukturellt underlag
               +
-   ett primärt kvalitativt block
+   ett huvudsakligt empiriskt block
    med relevanta nyckelpersoner
               ↓
 4. Standardiserad fallanalys
@@ -26,20 +26,20 @@
               ↓
 7. Rekommendationer
               ↓
-8. Rapport + presentation + återföring
+8. Rapport + presentation + återkoppling
 ~~~
 
 ## Vårdrealiseringsresan
 
 **Mottagningen är fallet och vårdrealiseringsresan är den analytiska rörelsen genom fallet.** Samma resa följs i alla tre mottagningar:
 
-> **Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
+> **Behov → orientering → vårdval/väg in → vårdkedja/navigation → relevant vård → vård given → samlad upplevelse**
 
-Resan rekonstrueras genom strukturellt material och nyckelpersoners beskrivningar av faktisk praktik. Hälsolitteracitet och navigation används som en relationell analyslins för att synliggöra vad personen behöver kunna göra längs vägen och vilket stöd verksamheten skapar.
+Resan rekonstrueras genom strukturellt underlag och nyckelpersoners beskrivningar av faktisk praktik. Hälsolitteracitet används som ett relationellt gränssnitt mellan individ och system för att synliggöra vad personen behöver hitta, förstå, värdera, välja, använda och navigera och hur vårdsystemet förändrar denna belastning.
 
-## Material per mottagning
+## Underlag per mottagning
 
-**Varje fall byggs av två sammanlänkade materialspår: struktur och praktik.** Det strukturella materialet beskriver mandat, organisering, tillträde, professioner, riktlinjer, resurser och samverkansgränssnitt. Det kvalitativa blocket visar hur verksamheten fungerar i praktiken genom intervjuer och/eller fokusgrupper med relevanta nyckelpersoner.
+**Varje fall byggs genom två sammanlänkade underlagsspår: struktur och praktik.** Det strukturella underlaget beskriver mandat, organisering, ingångslogik, professioner, riktlinjer, resurser och samverkansgränssnitt. Det empiriska blocket visar hur verksamheten fungerar i praktiken genom intervjuer och/eller fokusgrupper med relevanta nyckelpersoner.
 
 ## Från fall till rekommendation
 
