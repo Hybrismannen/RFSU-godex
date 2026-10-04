@@ -54,4 +54,4 @@ Planeringsramen är **112 timmar + 8 timmar reserv för anpassningar = 120 timma
 
 ## Team
 
-**Linus Fast leder uppdraget och ansvarar för metod- och analysarkitektur, projektkontroll, syntes och slutleverans.** Adrian Repka medverkar som senior konsult genom genomförandet utifrån uppdragets behov och bidrar med processledning, kvalitativt arbete, jämlikhets- och normkritisk analys samt vård- och fertilitetsrelaterad kompetens.
+**Linus Fast leder uppdraget och ansvarar för metod- och analysarkitektur, projektkontroll, syntes och slutleverans.** AD medverkar som senior konsult genom genomförandet utifrån uppdragets behov och bidrar med processledning, kvalitativt arbete, jämlikhets- och normkritisk analys samt vård- och fertilitetsrelaterad kompetens.
