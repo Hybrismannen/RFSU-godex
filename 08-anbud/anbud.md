@@ -2,7 +2,7 @@
 
 **Anbudsgivare:** Form & Flöde  
 **Huvudkonsult:** Linus Fast  
-**Senior konsult:** Adrian Repka  
+**Senior konsult:** AD  
 **Datum:** 4 oktober 2026
 
 ---
@@ -15,7 +15,7 @@
 
 **Vi går in i uppdraget med en kvalificerad startpalett av mottagningar och en tydlig urvalsprocess.** De slutliga tre fallen fastställs tillsammans med RFSU vid mobilisering så att aktuell fältkunskap och RFSU:s prioriteringar formar den slutliga konfigurationen.
 
-**Uppdraget genomförs av ett litet seniorteam.** Linus Fast har uppdragsansvar och leder metod- och analysarkitektur samt slutleverans. Adrian Repka deltar som senior konsult genom uppdraget utifrån de behov som uppstår i processen.
+**Uppdraget genomförs av ett litet seniorteam.** Linus Fast har uppdragsansvar och leder metod- och analysarkitektur samt slutleverans. AD deltar som senior konsult genom uppdraget utifrån de behov som uppstår i processen.
 
 ---
 
@@ -257,24 +257,24 @@ Relevant dokumenterad erfarenhet omfattar bland annat Rädda Barnen, Sensus/Malm
 
 [**Linus profil →**](../07-konsultprofil/linus-fast.md) · [**CV →**](../07-konsultprofil/cv/linus-fast-fullstandigt-cv-rfsu.md)
 
-## Adrian Repka — senior konsult
+## AD — senior konsult
 
-**Adrian Repka är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsrelaterade miljöer.** Adrians dokumenterade erfarenhet omfattar användarcentrerade flöden och multidisciplinärt samarbete inom fertilitetsområdet, arbete med jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
+**AD är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsrelaterade miljöer.** AD:s dokumenterade erfarenhet omfattar användarcentrerade flöden och multidisciplinärt samarbete inom fertilitetsområdet, arbete med jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
 
-**Adrian Repka deltar genom uppdraget utifrån de behov som uppstår i leveransprocessen.** Adrians kompetens kan användas inom processdesign och processledning, kvalitativt arbete, intervjuer och fokusgrupper, jämlikhets- och normkritisk analys, vård- och fertilitetsrelaterade frågor, gemensam analys, rekommendationsutveckling, återkoppling och erfarenhetsutbyte.
+**AD deltar genom uppdraget utifrån de behov som uppstår i leveransprocessen.** AD:s kompetens kan användas inom processdesign och processledning, kvalitativt arbete, intervjuer och fokusgrupper, jämlikhets- och normkritisk analys, vård- och fertilitetsrelaterade frågor, gemensam analys, rekommendationsutveckling, återkoppling och erfarenhetsutbyte.
 
 Relevant dokumenterad erfarenhet omfattar bland annat Jämfota, Mojo Fertility, Jämställd Utveckling Skåne, Svenska kyrkan, kvalitativt intervjubaserat arbete och publicerad analys inom transspecifik hälso- och sjukvård.
 
-[**Adrians profil →**](../07-konsultprofil/adrian-repka.md) · [**CV →**](../07-konsultprofil/cv/adrian-repka-fullstandigt-cv-rfsu.md)
+[**AD:s profil →**](../07-konsultprofil/adrian-repka.md) · [**CV →**](../07-konsultprofil/cv/adrian-repka-fullstandigt-cv-rfsu.md)
 
 ## Teamets samlade matchning
 
 | Kravområde | Teamets dokumenterade svar |
 |---|---|
-| **SRHR och jämlik vård** | Direkt vård-, fertilitets- och transhälsorelevant kompetens genom Adrian kombinerad med Linus system-, process- och utvärderingskompetens. |
-| **Intersektionellt feministiskt och antirasistiskt perspektiv** | Adrians normkritiska och intersektionella arbete omfattar rasism tillsammans med kön/sexualitet, tillgänglighet och klass. Linus bidrar med rättighetsbaserad organisations- och processutveckling samt deltagarorienterad analys. |
+| **SRHR och jämlik vård** | Direkt vård-, fertilitets- och transhälsorelevant kompetens genom AD kombinerad med Linus system-, process- och utvärderingskompetens. |
+| **Intersektionellt feministiskt och antirasistiskt perspektiv** | AD:s normkritiska och intersektionella arbete omfattar rasism tillsammans med kön/sexualitet, tillgänglighet och klass. Linus bidrar med rättighetsbaserad organisations- och processutveckling samt deltagarorienterad analys. |
 | **Kartläggning och/eller forskning inom SRHR** | Publicerad analys inom transspecifik hälso- och sjukvård och fertilitetsrelaterad praktik kombineras med kartläggnings- och analyskompetens. |
-| **Intervjuer och fokusgrupper** | Adrian har dokumenterat intervjubaserat arbete; Linus har dokumenterad design och processledning av fokusgrupps- och dialogprocesser. |
+| **Intervjuer och fokusgrupper** | AD har dokumenterat intervjubaserat arbete; Linus har dokumenterad design och processledning av fokusgrupps- och dialogprocesser. |
 
 ---
 
@@ -339,11 +339,11 @@ Kommersiella villkor:
 **Två namngivna referenser lämnas med anbudet.** Kontaktuppgifter lämnas om RFSU går vidare med anbudet.
 
 1. **Priyanka John** — Strategisk Utvecklare, Tomelilla kommun. Referens för Linus Fast.
-2. **Lisa Svensson** — Klimatsamordnare kyrkans uppdrag, Svenska kyrkan Stockholms stift. Referens för Adrian Repka.
+2. **Lisa Svensson** — Klimatsamordnare kyrkans uppdrag, Svenska kyrkan Stockholms stift. Referens för AD.
 
 ## Bilagor
 
 1. **Linus Fast — uppdragsrelevant CV.**
-2. **Adrian Repka — uppdragsrelevant CV.**
+2. **AD — uppdragsrelevant CV.**
 
 Den öppna samarbetsytan ger kompletterande tillgång till uppdragsdesign, urvalslogik, analysmodell, källunderlag och konsultprofiler.
