@@ -4,9 +4,9 @@
 
 ## Uppdragsdesign
 
-![Uppdragsdesign](uppdragsdesign-v2.0.svg)
+![Uppdragsdesign](uppdragsdesign.svg)
 
-[**Textalternativ och förklaring →**](uppdragsdesign-v2.0.md)
+[**Textalternativ och förklaring →**](uppdragsdesign.md)
 
 ## Uppdraget i korthet
 
@@ -36,4 +36,4 @@
 
 ![Arbetsprocess](assets/arbetsprocess.svg)
 
-**Arbetsprocessen håller genomförandet koncentrerat till tre mottagningar, strukturellt material och ett primärt kvalitativt block per fall.** Analysarkitekturen ger sedan materialet en gemensam struktur för jämförelse, syntes och rekommendationer.
+**Arbetsprocessen håller genomförandet koncentrerat till tre mottagningar, strukturellt material och ett primärt kvalitativt block per fall.** Analysarkitekturen ger materialet en gemensam struktur för jämförelse, syntes och rekommendationer.
