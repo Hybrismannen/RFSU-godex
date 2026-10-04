@@ -13,24 +13,24 @@
   </defs>
   <rect width="1600" height="1000" class="bg"/>
   <text x="80" y="90" class="h1 ink">Så är uppdraget konstruerat</text>
-  <text x="82" y="132" class="body muted">Tre mottagningar · en analytisk arkitektur · en spårbar väg från material till rekommendation</text>
+  <text x="82" y="132" class="body muted">Tre mottagningar · ett sammanhängande analyssystem · en spårbar väg från underlag till rekommendation</text>
 
   <g transform="translate(80,175)">
     <rect x="0" y="0" width="1440" height="150" rx="30" fill="#FFFFFF" filter="url(#shadow)"/>
-    <g transform="translate(38,32)"><circle cx="45" cy="43" r="40" fill="#DCECF7" class="step"/><text x="45" y="51" text-anchor="middle" class="h3 ink">1</text><text x="100" y="31" class="h3 ink">Vårdram</text><text x="100" y="58" class="small muted">gemensamma vårdprinciper</text></g>
+    <g transform="translate(38,32)"><circle cx="45" cy="43" r="40" fill="#DCECF7" class="step"/><text x="45" y="51" text-anchor="middle" class="h3 ink">1</text><text x="100" y="31" class="h3 ink">Referensram</text><text x="100" y="58" class="small muted">gemensamma vårdprinciper</text></g>
     <path d="M260 75 H330" class="line"/><polygon points="330,75 315,67 315,83" class="arrow"/>
-    <g transform="translate(340,32)"><circle cx="45" cy="43" r="40" fill="#D8F0EA" class="step"/><text x="45" y="51" text-anchor="middle" class="h3 ink">2</text><text x="100" y="31" class="h3 ink">Mottagningar</text><text x="100" y="58" class="small muted">relevans + användbar variation</text></g>
+    <g transform="translate(340,32)"><circle cx="45" cy="43" r="40" fill="#D8F0EA" class="step"/><text x="45" y="51" text-anchor="middle" class="h3 ink">2</text><text x="100" y="31" class="h3 ink">Fallarkitektur</text><text x="100" y="58" class="small muted">relevans + användbar variation</text></g>
     <path d="M585 75 H655" class="line"/><polygon points="655,75 640,67 640,83" class="arrow"/>
-    <g transform="translate(667,32)"><circle cx="45" cy="43" r="40" fill="#FFE6D6" class="step"/><text x="45" y="51" text-anchor="middle" class="h3 ink">3</text><text x="100" y="31" class="h3 ink">Material</text><text x="100" y="58" class="small muted">struktur + praktik</text></g>
+    <g transform="translate(667,32)"><circle cx="45" cy="43" r="40" fill="#FFE6D6" class="step"/><text x="45" y="51" text-anchor="middle" class="h3 ink">3</text><text x="100" y="31" class="h3 ink">Underlag</text><text x="100" y="58" class="small muted">struktur + praktik</text></g>
     <path d="M874 75 H944" class="line"/><polygon points="944,75 929,67 929,83" class="arrow"/>
-    <g transform="translate(957,32)"><circle cx="45" cy="43" r="40" fill="#E7E1F5" class="step"/><text x="45" y="51" text-anchor="middle" class="h3 ink">4</text><text x="100" y="31" class="h3 ink">Vårdresa</text><text x="100" y="58" class="small muted">följ realisering genom systemet</text></g>
+    <g transform="translate(957,32)"><circle cx="45" cy="43" r="40" fill="#E7E1F5" class="step"/><text x="45" y="51" text-anchor="middle" class="h3 ink">4</text><text x="100" y="31" class="h3 ink">Vårdrealiseringsresa</text><text x="100" y="58" class="small muted">följ realisering genom systemet</text></g>
     <path d="M1192 75 H1262" class="line"/><polygon points="1262,75 1247,67 1247,83" class="arrow"/>
     <g transform="translate(1275,32)"><circle cx="45" cy="43" r="40" fill="#F7DFE4" class="step"/><text x="45" y="51" text-anchor="middle" class="h3 ink">5</text><text x="100" y="31" class="h3 ink">Användning</text><text x="100" y="58" class="small muted">syntes → rekommendationer</text></g>
   </g>
 
   <g transform="translate(80,365)">
     <rect width="320" height="365" rx="26" class="card" filter="url(#shadow)"/><rect width="320" height="18" rx="9" fill="#4C87B9"/>
-    <text x="28" y="58" class="h2 ink">1 · Gemensam vårdram</text><text x="28" y="95" class="body muted">Samma frågor i alla tre fall</text>
+    <text x="28" y="58" class="h2 ink">1 · Nationell referensram</text><text x="28" y="95" class="body muted">Samma frågor i alla tre fall</text>
     <g transform="translate(28,125)">
       <rect width="264" height="42" rx="14" fill="#EAF3FA"/><text x="18" y="27" class="small ink">Jämlik vård</text>
       <rect y="54" width="264" height="42" rx="14" fill="#EAF3FA"/><text x="18" y="81" class="small ink">Personcentrerad vård</text>
@@ -42,23 +42,23 @@
 
   <g transform="translate(430,365)">
     <rect width="340" height="365" rx="26" class="card" filter="url(#shadow)"/><rect width="340" height="18" rx="9" fill="#3E9C8D"/>
-    <text x="28" y="58" class="h2 ink">2 · Tre mottagningar</text><text x="28" y="95" class="body muted">En grundad startkonfiguration</text>
+    <text x="28" y="58" class="h2 ink">2 · Tre mottagningar</text><text x="28" y="95" class="body muted">En kvalificerad startpalett</text>
     <g transform="translate(28,124)">
       <rect width="284" height="62" rx="16" fill="#E5F3EF"/><text x="18" y="25" class="small ink">SESAM Mälarsjukhuset</text><text x="18" y="46" class="tiny muted">Eskilstuna · bred regional modell</text>
       <rect y="76" width="284" height="62" rx="16" fill="#E5F3EF"/><text x="18" y="101" class="small ink">Centrum för sexuell hälsa</text><text x="18" y="122" class="tiny muted">Malmö · specialistvårdskontrast</text>
       <rect y="152" width="284" height="62" rx="16" fill="#E5F3EF"/><text x="18" y="177" class="small ink">Stockholms mottagning</text><text x="18" y="198" class="tiny muted">offentlig · låg tröskel · multiprofessionell</text>
     </g>
-    <text x="28" y="331" class="tiny muted">Register → Gate → Relevans → RFSU-dialog → Tre</text>
+    <text x="28" y="331" class="tiny muted">Register → Urvalskriterier → Relevans → Palett → RFSU-dialog</text>
   </g>
 
   <g transform="translate(800,365)">
     <rect width="340" height="365" rx="26" class="card" filter="url(#shadow)"/><rect width="340" height="18" rx="9" fill="#D9973F"/>
-    <text x="28" y="58" class="h2 ink">3 · Material → vårdresa</text><text x="28" y="95" class="body muted">Samma arkitektur i varje fall</text>
-    <rect x="28" y="124" width="132" height="94" rx="16" fill="#FFF0E2"/><text x="44" y="152" class="h3 ink">Struktur</text><text x="44" y="178" class="tiny muted">uppdrag · tillträde</text><text x="44" y="198" class="tiny muted">roller · resurser</text>
+    <text x="28" y="58" class="h2 ink">3 · Underlag → vårdresa</text><text x="28" y="95" class="body muted">Samma underlagsarkitektur i varje fall</text>
+    <rect x="28" y="124" width="132" height="94" rx="16" fill="#FFF0E2"/><text x="44" y="152" class="h3 ink">Struktur</text><text x="44" y="178" class="tiny muted">uppdrag · väg in</text><text x="44" y="198" class="tiny muted">roller · resurser</text>
     <rect x="180" y="124" width="132" height="94" rx="16" fill="#E7F4F1"/><text x="196" y="152" class="h3 ink">Praktik</text><text x="196" y="178" class="tiny muted">ingång · behov</text><text x="196" y="198" class="tiny muted">samordning · anpassning</text>
     <path d="M70 255 H270" class="line"/><polygon points="270,255 255,247 255,263" class="arrow"/>
-    <text x="28" y="294" class="small ink">Behov → Orientering → Ingång → Navigation</text><text x="28" y="320" class="small ink">→ Relevant vård → Genomförd vård → Helhetsupplevelse</text>
-    <text x="28" y="348" class="tiny muted">Gränssnitt: hitta · förstå · värdera · använda · navigera</text>
+    <text x="28" y="294" class="small ink">Behov → Orientering → Väg in → Navigation</text><text x="28" y="320" class="small ink">→ Relevant vård → Vård given → Samlad upplevelse</text>
+    <text x="28" y="348" class="tiny muted">Gränssnitt: hitta · förstå · värdera · välja · använda · navigera</text>
   </g>
 
   <g transform="translate(1170,365)">
@@ -75,15 +75,15 @@
 
   <g transform="translate(80,770)">
     <rect width="980" height="150" rx="24" class="card"/><text x="28" y="44" class="h2 ink">Genomförande</text>
-    <text x="28" y="80" class="small ink">Mobilisering → Urval → Strukturellt material → Praktikmaterial → Fallanalys → Tvärfallsanalys → Rapport → Återföring</text>
-    <text x="28" y="118" class="small muted">112 planerade timmar + 8 h adaptiv reserv = 120 h</text><text x="560" y="118" class="small muted">Rapport: 29 jan 2027 · Slut: 19 feb 2027</text>
+    <text x="28" y="80" class="small ink">Mobilisering → Urval → Strukturellt underlag → Praktikmaterial → Fallanalys → Tvärfallssyntes → Rapport → Återkoppling</text>
+    <text x="28" y="118" class="small muted">112 planerade timmar + 8 h reserv för anpassningar = 120 h · cirka 15 arbetsdagar</text><text x="650" y="118" class="small muted">Rapport: 29 jan 2027 · Slut: 19 feb 2027</text>
   </g>
 
   <g transform="translate(1090,770)">
     <rect width="430" height="150" rx="24" class="card"/><text x="28" y="44" class="h2 ink">Seniort konsultteam</text>
-    <circle cx="48" cy="82" r="18" fill="#4C87B9"/><text x="82" y="79" class="h3 ink">Linus Fast</text><text x="82" y="101" class="tiny muted">Uppdragsansvar · arkitektur · syntes · leverans</text>
+    <circle cx="48" cy="82" r="18" fill="#4C87B9"/><text x="82" y="79" class="h3 ink">Linus Fast</text><text x="82" y="101" class="tiny muted">Huvudkonsult · arkitektur · syntes · leverans</text>
     <circle cx="48" cy="125" r="18" fill="#3E9C8D"/><text x="82" y="122" class="h3 ink">Adrian Repka</text><text x="82" y="144" class="tiny muted">Senior konsult · medverkar genom genomförandet efter behov</text>
   </g>
 
-  <text x="80" y="970" class="tiny muted">Form &amp; Flöde · RFSU · Uppdragsdesign 2.0</text>
+  <text x="80" y="970" class="tiny muted">Form &amp; Flöde · RFSU · Uppdragsdesign</text>
 </svg>
