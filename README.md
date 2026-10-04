@@ -1,10 +1,10 @@
 # RFSU Godex — kartläggning av jämlik SRHR-vård
 
-![Uppdragsdesign](09-visuellt-material/uppdragsdesign-v2.0.svg)
+![Uppdragsdesign](09-visuellt-material/uppdragsdesign.svg)
 
-[**Anbud**](11-anbud/officiellt-anbudsutkast-v1.0.md) · [**Uppdragsdesign**](09-visuellt-material/uppdragsdesign-v2.0.md) · [**Konsultteam**](10-konsultprofil/README.md) · [**Uppdraget**](01-uppdraget/README.md) · [**Arbetsprocess**](02-arbetsprocessen/README.md) · [**Val av mottagningar**](03-val-av-mottagningar/README.md) · [**Analysmodell**](04-analysmodellen/README.md) · [**Källor**](08-kallor/README.md)
+[**Anbud**](11-anbud/anbud.md) · [**Uppdragsdesign**](09-visuellt-material/uppdragsdesign.md) · [**Konsultteam**](10-konsultprofil/README.md) · [**Uppdraget**](01-uppdraget/README.md) · [**Arbetsprocess**](02-arbetsprocessen/README.md) · [**Val av mottagningar**](03-val-av-mottagningar/README.md) · [**Analysmodell**](04-analysmodellen/README.md) · [**Källor**](08-kallor/README.md)
 
-**Den här samarbetsytan samlar Form & Flödes förslag till RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård för personer över ungdomsmottagningsålder.** Här går det att följa uppdragsförståelsen, urvalet av mottagningar, arbetsprocessen, analysmodellen, konsultteamet och anbudet i ett sammanhållet flöde.
+**Den här samarbetsytan samlar Form & Flödes förslag till RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård för personer över ungdomsmottagningsålder.** Här går det att följa uppdragsförståelsen, urvalet av mottagningar, arbetsprocessen, analysmodellen, konsultteamet och anbudet som en sammanhängande helhet.
 
 ## Uppdragsdesign
 
@@ -12,7 +12,7 @@
 
 > **Gemensam vårdram → tre ändamålsenligt varierade fall → gemensam materialarkitektur → vårdrealiseringsresa → standardiserad fallanalys → tvärgående mekanismanalys → rekommendationer och överförbarhet**
 
-[**Läs uppdragsdesignen →**](09-visuellt-material/uppdragsdesign-v2.0.md)
+[**Läs uppdragsdesignen →**](09-visuellt-material/uppdragsdesign.md)
 
 ## Föreslagna mottagningar
 
@@ -36,6 +36,6 @@ Teamet kombinerar organisations- och processutveckling, utvärdering och kvalita
 
 ## Så hänger materialet ihop
 
-**Uppdraget** beskriver frågan och de ramar som styr arbetet. **Arbetsprocessen** visar hur material samlas in och utvecklas till tre jämförbara fall. **Val av mottagningar** visar urvalslogiken. **Analysmodellen** visar hur struktur, praktik och vårdrealiseringsresa kopplas samman. **Källor** samlar den publika spårbarheten. **Anbudet** för samman helheten i det erbjudande som lämnas till RFSU.
+**Uppdraget** beskriver frågan och de ramar som styr arbetet. **Arbetsprocessen** visar hur material samlas in och utvecklas till tre jämförbara fall. **Val av mottagningar** visar urvalslogiken. **Analysmodellen** visar hur struktur, praktik och vårdrealiseringsresa kopplas samman. **Källor** samlar den publika spårbarheten. **Anbudet** för samman helheten i erbjudandet till RFSU.
 
-[**Öppna anbudet →**](11-anbud/officiellt-anbudsutkast-v1.0.md)
+[**Öppna anbudet →**](11-anbud/anbud.md)
