@@ -1,36 +1,35 @@
-# 03 — Val av mottagningar
+# Val av mottagningar
 
-## Varför ett särskilt urvalsförfarande?
+**Urvalet ska ge tre relevanta verksamheter som tillsammans skapar en användbar jämförelse av hur jämlik SRHR-vård organiseras och genomförs.** Variation i regional kontext, organisatorisk placering, uppdrag, professionell sammansättning och tillträdeslogik används för att öka analysens värde.
 
-Uppdraget omfattar tre mottagningar. Det gör själva urvalet viktigt: tre verksamheter kan aldrig representera hela Sverige, men de kan tillsammans ge **olika och kompletterande perspektiv på hur jämlik SRHR-vård organiseras och genomförs**.
+## Urvalslogiken
 
-Vår utgångspunkt är därför inte att i förväg peka ut "de bästa" mottagningarna. I stället bygger vi ett transparent underlag som RFSU kan använda tillsammans med sin egen kunskap om fältet.
+> **Brett register → Grundkrav → Relevans → Dialogpalett → Dialog med RFSU → Tre mottagningar**
 
-## Urvalslogiken i korthet
+**Urvalet utvecklas stegvis från bred orientering till tre motiverade fall.** Först identifieras relevanta verksamheter. Därefter prövas de mot uppdragets grundkrav och mot den analytiska fråga som varje verksamhet kan hjälpa till att belysa. En mindre palett förs sedan in i dialogen med RFSU innan de tre mottagningarna fastställs.
 
-**Brett register → 1. Grundkrav → 2. Relevans → 3. Palett → Gemensam dialog med RFSU → Tre mottagningar**
+## Föreslagen startkonfiguration
 
-Det innebär:
+**Form & Flöde går in i dialogen med RFSU med tre mottagningar som tillsammans ger en tydlig första jämförelse.**
 
-1. vi börjar brett och dokumenterar möjliga verksamheter;
-2. vi sorterar bort sådant som tydligt ligger utanför uppdragets studieobjekt;
-3. vi beskriver vad kvarvarande mottagningar kan bidra med till analysen;
-4. vi tar fram en mindre palett av olika typer av relevanta verksamheter;
-5. RFSU och konsulten gör därefter det slutliga urvalet tillsammans.
+| Mottagning | Funktion i jämförelsen |
+|---|---|
+| **SESAM Mälarsjukhuset, Eskilstuna** | Bred regional vuxen-SRHR-verksamhet med flera kompetenser och vårdbehov |
+| **Hudmottagning Centrum för sexuell hälsa, Malmö** | Specialistnära regional konfiguration som skapar organisatorisk och geografisk variation |
+| **Stockholms mottagning för sexuell hälsa** | Bred offentlig lågtröskelmodell med multiprofessionellt arbetssätt och flera ingångar |
 
-## Vad finns i den här delen?
+**Den slutliga konfigurationen fastställs tillsammans med RFSU vid mobilisering.** RFSU:s kunskap om fältet används då för att pröva helheten och säkerställa att de tre fallen ger hög relevans och god jämförbarhet.
 
-- [Urvalspresentation — syfte, principer och tillvägagångssätt](urvalspresentation.md)
-- [Trestegsurval — den praktiska urvalsmodellen](trestegsurval.md)
-- [Mottagningsregister v1.0](mottagningsregister-v1.0.md)
-- [Palett för dialog med RFSU v1.0](palett-for-dialog-v1.0.md)
+## Alternativ som breddar dialogen
 
-## Två viktiga principer
+**Urvalsarbetet har också identifierat verksamheter som kan användas för att justera fallpaletten.** Bland dessa finns Afecto Älvsjö sexuell hälsa, Sexualmedicinskt centrum i Göteborg, Specialistmottagning sexuell hälsa Ersta/Karolinska samt Mottagning unga män i primärvård i Uppsala.
 
-### Urvalet är inte en ranking
+De representerar andra möjliga lärandepositioner, exempelvis privat utförare på offentligt uppdrag, specialist sexualmedicin, multidisciplinär specialistvård och riktad accessmodell.
 
-När en mottagning bedöms som mer eller mindre relevant handlar det om **passform mot just det här uppdraget**, inte om kvaliteten på vården.
+## Urvalskriterier
 
-### Oklart betyder oklart
+**Grundkraven säkerställer passform mot RFSU:s uppdrag och relevansbedömningen säkerställer analytiskt värde.** Offentlig information används för den första bedömningen och centrala uppgifter om arbetssätt, organisering och målgrupper verifieras i dialog när fallen mobiliseras.
 
-Offentlig information räcker inte alltid för att bedöma exempelvis hur personcentrerat eller multidisciplinärt arbetet faktiskt är. Då markerar vi frågan som **oklar** och tar den vidare till dialog eller verifiering. Vi fyller inte informationsluckor med antaganden.
+[**Se urvalskriterier →**](urvalskriterier.md)  
+[**Se den praktiska urvalsmodellen →**](trestegsurval.md)  
+[**Se urvalspresentationen →**](urvalspresentation.md)
