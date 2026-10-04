@@ -1,6 +1,6 @@
 # Uppdragsdesign — textalternativ
 
-[**Öppna infografiken →**](uppdragsdesign-v2.0.svg)
+[**Öppna infografiken →**](uppdragsdesign.svg)
 
 ## Så är uppdraget konstruerat
 
