@@ -1,64 +1,40 @@
-# 01 — Uppdraget
+# Uppdraget
 
-Här samlas den externa beskrivningen av vad RFSU efterfrågar och hur Form & Flöde tolkar uppdragets analytiska riktning.
-
-## Kanonisk tolkning
-
-[**Synopsis 1.1 — Form & Flödes tolkning av RFSU-uppdraget**](synopsis-v1.1.md)
-
-Synopsis 1.1 är från 2 oktober 2026 den aktiva överordnade tolkningsramen. Synopsis 1.0 ligger kvar som tidigare stabil version.
+**RFSU vill synliggöra goda exempel på jämlik SRHR-vård för personer över ungdomsmottagningsålder och förstå vilka organisatoriska villkor som gör vården möjlig i praktiken.** Kartläggningen omfattar tre mottagningar och följer både deras strukturella förutsättningar och konkreta arbetssätt.
 
 ## Uppdraget i korthet
-
-Uppdraget handlar om att undersöka tre mottagningar för sexuell hälsa för personer över ungdomsmottagningsåldern.
 
 Arbetet ska belysa:
 - mottagningarnas konkreta arbetssätt;
 - strukturella förutsättningar;
 - goda exempel;
-- hinder;
-- vad som kan överföras till andra liknande verksamheter.
+- hinder och möjliggörande villkor;
+- vad som kan utvecklas och överföras till andra liknande verksamheter.
 
-## Centrala ramar
+## Ramar för genomförandet
 
-- tre mottagningar;
-- holistiskt, multidisciplinärt och personcentrerat arbete;
-- intervjuer och/eller fokusgrupper med nyckelpersoner;
-- analys av relevanta strukturella villkor, exempelvis riktlinjer och avtal;
-- tillgänglig rapport på högst 30 sidor;
-- presentation för RFSU och deltagande mottagningar;
-- rapport inom tre månader från start och senast 29 januari 2027;
-- hela uppdraget avslutat senast 19 februari 2027;
-- total budgetram 150 000 kronor inklusive moms.
+**Tre mottagningar undersöks genom samma grundstruktur för att skapa jämförbarhet.** Uppdraget omfattar holistiskt, multiprofessionellt och personcentrerat arbete, intervjuer och/eller fokusgrupper med relevanta nyckelpersoner samt analys av strukturella villkor som riktlinjer, avtal, organisering och tillträde.
 
-## Analytisk position
+Rapporten omfattar högst 30 sidor och följs av presentation och erfarenhetsutbyte med RFSU och deltagande mottagningar. Rapporten levereras inom tre månader från start och senast **29 januari 2027**. Hela uppdraget avslutas senast **19 februari 2027** inom en total budgetram på **150 000 kronor inklusive moms**.
 
-Den nationella vårdramen är benchmark. Analysen undersöker hur väl den kan realiseras för de grupper RFSU särskilt värnar om genom att följa relationen mellan:
+## Analytisk riktning
 
-**strukturella villkor → organisatoriskt kapital → faktisk praktik → individens vårdrealiseringsresa → kvantitet/kvalitet → realiserbar vårdmöjlighet → jämlikhetsgap → förbättring/överförbarhet.**
+**Analysen följer hur vårdprinciper omsätts från formella villkor till den vård som faktiskt blir möjlig att nå och använda.** Det skapar en sammanhängande rörelse genom uppdraget:
+
+> **Nationell vårdram → strukturella villkor → organisatorisk kapacitet → faktisk praktik → individens vårdrealiseringsresa → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet**
 
 ## Individens vårdrealiseringsresa
 
-Mottagningen är fortsatt case. Genom varje case följs den teoretiska och praktiska vägen:
+**Mottagningen är fallet och vårdrealiseringsresan visar hur verksamhetens organisering möter individens praktiska väg genom systemet.** Samma resa följs i alla tre fallen:
 
-**Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse.**
+> **Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
 
-Hälsoliteracitet används som relationell analyslins för vad personen behöver kunna hitta, förstå, värdera, använda och navigera — och vilka krav och stöd som systemet skapar.
+Hälsolitteracitet och navigation används som en relationell analyslins. Analysen uppmärksammar vad en person behöver kunna hitta, förstå, värdera, använda och navigera och vilket stöd verksamheten skapar längs vägen.
 
-Detta innebär inte en separat patientstudie. Grunddesignen hålls till tre case med strukturellt underlag och nyckelpersonsintervjuer/fokusgrupper.
+## Från uppdrag till genomförande
 
-## Viktig princip
+**Uppdragsförståelsen förs direkt vidare in i urval, materialinsamling, fallanalys och tvärgående syntes.** Det gör att samma frågor följer arbetet från den första kontakten med mottagningarna till rekommendationer och återföring.
 
-Vi skiljer hela tiden mellan:
-- det RFSU uttryckligen efterfrågar;
-- nationella vårdprinciper och styrande ramar;
-- Form & Flödes tolkning;
-- metodiska och analytiska förslag.
-
-## Genealogi
-
-Tidigare konceptuella versioner är bevarade i [backlog/historik](../99-backlog-historik/README.md). De raderas inte men är inte längre den aktiva tolkningsramen.
-
-## Uppdragets DNA
-
-[**Läs Uppdragets DNA**](uppdragets-dna.md)
+[**Se arbetsprocessen →**](../02-arbetsprocessen/README.md)  
+[**Se uppdragsdesignen →**](../09-visuellt-material/uppdragsdesign-v2.0.md)  
+[**Se valet av mottagningar →**](../03-val-av-mottagningar/README.md)
