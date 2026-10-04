@@ -1,18 +1,18 @@
-# Adrian Repka
+# AD
 
-![Adrian Repka](assets/adrian-repka-bw.webp)
+![AD](assets/adrian-repka-bw.webp)
 
 **Senior konsult**
 
 ## Profil
 
-**Adrian Repka är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsnära sammanhang.** Kombinationen ger uppdraget kompetens för att läsa organisation, praktik och jämlikhetsfrågor tillsammans.
+**AD är senior konsult med erfarenhet av processledning, normkritisk och intersektionell organisationsutveckling samt arbete i vård- och fertilitetsnära sammanhang.** Kombinationen ger uppdraget kompetens för att läsa organisation, praktik och jämlikhetsfrågor tillsammans.
 
-Adrians dokumenterade erfarenhet omfattar användarcentrerade flöden och multiprofessionell samverkan inom fertilitetsområdet, arbete med jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
+AD:s dokumenterade erfarenhet omfattar användarcentrerade flöden och multiprofessionell samverkan inom fertilitetsområdet, arbete med jämlik vård och makt i vårdsammanhang samt publicerad analys inom transspecifik hälso- och sjukvård.
 
 ## Relevant erfarenhet
 
-Adrians erfarenhet omfattar bland annat:
+AD:s erfarenhet omfattar bland annat:
 - processledning och processdesign;
 - kvalitativt intervjubaserat arbete;
 - normkritisk och intersektionell organisationsutveckling;
@@ -24,7 +24,7 @@ Adrians erfarenhet omfattar bland annat:
 
 ## Roll i RFSU-uppdraget
 
-**Adrian Repka medverkar som senior konsult i genomförandet av uppdraget utifrån de behov som uppstår genom processen.** Adrians kompetens kan användas genom hela uppdraget i exempelvis:
+**AD medverkar som senior konsult i genomförandet av uppdraget utifrån de behov som uppstår genom processen.** AD:s kompetens kan användas genom hela uppdraget i exempelvis:
 
 - processdesign och processledning;
 - design och genomförande av kvalitativt arbete;
