@@ -1,100 +1,48 @@
-# 04 — Analysmodellen 1.1
+# Analysmodellen
 
-Den aktiva analysmodellen utgår från [**Synopsis 1.1**](../01-uppdraget/synopsis-v1.1.md).
+**Analysmodellen följer hur nationella vårdprinciper blir faktisk vårdmöjlighet i tre olika verksamhetskontexter.** Samma struktur används i alla tre fallen och skapar en gemensam grund för jämförelse, syntes och rekommendationer.
 
-## Grundposition
+## Tre analytiska nivåer
 
-Analysen omprövar inte svensk hälso- och sjukvårds normativa ram. **Jämlik vård, personcentrering, holistisk/sammanhållen vård samt tillgänglighet och vårdval** skrivs fram från relevanta nationella styr- och kunskapsramar och används som benchmark.
+### Nationell vårdram
 
-[**Läs Nationell vårdram 0.1**](nationell-vardram-v0.1.md)
+**Den nationella vårdramen anger vad vården ska kunna möjliggöra.** Jämlik vård, personcentrering, sammanhållen vård samt tillgänglighet och vårdval följer genom hela analysen.
 
-Analysens uppgift är att förstå **hur väl denna ram kan realiseras för de grupper som RFSU särskilt värnar om**.
+[**Läs den nationella vårdramen →**](nationell-vardram.md)
 
-## Tre nivåer
+### Realiseringssystem
 
-### 1. Nationell vårdram
-Vad ska vården möjliggöra?
+**Strukturella villkor och organisatorisk kapacitet formar den praktik som möter individen.** Mandat, finansiering, uppdrag, professioner, resurser, kontaktvägar, samverkan och tillträde analyseras tillsammans med verksamhetens konkreta arbetssätt.
 
-### 2. Realiseringssystem
-Hur formar strukturella villkor, organisatoriskt kapital och faktisk praktik det som blir möjligt?
+### Individens vårdrealiseringsresa
 
-### 3. Individens vårdrealiseringsresa
-Vad behöver en person faktiskt kunna göra, förstå och navigera för att få relevant vård?
+**Vårdrealiseringsresan följer den praktiska väg en person behöver kunna ta för att ett behov ska leda till relevant och genomförd vård.**
 
-[**Läs Individens vårdrealiseringsresa 0.1**](individens-vardrealiseringsresa-v0.1.md)
+> **Behov → orientering → vårdval/ingång → vårdkedja/navigation → relevant vård → genomförd vård → helhetsupplevelse**
+
+[**Läs om vårdrealiseringsresan →**](vardrealiseringsresa.md)
 
 ## Analyskedjan
 
-~~~text
-Nationell vårdram
-        ↓
-Strukturella villkor
-        ↓
-Organisatoriskt kapital
-        ↓
-Faktisk praktik
-        ↓
-Individens vårdrealiseringsresa
-Behov → orientering → vårdval/ingång →
-vårdkedja/navigation → relevant vård →
-genomförd vård → helhetsupplevelse
-        ↓
-Kvantitet + kvalitet
-        ↓
-Realiserbar vårdmöjlighet
-        ↓
-Jämlikhets- / gapanalys
-        ↓
-Hinder och möjliggörare
-        ↓
-Förbättring + överförbarhet
-~~~
+> **Nationell vårdram → strukturella villkor → organisatorisk kapacitet → faktisk praktik → vårdrealiseringsresa → realiserbar vårdmöjlighet → jämlikhetsgap → hinder och möjliggörare → förbättring och överförbarhet**
 
-## Hälsoliteracitet som gränssnitt
+**Kedjan gör det möjligt att följa hur en formell vårdprincip förändras när den möter regional organisering och vardaglig praktik.** Varje steg skapar underlag för nästa och håller analysen samman från källmaterial till rekommendation.
 
-Hälsoliteracitet används som en **relationell analyslins**, inte som ett individbetyg. Frågan är vilka krav systemet ställer på att personen ska kunna hitta, förstå, värdera, använda och navigera information och tjänster — och hur verksamheten minskar eller förstärker dessa krav.
+## Hälsolitteracitet och navigation
 
-Vi skiljer därför mellan:
+**Hälsolitteracitet används som en relationell analyslins mellan individ och system.** Analysen uppmärksammar vilka krav vårdens organisation ställer på att personen ska kunna hitta, förstå, värdera, välja, använda och navigera information och tjänster och vilket stöd verksamheten skapar längs vägen.
 
-- **teoretisk vårdresa** — den väg systemet formellt innebär att personen ska kunna ta;
-- **praktisk vårdresa** — den väg personen faktiskt behöver och kan ta.
+## Tre fall med samma materialstruktur
 
-Gapet mellan dem kan synliggöra extra steg, hänvisningar, egen koordinering och andra friktioner som påverkar jämlik tillgång.
+**De tre mottagningarna analyseras genom samma grundstruktur i olika regionala och organisatoriska kontexter.** Varje fall kombinerar strukturellt material med ett koncentrerat kvalitativt block och sammanfattas genom samma analysfält.
 
-## Tre case — samma dataprotokoll
+> **Gemensam vårdram → tre fall → strukturellt material + kvalitativt block → tre jämförbara fallanalyser → tvärgående syntes → rekommendationer**
 
-Mottagningen är fortsatt case. Vårdrealiseringsresan är den analytiska bana som följs genom caset.
+## Tvärgående syntes
 
-De tre mottagningarna analyseras genom samma grundstruktur men i olika kontexter. Skillnader i geografi, huvudmannaskap, organisatorisk form, service scope och organisatoriskt kapital används som analyslinser — inte som rangordningskriterier.
+**Syntesen identifierar mekanismer och villkor som bär fungerande arbetssätt och prövar hur dessa kan utvecklas eller överföras.**
 
-## Praktisk proportionalitet
+> **Praktik → verksam mekanism → möjliggörande villkor → jämlikhetsimplikation → överförbarhet → rekommendation**
 
-Analysmodellen är medvetet rikare än den praktiska studien.
-
-> **Analytisk komplexitet får inte automatiskt skapa metodisk eller empirisk komplexitet.**
-
-Grunddesignen är:
-
-**gemensam benchmark → tre case → kort strukturellt underlag + ett primärt empiriskt block per case → tre case sheets → tvär-case-syntes → rekommendationer.**
-
-Patientintervjuer, enkät, hälsoliteracitetsmätning och effektstudie ingår inte automatiskt.
-
-## Tvär-case syntes
-
-~~~text
-Likheter / skillnader
-        ↓
-Vårdresans friktion och navigationskrav
-        ↓
-Verksam mekanism
-        ↓
-Jämlikhetsimplikation
-        ↓
-Överförbarhet
-        ↓
-Rekommendation
-~~~
-
-## Versionsprincip
-
-Analysmodell 1.0 är bevarad i [backlog/historik](../99-backlog-historik/analysmodell-v1.0.md). Synopsis 1.1 är den aktiva tolkningsramen.
+[**Se arbetsprocessen →**](../02-arbetsprocessen/README.md)  
+[**Se uppdragsdesignen →**](../09-visuellt-material/uppdragsdesign.md)
