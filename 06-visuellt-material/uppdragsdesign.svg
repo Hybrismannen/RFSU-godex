@@ -82,7 +82,7 @@
   <g transform="translate(1090,770)">
     <rect width="430" height="150" rx="24" class="card"/><text x="28" y="44" class="h2 ink">Seniort konsultteam</text>
     <circle cx="48" cy="82" r="18" fill="#4C87B9"/><text x="82" y="79" class="h3 ink">Linus Fast</text><text x="82" y="101" class="tiny muted">Huvudkonsult · arkitektur · syntes · leverans</text>
-    <circle cx="48" cy="125" r="18" fill="#3E9C8D"/><text x="82" y="122" class="h3 ink">Adrian Repka</text><text x="82" y="144" class="tiny muted">Senior konsult · medverkar genom genomförandet efter behov</text>
+    <circle cx="48" cy="125" r="18" fill="#3E9C8D"/><text x="82" y="122" class="h3 ink">AD</text><text x="82" y="144" class="tiny muted">Senior konsult · medverkar genom genomförandet efter behov</text>
   </g>
 
   <text x="80" y="970" class="tiny muted">Form &amp; Flöde · RFSU · Uppdragsdesign</text>
