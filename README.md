@@ -2,9 +2,17 @@
 
 ![Uppdragsdesign](06-visuellt-material/uppdragsdesign.svg)
 
+![Repository- och publiceringsarkitektur](06-visuellt-material/repository-publication-architecture.svg)
+
 [**Inlämningsexport — kopiera allt i ett block**](08-anbud/export.md) · [**Anbud**](08-anbud/anbud.md) · [**Uppdragsdesign**](06-visuellt-material/uppdragsdesign.md) · [**Konsultteam**](07-konsultprofil/README.md) · [**Uppdraget**](01-uppdraget/README.md) · [**Arbetsprocess**](02-arbetsprocessen/README.md) · [**Val av mottagningar**](03-val-av-mottagningar/README.md) · [**Analysmodell**](04-analysmodellen/README.md) · [**Källor**](05-kallor/README.md)
 
 **Den här samarbetsytan samlar Form & Flödes förslag till RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård för personer över ungdomsmottagningsålder.** Här går det att följa uppdragsförståelsen, urvalet av mottagningar, arbetsprocessen, analysmodellen, konsultteamet och anbudet som en sammanhängande helhet.
+
+## Från samarbetsyta till extern webbplats
+
+Den publika samarbetsytan är också källan för den externa webbplatsen. Den godkända webbversionen ligger i `site/` och är förberedd för Vercel-deployment från `main`. Den privata arbetsytan `RFSU-godex-FF` ligger uppströms och används för utveckling, analys, projektstyrning och kvalitetssäkring innan material lokaliseras och publiceras här.
+
+**Intern utveckling → godkänd publicering → publik GitHub-samarbetsyta → Vercel → extern webbplats**
 
 ## Uppdragsdesign
 
