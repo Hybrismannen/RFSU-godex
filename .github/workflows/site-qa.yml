@@ -1,0 +1,57 @@
+name: External site QA
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - '.github/workflows/site-qa.yml'
+  pull_request:
+    paths:
+      - 'site/**'
+      - '.github/workflows/site-qa.yml'
+
+jobs:
+  validate-site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate HTML
+        run: npx --yes html-validate@latest site/index.html
+
+      - name: Check JavaScript syntax
+        run: node --check site/app.js
+
+      - name: Check local assets and anchors
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const html = fs.readFileSync('site/index.html', 'utf8');
+          const failures = [];
+
+          const localTargets = [...html.matchAll(/(?:href|src)="\/([^"#?]+)"/g)].map(m => m[1]);
+          for (const target of new Set(localTargets)) {
+            const resolved = path.join('site', target);
+            if (!fs.existsSync(resolved)) failures.push(`Missing local target: /${target}`);
+          }
+
+          const ids = new Set([...html.matchAll(/\sid="([^"]+)"/g)].map(m => m[1]));
+          const anchors = [...html.matchAll(/href="#([^"]+)"/g)].map(m => m[1]);
+          for (const anchor of new Set(anchors)) {
+            if (!ids.has(anchor)) failures.push(`Missing anchor target: #${anchor}`);
+          }
+
+          if (failures.length) {
+            console.error(failures.join('\n'));
+            process.exit(1);
+          }
+          console.log(`Checked ${new Set(localTargets).size} local targets and ${new Set(anchors).size} anchors.`);
+          NODE
