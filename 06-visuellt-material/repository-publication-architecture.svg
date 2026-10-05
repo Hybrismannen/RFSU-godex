@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+<style>
+.bg{fill:#F7F5F1}.ink{fill:#17324D}.muted{fill:#607384}.card{fill:#fff;stroke:#D7DFE4;stroke-width:2}.line{stroke:#8EA1AF;stroke-width:4;fill:none}.h1{font:700 50px Arial,sans-serif}.h2{font:700 27px Arial,sans-serif}.h3{font:700 21px Arial,sans-serif}.body{font:400 18px Arial,sans-serif}.small{font:400 15px Arial,sans-serif}.tiny{font:400 13px Arial,sans-serif}
+</style>
+<filter id="s"><feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#17324D" flood-opacity=".10"/></filter>
+</defs>
+<rect width="1600" height="900" class="bg"/>
+<text x="76" y="82" class="h1 ink">RFSU Godex — så går materialet från arbetsyta till extern webbplats</text>
+<text x="78" y="120" class="body muted">Intern utveckling → godkänd publicering → publik samarbetsyta → Vercel → extern presentationsyta</text>
+
+<g transform="translate(70,215)">
+<rect width="330" height="405" rx="28" class="card" filter="url(#s)"/><rect width="330" height="18" rx="9" fill="#17324D"/>
+<text x="28" y="62" class="h2 ink">1 · INTERN KÄLLA</text><text x="28" y="94" class="small muted">RFSU-godex-FF · privat</text>
+<text x="28" y="137" class="body ink">Här utvecklas och kvalitetssäkras</text>
+<rect x="28" y="164" width="274" height="48" rx="14" fill="#DCECF7"/><text x="46" y="194" class="small ink">Uppdragslogik &amp; analys</text>
+<rect x="28" y="224" width="274" height="48" rx="14" fill="#DCECF7"/><text x="46" y="254" class="small ink">Urval, metod &amp; evidens</text>
+<rect x="28" y="284" width="274" height="48" rx="14" fill="#DCECF7"/><text x="46" y="314" class="small ink">Projektstyrning &amp; QA</text>
+<text x="28" y="370" class="tiny muted">Endast godkänt material går vidare.</text>
+</g>
+
+<path d="M410 418 H500" class="line"/><polygon points="500,418 482,408 482,428" fill="#8EA1AF"/>
+<text x="425" y="393" class="tiny muted">GODKÄND</text><text x="425" y="412" class="tiny muted">PUBLICERING</text>
+
+<g transform="translate(510,190)">
+<rect width="360" height="455" rx="28" class="card" filter="url(#s)"/><rect width="360" height="18" rx="9" fill="#3E9C8D"/>
+<text x="28" y="62" class="h2 ink">2 · PUBLIK SAMARBETSYTA</text><text x="28" y="94" class="small muted">RFSU-godex · GitHub</text>
+<text x="28" y="137" class="body ink">Svensk, spårbar klientyta</text>
+<rect x="28" y="164" width="304" height="48" rx="14" fill="#DDF1EA"/><text x="46" y="194" class="small ink">Uppdrag &amp; uppdragsdesign</text>
+<rect x="28" y="224" width="304" height="48" rx="14" fill="#DDF1EA"/><text x="46" y="254" class="small ink">Urval &amp; analysmodell</text>
+<rect x="28" y="284" width="304" height="48" rx="14" fill="#DDF1EA"/><text x="46" y="314" class="small ink">Konsultteam &amp; anbud</text>
+<rect x="28" y="344" width="304" height="48" rx="14" fill="#DDF1EA"/><text x="46" y="374" class="small ink">site/ — webbplatsens källkod</text>
+<text x="28" y="427" class="tiny muted">Publika dokument + webbkälla i samma repository.</text>
+</g>
+
+<path d="M880 418 H970" class="line"/><polygon points="970,418 952,408 952,428" fill="#8EA1AF"/>
+<text x="897" y="393" class="tiny muted">PUSH TILL</text><text x="897" y="412" class="tiny muted">MAIN</text>
+
+<g transform="translate(980,250)">
+<rect width="240" height="335" rx="28" class="card" filter="url(#s)"/><rect width="240" height="18" rx="9" fill="#111"/>
+<text x="28" y="62" class="h2 ink">3 · VERCEL</text><text x="28" y="94" class="small muted">deployment</text>
+<circle cx="120" cy="172" r="62" fill="#111"/><path d="M120 128 L166 208 H74 Z" fill="#fff"/>
+<text x="28" y="273" class="small ink">Root: site/</text><text x="28" y="301" class="small ink">Branch: main</text>
+</g>
+
+<path d="M1230 418 H1320" class="line"/><polygon points="1320,418 1302,408 1302,428" fill="#8EA1AF"/>
+
+<g transform="translate(1330,250)">
+<rect width="200" height="335" rx="28" class="card" filter="url(#s)"/><rect width="200" height="18" rx="9" fill="#D9973F"/>
+<text x="24" y="62" class="h2 ink">4 · WEBB</text><text x="24" y="94" class="small muted">extern UX</text>
+<text x="24" y="148" class="small ink">Läsbar</text><text x="24" y="179" class="small ink">responsiv</text><text x="24" y="210" class="small ink">narrativ</text><text x="24" y="256" class="small ink">för RFSU</text><text x="24" y="287" class="small ink">och andra läsare</text>
+</g>
+
+<g transform="translate(70,710)">
+<rect width="1460" height="110" rx="22" class="card"/>
+<text x="28" y="41" class="h3 ink">Grundregel</text>
+<text x="28" y="73" class="body ink">Intern utveckling hålls separat från publik kommunikation. Vercel publicerar endast den godkända webbkälla som ligger i den publika samarbetsytans site/-mapp.</text>
+</g>
+<text x="76" y="872" class="tiny muted">Form &amp; Flöde · RFSU Godex · publik systemkarta · GitHub + Vercel</text>
+</svg>
