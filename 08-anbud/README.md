@@ -1,9 +1,13 @@
-# Anbud
+# Anbud — avslutad process
 
-**Anbudet samlar Form & Flödes slutliga förslag till hur RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård kan genomföras.** Den publika anbudssidan är harmoniserad mot slutversionen daterad 4 oktober 2026, med integritetssäkring av privata kontaktuppgifter.
+**Anbudet samlar Form & Flödes slutliga förslag till hur RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård kunde genomföras.** Anbudet lämnades in men tilldelades inte. RFSU valde andra kandidater med mer specifik erfarenhet av forskningssamarbeten inom svensk vårdkontext. Den publika anbudssidan är harmoniserad mot slutversionen daterad 4 oktober 2026, med integritetssäkring av privata kontaktuppgifter.
 
 [**Öppna inlämningsexporten →**](export.md)  
 [**Öppna det fullständiga publika anbudet →**](anbud.md)
+
+## Status
+
+**Avslutad anbudsprocess — ej tilldelat.** Materialet ligger kvar som dokumentation av anbudsdesign och metodutveckling.
 
 ## Slutversionskontroll
 
