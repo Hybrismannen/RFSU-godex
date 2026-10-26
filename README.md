@@ -1,4 +1,4 @@
-# RFSU Godex — kartläggning av jämlik SRHR-vård
+# RFSU Godex — anbudsdesign för kartläggning av jämlik SRHR-vård
 
 ![Uppdragsdesign](06-visuellt-material/uppdragsdesign.svg)
 
@@ -6,7 +6,11 @@
 
 [**Inlämningsexport — kopiera allt i ett block**](08-anbud/export.md) · [**Anbud**](08-anbud/anbud.md) · [**Uppdragsdesign**](06-visuellt-material/uppdragsdesign.md) · [**Konsultteam**](07-konsultprofil/README.md) · [**Uppdraget**](01-uppdraget/README.md) · [**Arbetsprocess**](02-arbetsprocessen/README.md) · [**Val av mottagningar**](03-val-av-mottagningar/README.md) · [**Analysmodell**](04-analysmodellen/README.md) · [**Källor**](05-kallor/README.md)
 
-**Den här samarbetsytan samlar Form & Flödes förslag till RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård för personer över ungdomsmottagningsålder.** Här går det att följa uppdragsförståelsen, urvalet av mottagningar, arbetsprocessen, analysmodellen, konsultteamet och anbudet som en sammanhängande helhet.
+**Den här samarbetsytan dokumenterar Form & Flödes anbudsdesign för RFSU:s kartläggning och analys av goda exempel på jämlik SRHR-vård för personer över ungdomsmottagningsålder.** Anbudet lämnades in men tilldelades inte; RFSU valde andra kandidater med mer specifik erfarenhet av forskningssamarbeten inom svensk vårdkontext. Materialet bevaras som metod- och anbudsgenealogi.
+
+## Status
+
+**Anbudsprocessen är avslutad — ej tilldelat.** Den publika ytan bevaras som dokumentation av uppdragsdesign, metod och anbudsprocess och ska inte läsas som ett pågående RFSU-uppdrag.
 
 ## Från samarbetsyta till extern webbplats
 
